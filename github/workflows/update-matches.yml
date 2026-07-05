@@ -1,0 +1,36 @@
+name: Update Matches Data
+
+on:
+  schedule:
+    # يعمل كل ساعتين (بتوقيت UTC)
+    - cron: '0 */2 * * *'
+  # يسمح لك بتشغيله يدوياً من تبويب Actions لأي وقت تريد
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-matches:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Fetch matches from football-data.org
+        env:
+          FOOTBALL_DATA_API_KEY: ${{ secrets.FOOTBALL_DATA_API_KEY }}
+        run: node scripts/fetch-matches.js
+
+      - name: Commit and push matches.json if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add matches.json
+          git diff --staged --quiet || git commit -m "تحديث تلقائي لمباريات اليوم [skip ci]"
+          git push
