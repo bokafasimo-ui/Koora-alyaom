@@ -1,0 +1,572 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+<title>مركز المباريات المباشر</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cairo:wght@400;600;700;800&display=swap" rel="stylesheet">
+
+<style>
+  :root{
+    --bg-deep:#0b0f19;
+    --bg-panel:#10151f;
+    --bg-panel-2:#141b28;
+    --neon-blue:#00f2fe;
+    --neon-green:#00ffb0;
+    --live-red:#ff2d55;
+    --text-main:#eef2f7;
+    --text-dim:#8b93a7;
+    --border-soft:rgba(255,255,255,0.06);
+  }
+
+  *{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+  }
+
+  html,body{
+    background:var(--bg-deep);
+    color:var(--text-main);
+    font-family:'Cairo', sans-serif;
+    min-height:100%;
+    -webkit-font-smoothing:antialiased;
+  }
+
+  body{
+    background:
+      radial-gradient(circle at 15% 0%, rgba(0,242,254,0.07), transparent 40%),
+      radial-gradient(circle at 90% 10%, rgba(0,255,176,0.05), transparent 45%),
+      var(--bg-deep);
+    padding:16px;
+  }
+
+  /* ===== Header ===== */
+  header{
+    max-width:1200px;
+    margin:0 auto 20px auto;
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
+    padding:14px 18px;
+    background:linear-gradient(180deg, var(--bg-panel), var(--bg-panel-2));
+    border:1px solid var(--border-soft);
+    border-radius:18px;
+    box-shadow:0 10px 30px rgba(0,0,0,0.45);
+  }
+
+  .brand{
+    display:flex;
+    align-items:center;
+    gap:10px;
+    font-weight:800;
+    font-size:1.15rem;
+    letter-spacing:0.3px;
+  }
+
+  .brand .dot{
+    width:10px;
+    height:10px;
+    border-radius:50%;
+    background:var(--neon-green);
+    box-shadow:0 0 10px var(--neon-green), 0 0 20px var(--neon-green);
+  }
+
+  .brand span.accent{
+    background:linear-gradient(90deg, var(--neon-blue), var(--neon-green));
+    -webkit-background-clip:text;
+    background-clip:text;
+    color:transparent;
+  }
+
+  .live-tag{
+    display:flex;
+    align-items:center;
+    gap:8px;
+    background:rgba(255,45,85,0.1);
+    border:1px solid rgba(255,45,85,0.35);
+    color:var(--live-red);
+    font-weight:700;
+    font-size:0.8rem;
+    padding:6px 14px;
+    border-radius:999px;
+  }
+
+  .pulse-dot{
+    width:9px;
+    height:9px;
+    border-radius:50%;
+    background:var(--live-red);
+    box-shadow:0 0 0 0 rgba(255,45,85,0.7);
+    animation:pulse 1.6s infinite;
+  }
+
+  @keyframes pulse{
+    0%{ box-shadow:0 0 0 0 rgba(255,45,85,0.6); }
+    70%{ box-shadow:0 0 0 10px rgba(255,45,85,0); }
+    100%{ box-shadow:0 0 0 0 rgba(255,45,85,0); }
+  }
+
+  /* ===== Layout ===== */
+  main{
+    max-width:1200px;
+    margin:0 auto;
+    display:grid;
+    grid-template-columns:1fr;
+    gap:20px;
+  }
+
+  @media (min-width:960px){
+    main{
+      grid-template-columns:1.15fr 1fr;
+      align-items:start;
+    }
+  }
+
+  section.card{
+    background:linear-gradient(180deg, var(--bg-panel), var(--bg-panel-2));
+    border:1px solid var(--border-soft);
+    border-radius:20px;
+    box-shadow:0 15px 40px rgba(0,0,0,0.5);
+    overflow:hidden;
+  }
+
+  .card-header{
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
+    padding:16px 18px;
+    border-bottom:1px solid var(--border-soft);
+  }
+
+  .card-header h2{
+    font-size:1rem;
+    font-weight:700;
+    display:flex;
+    align-items:center;
+    gap:8px;
+  }
+
+  .card-header h2 .icon{
+    color:var(--neon-blue);
+    font-size:1.1rem;
+  }
+
+  .badge-soft{
+    font-size:0.7rem;
+    color:var(--text-dim);
+    border:1px solid var(--border-soft);
+    padding:4px 10px;
+    border-radius:999px;
+  }
+
+  /* ===== Matches List Section ===== */
+  .scores-body{
+    padding:12px;
+    background:#0d1220;
+    min-height:200px;
+  }
+
+  .match-list{
+    display:flex;
+    flex-direction:column;
+    gap:10px;
+  }
+
+  .match-item{
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
+    gap:10px;
+    background:linear-gradient(180deg, #131a28, #10151f);
+    border:1px solid var(--border-soft);
+    border-radius:14px;
+    padding:12px 14px;
+    cursor:pointer;
+    transition:border-color .15s ease, transform .15s ease, box-shadow .15s ease;
+  }
+
+  .match-item:hover,
+  .match-item:focus-visible{
+    border-color:rgba(0,242,254,0.45);
+    transform:translateY(-1px);
+    box-shadow:0 8px 20px rgba(0,242,254,0.08);
+    outline:none;
+  }
+
+  .match-teams{
+    display:flex;
+    align-items:center;
+    gap:8px;
+    font-weight:700;
+    font-size:0.92rem;
+  }
+
+  .match-teams .vs{
+    color:var(--text-dim);
+    font-weight:400;
+    font-size:0.75rem;
+  }
+
+  .match-meta{
+    display:flex;
+    flex-direction:column;
+    align-items:flex-end;
+    gap:4px;
+  }
+
+  .match-league{
+    font-size:0.68rem;
+    color:var(--text-dim);
+  }
+
+  .match-time{
+    font-size:0.75rem;
+    font-weight:700;
+    color:var(--neon-blue);
+    background:rgba(0,242,254,0.08);
+    border:1px solid rgba(0,242,254,0.25);
+    padding:3px 10px;
+    border-radius:999px;
+  }
+
+  .match-time.live{
+    color:var(--live-red);
+    background:rgba(255,45,85,0.08);
+    border-color:rgba(255,45,85,0.3);
+  }
+
+  .match-item.disabled{
+    cursor:not-allowed;
+    opacity:0.55;
+  }
+
+  .match-item.disabled:hover{
+    border-color:var(--border-soft);
+    transform:none;
+    box-shadow:none;
+  }
+
+  .list-state{
+    text-align:center;
+    color:var(--text-dim);
+    font-size:0.85rem;
+    padding:30px 10px;
+  }
+
+
+
+  /* ===== Stream Section ===== */
+  .stream-body{
+    padding:16px;
+  }
+
+  .video-container{
+    position:relative;
+    width:100%;
+    padding-top:56.25%; /* 16:9 */
+    background:#000;
+    border-radius:14px;
+    overflow:hidden;
+    border:1px solid var(--border-soft);
+    box-shadow:inset 0 0 0 1px rgba(255,255,255,0.02), 0 10px 25px rgba(0,0,0,0.5);
+  }
+
+  .video-container .frame-inner{
+    position:absolute;
+    inset:0;
+    width:100%;
+    height:100%;
+    border:0;
+    background:radial-gradient(circle at 50% 40%, #131a28, #05070d 75%);
+  }
+
+  .video-placeholder{
+    position:absolute;
+    inset:0;
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    justify-content:center;
+    gap:10px;
+    color:var(--text-dim);
+    text-align:center;
+    padding:20px;
+  }
+
+  .video-placeholder .play-btn{
+    width:64px;
+    height:64px;
+    border-radius:50%;
+    background:linear-gradient(135deg, var(--neon-blue), var(--neon-green));
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    box-shadow:0 0 25px rgba(0,242,254,0.35);
+  }
+
+  .video-placeholder .play-btn::after{
+    content:'';
+    border-style:solid;
+    border-width:10px 0 10px 16px;
+    border-color:transparent transparent transparent #0b0f19;
+    margin-right:-3px;
+  }
+
+  .video-placeholder strong{
+    color:var(--text-main);
+    font-size:0.95rem;
+  }
+
+  .video-placeholder small{
+    font-size:0.75rem;
+    line-height:1.6;
+    max-width:320px;
+  }
+
+  .stream-footer{
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
+    margin-top:14px;
+    flex-wrap:wrap;
+    gap:10px;
+  }
+
+  .live-badge-lg{
+    display:flex;
+    align-items:center;
+    gap:8px;
+    background:rgba(0,255,176,0.08);
+    border:1px solid rgba(0,255,176,0.3);
+    color:var(--neon-green);
+    font-weight:700;
+    font-size:0.8rem;
+    padding:8px 16px;
+    border-radius:999px;
+  }
+
+  .stream-footer .note{
+    color:var(--text-dim);
+    font-size:0.72rem;
+  }
+
+  footer{
+    max-width:1200px;
+    margin:24px auto 10px auto;
+    text-align:center;
+    color:var(--text-dim);
+    font-size:0.75rem;
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="brand">
+    <span class="dot"></span>
+    مركز <span class="accent">المباريات</span>
+  </div>
+  <div class="live-tag">
+    <span class="pulse-dot"></span>
+    مباشر الآن • LIVE
+  </div>
+</header>
+
+<main>
+
+  <!-- قسم جدول المباريات -->
+  <section class="card">
+    <div class="card-header">
+      <h2><span class="icon">⚽</span> جدول مباريات اليوم</h2>
+      <span class="badge-soft">تحديث تلقائي</span>
+    </div>
+    <div class="scores-body">
+      <div id="matchList" class="match-list">
+        <div class="list-state">جارِ تحميل مباريات اليوم…</div>
+      </div>
+    </div>
+  </section>
+
+  <!-- قسم البث المباشر -->
+  <section class="card" id="streamSection">
+    <div class="card-header">
+      <h2><span class="icon">📺</span> البث المباشر</h2>
+      <span class="badge-soft">HD</span>
+    </div>
+    <div class="stream-body">
+      <div class="video-container">
+        <!-- سيتم إدراج iframe البث هنا تلقائياً عبر الجافاسكريبت عند توفر رابط -->
+        <iframe id="streamFrame" class="frame-inner" style="display:none" allowfullscreen allow="autoplay; fullscreen"></iframe>
+
+        <div class="video-placeholder" id="streamPlaceholder">
+          <div class="play-btn"></div>
+          <strong id="streamTitle">لا يوجد بث نشط حالياً</strong>
+          <small>سيظهر البث هنا تلقائياً بمجرد ضبط رابط CURRENT_LIVE_STREAM_URL في الكود.</small>
+        </div>
+      </div>
+
+      <div class="stream-footer">
+        <div class="live-badge-lg">
+          <span class="pulse-dot"></span>
+          جاهز للبث
+        </div>
+        <span class="note">يرجى استخدام مصادر بث مرخّصة فقط</span>
+      </div>
+    </div>
+  </section>
+
+</main>
+
+<footer>
+  جميع الحقوق محفوظة — تصميم فاخر لعشاق الرياضة
+</footer>
+
+<script>
+/* =========================================================
+   إعدادات الـ API — عدّل هذا الجزء فقط عند ربط مصدر بياناتك
+   =========================================================
+   API_URL  : رابط الـ API الذي يرجع مباريات اليوم بصيغة JSON
+   API_KEY  : مفتاح الـ API إن كان مطلوباً (اتركه فارغاً "" إن لم يكن هناك مفتاح)
+   API_HEADER_NAME : اسم الترويسة (Header) التي يتوقعها الـ API لإرسال المفتاح
+                     (بعض الخدمات تستخدم "x-apisports-key" أو "Authorization" ...الخ)
+   ========================================================= */
+  /* =========================================================
+     مصدر بيانات المباريات
+     =========================================================
+     الصفحة لا تتصل بأي API مباشرة ولا تحتوي على أي مفتاح سري.
+     البيانات تُقرأ من ملف matches.json الموجود في نفس المستودع،
+     وهذا الملف يُحدَّث تلقائياً كل ساعتين بواسطة GitHub Actions.
+     ========================================================= */
+  const CONFIG = {
+    MATCHES_FILE: "matches.json"
+  };
+
+  /* =========================================================
+     رابط البث المباشر الحالي — عدّله يدوياً وقت أي مباراة تريد بثها
+     =========================================================
+     غيّر هذا الرابط فقط عند بدء أي مباراة تريد مشاهدتها،
+     وسيتحدث مشغل الفيديو تلقائياً لكل الزوار الذين يفتحون الصفحة.
+     ========================================================= */
+  const CURRENT_LIVE_STREAM_URL = "ضع_رابط_البث_الحالي_هنا";
+
+  const matchListEl = document.getElementById('matchList');
+  const streamFrame = document.getElementById('streamFrame');
+  const streamPlaceholder = document.getElementById('streamPlaceholder');
+  const streamTitle = document.getElementById('streamTitle');
+  const streamSection = document.getElementById('streamSection');
+
+  /* -----------------------------------------------------------
+     تهيئة المشغل الرئيسي عند تحميل الصفحة
+     إذا كان CURRENT_LIVE_STREAM_URL مضبوطاً برابط حقيقي، يظهر المشغل مباشرة
+  ----------------------------------------------------------- */
+  function initPlayer(){
+    const hasValidUrl = CURRENT_LIVE_STREAM_URL && CURRENT_LIVE_STREAM_URL !== "ضع_رابط_البث_الحالي_هنا";
+
+    if(hasValidUrl){
+      streamFrame.src = CURRENT_LIVE_STREAM_URL;
+      streamFrame.style.display = 'block';
+      streamPlaceholder.style.display = 'none';
+    } else {
+      streamFrame.style.display = 'none';
+      streamPlaceholder.style.display = 'flex';
+    }
+  }
+
+  /* -----------------------------------------------------------
+     دالة عرض قائمة المباريات في الواجهة
+     تتوقع مصفوفة عناصر بالشكل التالي (عدّلها حسب استجابة API الخاص بك):
+     {
+       home: "اسم الفريق الأول",
+       away: "اسم الفريق الثاني",
+       league: "اسم البطولة",
+       time: "20:00",
+       isLive: false   // true إذا كانت المباراة جارية الآن
+     }
+  ----------------------------------------------------------- */
+  function renderMatches(matches){
+    matchListEl.innerHTML = "";
+
+    if(!matches || matches.length === 0){
+      matchListEl.innerHTML = '<div class="list-state">لا توجد مباريات مجدولة اليوم</div>';
+      return;
+    }
+
+    matches.forEach((match) => {
+      const item = document.createElement('div');
+      const hasStream = match.isLive;
+
+      item.className = 'match-item' + (hasStream ? '' : ' disabled');
+
+      if(hasStream){
+        item.setAttribute('tabindex', '0');
+        item.setAttribute('role', 'button');
+      }
+
+      item.innerHTML = `
+        <div class="match-teams">
+          ${escapeHtml(match.home)} <span class="vs">ضد</span> ${escapeHtml(match.away)}
+        </div>
+        <div class="match-meta">
+          <span class="match-league">${escapeHtml(match.league || '')}</span>
+          <span class="match-time ${match.isLive ? 'live' : ''}">
+            ${match.isLive ? 'مباشر الآن' : escapeHtml(match.time || '')}
+          </span>
+        </div>
+      `;
+
+      if(hasStream){
+        const openStream = () => goToStream(match);
+        item.addEventListener('click', openStream);
+        item.addEventListener('keydown', (e) => {
+          if(e.key === 'Enter' || e.key === ' '){ e.preventDefault(); openStream(); }
+        });
+      }
+
+      matchListEl.appendChild(item);
+    });
+  }
+
+  /* -----------------------------------------------------------
+     عند الضغط على مباراة جارية حالياً: الانتقال لقسم البث
+     المشغل يعرض دائماً نفس CURRENT_LIVE_STREAM_URL، فقط ينتقل إليه ويحدّث العنوان
+  ----------------------------------------------------------- */
+  function goToStream(match){
+    streamTitle.textContent = `${match.home} ضد ${match.away}`;
+    streamSection.scrollIntoView({ behavior: 'smooth', block: 'start' });
+  }
+
+  function escapeHtml(str){
+    return String(str ?? "")
+      .replace(/&/g,"&amp;")
+      .replace(/</g,"&lt;")
+      .replace(/>/g,"&gt;");
+  }
+
+  /* -----------------------------------------------------------
+     جلب بيانات مباريات اليوم من ملف matches.json (بدون أي مفتاح)
+  ----------------------------------------------------------- */
+  async function loadTodayMatches(){
+    try{
+      // إضافة معامل عشوائي لمنع المتصفح من تخزين نسخة قديمة (Cache)
+      const res = await fetch(`${CONFIG.MATCHES_FILE}?t=${Date.now()}`);
+      if(!res.ok) throw new Error('تعذّر قراءة ملف matches.json');
+
+      const data = await res.json();
+      const matches = Array.isArray(data) ? data : (data.matches || []);
+
+      renderMatches(matches);
+    }catch(err){
+      matchListEl.innerHTML = '<div class="list-state">تعذّر تحميل المباريات حالياً، حاول لاحقاً.</div>';
+      console.error(err);
+    }
+  }
+
+  initPlayer();
+  loadTodayMatches();
+</script>
+
+</body>
+</html>
