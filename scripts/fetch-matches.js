@@ -1,37 +1,33 @@
-/**
- * هذا السكريبت يعمل فقط داخل GitHub Actions (على خوادم GitHub)
- * ولا يعمل في المتصفح، وبالتالي مفتاح الـ API لا يُكشف أبداً للزوار.
- *
- * المصدر المستخدم: football-data.org
- * التوثيق: https://www.football-data.org/documentation/quickstart
- *
- * وظيفته:
- * 1. جلب مباريات اليوم من football-data.org باستخدام المفتاح السري.
- * 2. تحويلها إلى صيغة بسيطة تناسب صفحتنا.
- * 3. حفظها في ملف matches.json داخل المستودع.
- */
-
 const fs = require('fs');
 
 const API_KEY = process.env.FOOTBALL_DATA_API_KEY;
 const API_HOST = 'api.football-data.org';
 
 if (!API_KEY) {
-  console.error('❌ لم يتم العثور على المفتاح FOOTBALL_DATA_API_KEY. تأكد من إضافته في GitHub Secrets.');
+  console.error('Missing FOOTBALL_DATA_API_KEY secret.');
   process.exit(1);
 }
 
-// الحالات التي تعني أن المباراة جارية الآن فعلياً (مباشر)
-// راجع التوثيق: TIMED, SCHEDULED, LIVE, IN_PLAY, PAUSED, FINISHED, POSTPONED, SUSPENDED, CANCELLED
 const LIVE_STATUSES = new Set(['LIVE', 'IN_PLAY', 'PAUSED']);
 
 function todayDateUTC() {
-  return new Date().toISOString().split('T')[0]; // YYYY-MM-DD
+  return new Date().toISOString().split('T')[0];
+}
+
+function addDaysUTC(dateStr, days) {
+  const d = new Date(`${dateStr}T00:00:00Z`);
+  d.setUTCDate(d.getUTCDate() + days);
+  return d.toISOString().split('T')[0];
 }
 
 async function main() {
-  const date = todayDateUTC();
-  const url = `https://${API_HOST}/v4/matches?dateFrom=${date}&dateTo=${date}`;
+  const today = todayDateUTC();
+  const dateFrom = addDaysUTC(today, -1);
+  const dateTo = addDaysUTC(today, 1);
+
+  const COMPETITIONS = 'WC,CL,PL,PD,BL1,SA,FL1,ELC,PPL,DED,EC,BSA';
+
+  const url = `https://${API_HOST}/v4/matches?dateFrom=${dateFrom}&dateTo=${dateTo}&competitions=${COMPETITIONS}`;
 
   const res = await fetch(url, {
     headers: {
@@ -40,11 +36,15 @@ async function main() {
   });
 
   if (!res.ok) {
-    throw new Error(`فشل الاتصال بالـ API: ${res.status} ${res.statusText}`);
+    const errBody = await res.text().catch(() => '');
+    throw new Error(`API request failed: ${res.status} ${res.statusText} - ${errBody}`);
   }
 
   const data = await res.json();
   const fixtures = data.matches || [];
+
+  console.log(`URL used: ${url}`);
+  console.log(`Matches returned: ${fixtures.length}`);
 
   const matches = fixtures.map((f) => {
     const status = f.status || '';
@@ -63,6 +63,7 @@ async function main() {
       home: f.homeTeam?.name || '',
       away: f.awayTeam?.name || '',
       league: f.competition?.name || '',
+      date: utcDate ? utcDate.toISOString().split('T')[0] : '',
       time,
       isLive: LIVE_STATUSES.has(status),
     };
@@ -74,10 +75,10 @@ async function main() {
   };
 
   fs.writeFileSync('matches.json', JSON.stringify(output, null, 2), 'utf-8');
-  console.log(`✅ تم حفظ ${matches.length} مباراة في matches.json`);
+  console.log(`Saved ${matches.length} matches to matches.json`);
 }
 
 main().catch((err) => {
-  console.error('❌ حدث خطأ:', err);
+  console.error('Error:', err);
   process.exit(1);
 });
