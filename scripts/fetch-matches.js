@@ -24,6 +24,7 @@ if (!API_KEY) {
 // الحالات التي تعني أن المباراة جارية الآن فعلياً (مباشر)
 // راجع التوثيق: TIMED, SCHEDULED, LIVE, IN_PLAY, PAUSED, FINISHED, POSTPONED, SUSPENDED, CANCELLED
 const LIVE_STATUSES = new Set(['LIVE', 'IN_PLAY', 'PAUSED']);
+const FINISHED_STATUSES = new Set(['FINISHED', 'AWARDED']);
 
 function todayDateUTC() {
   return new Date().toISOString().split('T')[0]; // YYYY-MM-DD
@@ -80,6 +81,9 @@ async function main() {
       date: utcDate ? utcDate.toISOString().split('T')[0] : '',
       time,
       isLive: LIVE_STATUSES.has(status),
+      isFinished: FINISHED_STATUSES.has(status),
+      homeScore: f.score?.fullTime?.home ?? null,
+      awayScore: f.score?.fullTime?.away ?? null,
     };
   });
 
