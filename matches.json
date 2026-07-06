@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-06T00:31:57.908Z",
+  "updatedAt": "2026-07-06T01:07:12.377Z",
   "matches": [
     {
       "home": "Brazil",
@@ -15,7 +15,7 @@
       "league": "FIFA World Cup",
       "date": "2026-07-06",
       "time": "01:00 GMT",
-      "isLive": false
+      "isLive": true
     },
     {
       "home": "Portugal",
