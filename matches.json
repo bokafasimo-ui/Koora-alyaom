@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-06T01:07:12.377Z",
+  "updatedAt": "2026-07-06T01:41:37.475Z",
   "matches": [
     {
       "home": "Brazil",
@@ -7,7 +7,10 @@
       "league": "FIFA World Cup",
       "date": "2026-07-05",
       "time": "20:00 GMT",
-      "isLive": false
+      "isLive": false,
+      "isFinished": true,
+      "homeScore": 1,
+      "awayScore": 2
     },
     {
       "home": "Mexico",
@@ -15,7 +18,10 @@
       "league": "FIFA World Cup",
       "date": "2026-07-06",
       "time": "01:00 GMT",
-      "isLive": true
+      "isLive": true,
+      "isFinished": false,
+      "homeScore": 0,
+      "awayScore": 1
     },
     {
       "home": "Portugal",
@@ -23,7 +29,10 @@
       "league": "FIFA World Cup",
       "date": "2026-07-06",
       "time": "19:00 GMT",
-      "isLive": false
+      "isLive": false,
+      "isFinished": false,
+      "homeScore": null,
+      "awayScore": null
     },
     {
       "home": "United States",
@@ -31,7 +40,10 @@
       "league": "FIFA World Cup",
       "date": "2026-07-07",
       "time": "00:00 GMT",
-      "isLive": false
+      "isLive": false,
+      "isFinished": false,
+      "homeScore": null,
+      "awayScore": null
     }
   ]
 }
