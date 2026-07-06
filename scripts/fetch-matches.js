@@ -60,6 +60,7 @@ async function main() {
 
   const data = await res.json();
   const fixtures = data.matches || [];
+  fixtures.sort((a, b) => new Date(a.utcDate) - new Date(b.utcDate));
 
   console.log(`ℹ️ الرابط المستخدم: ${url}`);
   console.log(`ℹ️ عدد المباريات المسترجعة من الـ API: ${fixtures.length}`);
