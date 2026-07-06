@@ -10,9 +10,9 @@
 
 <style>
   :root{
-    --bg-deep:#232b3d;
-    --bg-panel:#2a3346;
-    --bg-panel-2:#303a50;
+    --bg-deep:#2c3548;
+    --bg-panel:#333d54;
+    --bg-panel-2:#3a455e;
     --neon-blue:#00f2fe;
     --neon-green:#00ffb0;
     --live-red:#ff2d55;
@@ -165,7 +165,7 @@
   /* ===== Matches List Section ===== */
   .scores-body{
     padding:12px;
-    background:#2a3346;
+    background:#333d54;
     min-height:200px;
   }
 
@@ -201,6 +201,7 @@
     font-size:0.72rem;
     font-weight:700;
     color:var(--text-dim);
+    text-align:center;
     border-bottom:1px solid var(--border-soft);
     padding-bottom:8px;
   }
@@ -562,7 +563,7 @@
     }
     const code = TEAM_FLAG_CODES[teamName];
     if(code){
-      return `<img class="team-flag-img" src="https://flagcdn.com/w80/${code}.png" alt="${escapeHtml(teamName)}" loading="lazy">`;
+      return `<img class="team-flag-img" src="https://flagcdn.com/w80/${code}.png" alt="${escapeHtml(teamName)}" loading="lazy" onerror="this.outerHTML='<span class=\\'team-flag\\'>⚽</span>'">`;
     }
     return `<span class="team-flag">⚽</span>`;
   }
