@@ -89,14 +89,14 @@ async function main() {
       awayPenalties: f.score?.penalties?.away ?? null,
     };
   });
-
+const todayOnlyMatches = matches.filter((m) => m.date === today);
   const output = {
     updatedAt: new Date().toISOString(),
-    matches,
+    matches: todayOnlyMatches,
   };
 
   fs.writeFileSync('matches.json', JSON.stringify(output, null, 2), 'utf-8');
-  console.log(`✅ تم حفظ ${matches.length} مباراة في matches.json`);
+  console.log(`✅ تم حفظ ${todayOnlyMatches.length} مباراة في matches.json (من أصل ${matches.length} مسترجعة)`);
 }
 
 main().catch((err) => {
