@@ -40,7 +40,7 @@ async function main() {
   const today = todayDateUTC();
   // نوسّع النطاق يوماً قبل ويوماً بعد لتفادي فقدان مباريات بسبب فرق التوقيت (UTC مقابل توقيتك المحلي)
   const dateFrom = addDaysUTC(today, -1);
-  const dateTo = addDaysUTC(today, 1);
+ const dateTo = addDaysUTC(today, 2); 
 
   // تحديد البطولات المجانية المتاحة صريحاً (يشمل كأس العالم WC)
   const COMPETITIONS = 'WC,CL,PL,PD,BL1,SA,FL1,ELC,PPL,DED,EC,BSA';
