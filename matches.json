@@ -1,36 +1,12 @@
 {
-  "updatedAt": "2026-07-05T23:20:07.109Z",
+  "updatedAt": "2026-07-06T00:31:57.908Z",
   "matches": [
-    {
-      "home": "Colombia",
-      "away": "Ghana",
-      "league": "FIFA World Cup",
-      "date": "2026-07-04",
-      "time": "٠١:٣٠",
-      "isLive": false
-    },
-    {
-      "home": "Canada",
-      "away": "Morocco",
-      "league": "FIFA World Cup",
-      "date": "2026-07-04",
-      "time": "١٧:٠٠",
-      "isLive": false
-    },
-    {
-      "home": "Paraguay",
-      "away": "France",
-      "league": "FIFA World Cup",
-      "date": "2026-07-04",
-      "time": "٢١:٠٠",
-      "isLive": false
-    },
     {
       "home": "Brazil",
       "away": "Norway",
       "league": "FIFA World Cup",
       "date": "2026-07-05",
-      "time": "٢٠:٠٠",
+      "time": "20:00 GMT",
       "isLive": false
     },
     {
@@ -38,7 +14,23 @@
       "away": "England",
       "league": "FIFA World Cup",
       "date": "2026-07-06",
-      "time": "٢٤:٠٠",
+      "time": "01:00 GMT",
+      "isLive": false
+    },
+    {
+      "home": "Portugal",
+      "away": "Spain",
+      "league": "FIFA World Cup",
+      "date": "2026-07-06",
+      "time": "19:00 GMT",
+      "isLive": false
+    },
+    {
+      "home": "United States",
+      "away": "Belgium",
+      "league": "FIFA World Cup",
+      "date": "2026-07-07",
+      "time": "00:00 GMT",
       "isLive": false
     }
   ]
