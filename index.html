@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
-<title>مباريات اليوم المباشر</title>
+<title>مركز المباريات المباشر</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Cairo:wght@400;600;700;800&display=swap" rel="stylesheet">
@@ -173,6 +173,8 @@
     display:flex;
     flex-direction:column;
     gap:10px;
+    max-height:420px;
+    overflow-y:auto;
   }
 
   .match-item{
@@ -550,6 +552,22 @@
 
       matchListEl.appendChild(item);
     });
+
+    // ضبط ارتفاع القائمة تلقائياً ليعرض 5 مباريات بالضبط قبل التمرير الداخلي
+    const items = matchListEl.querySelectorAll('.match-item');
+    if(items.length > 5){
+      const gap = 10; // يطابق قيمة gap في CSS الخاصة بـ .match-list
+      let heightForFive = 0;
+      for(let i = 0; i < 5; i++){
+        heightForFive += items[i].offsetHeight;
+      }
+      heightForFive += gap * 4; // 4 فجوات بين 5 عناصر
+      matchListEl.style.maxHeight = `${heightForFive}px`;
+      matchListEl.style.overflowY = 'auto';
+    } else {
+      matchListEl.style.maxHeight = 'none';
+      matchListEl.style.overflowY = 'visible';
+    }
   }
 
   /* -----------------------------------------------------------
