@@ -10,9 +10,9 @@
 
 <style>
   :root{
-    --bg-deep:#0b0f19;
-    --bg-panel:#10151f;
-    --bg-panel-2:#141b28;
+    --bg-deep:#232b3d;
+    --bg-panel:#2a3346;
+    --bg-panel-2:#303a50;
     --neon-blue:#00f2fe;
     --neon-green:#00ffb0;
     --live-red:#ff2d55;
@@ -165,7 +165,7 @@
   /* ===== Matches List Section ===== */
   .scores-body{
     padding:12px;
-    background:#0d1220;
+    background:#2a3346;
     min-height:200px;
   }
 
@@ -221,9 +221,26 @@
     text-align:center;
   }
 
-  .team-flag{
-    font-size:1.8rem;
-    line-height:1;
+  .team-flag-img{
+    width:36px;
+    height:36px;
+    object-fit:cover;
+    border-radius:50%;
+    border:1px solid var(--border-soft);
+  }
+
+  .team-flag-text{
+    width:36px;
+    height:36px;
+    border-radius:50%;
+    border:1px solid var(--border-soft);
+    background:rgba(255,255,255,0.06);
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    font-size:0.62rem;
+    font-weight:800;
+    color:var(--text-main);
   }
 
   .team-name{
@@ -518,26 +535,36 @@
   }
 
   /* =========================================================
-     قاموس أعلام منتخبات كأس العالم 2026 (اسم الفريق كما يرجعه الـ API → علم Emoji)
+     قاموس أعلام منتخبات كأس العالم 2026 (اسم الفريق → كود الدولة لـ flagcdn.com)
+     نستخدم صور أعلام حقيقية بدل رموز Emoji لأن بعض الأعلام (كإنجلترا/اسكتلندا/ويلز)
+     لا تُعرض بشكل صحيح على أغلب أجهزة أندرويد
      ========================================================= */
-  const TEAM_FLAGS = {
-    'Morocco': '🇲🇦', 'Canada': '🇨🇦', 'Paraguay': '🇵🇾', 'France': '🇫🇷',
-    'Brazil': '🇧🇷', 'Norway': '🇳🇴', 'England': '🏴', 'Mexico': '🇲🇽',
-    'Spain': '🇪🇸', 'Portugal': '🇵🇹', 'Belgium': '🇧🇪', 'United States': '🇺🇸',
-    'Egypt': '🇪🇬', 'Argentina': '🇦🇷', 'Colombia': '🇨🇴', 'Switzerland': '🇨🇭',
-    'Ghana': '🇬🇭', 'Germany': '🇩🇪', 'Netherlands': '🇳🇱', 'Croatia': '🇭🇷',
-    'Italy': '🇮🇹', 'Uruguay': '🇺🇾', 'Japan': '🇯🇵', 'South Korea': '🇰🇷',
-    'Senegal': '🇸🇳', 'Nigeria': '🇳🇬', 'Cameroon': '🇨🇲', 'Tunisia': '🇹🇳',
-    'Algeria': '🇩🇿', 'Saudi Arabia': '🇸🇦', 'Qatar': '🇶🇦', 'Iran': '🇮🇷',
-    'Australia': '🇦🇺', 'Ecuador': '🇪🇨', 'Chile': '🇨🇱', 'Peru': '🇵🇪',
-    'Poland': '🇵🇱', 'Serbia': '🇷🇸', 'Denmark': '🇩🇰', 'Sweden': '🇸🇪',
-    'Wales': '🏴', 'Scotland': '🏴', 'Ireland': '🇮🇪', 'Austria': '🇦🇹',
-    'Turkey': '🇹🇷', 'Ukraine': '🇺🇦', 'Czech Republic': '🇨🇿', 'Greece': '🇬🇷',
-    'Panama': '🇵🇦', 'Costa Rica': '🇨🇷', 'Jamaica': '🇯🇲', 'New Zealand': '🇳🇿',
+  const TEAM_FLAG_CODES = {
+    'Morocco': 'ma', 'Canada': 'ca', 'Paraguay': 'py', 'France': 'fr',
+    'Brazil': 'br', 'Norway': 'no', 'England': 'gb-eng', 'Mexico': 'mx',
+    'Spain': 'es', 'Portugal': 'pt', 'Belgium': 'be', 'United States': 'us',
+    'Egypt': 'eg', 'Argentina': 'ar', 'Colombia': 'co', 'Switzerland': 'ch',
+    'Ghana': 'gh', 'Germany': 'de', 'Netherlands': 'nl', 'Croatia': 'hr',
+    'Italy': 'it', 'Uruguay': 'uy', 'Japan': 'jp', 'South Korea': 'kr',
+    'Senegal': 'sn', 'Nigeria': 'ng', 'Cameroon': 'cm', 'Tunisia': 'tn',
+    'Algeria': 'dz', 'Saudi Arabia': 'sa', 'Qatar': 'qa', 'Iran': 'ir',
+    'Australia': 'au', 'Ecuador': 'ec', 'Chile': 'cl', 'Peru': 'pe',
+    'Poland': 'pl', 'Serbia': 'rs', 'Denmark': 'dk', 'Sweden': 'se',
+    'Wales': 'gb-wls', 'Scotland': 'gb-sct', 'Ireland': 'ie', 'Austria': 'at',
+    'Turkey': 'tr', 'Ukraine': 'ua', 'Czech Republic': 'cz', 'Greece': 'gr',
+    'Panama': 'pa', 'Costa Rica': 'cr', 'Jamaica': 'jm', 'New Zealand': 'nz',
   };
 
-  function getTeamFlag(teamName){
-    return TEAM_FLAGS[teamName] || '⚽';
+  function getTeamFlagHtml(teamName){
+    const textFlags = { 'England': 'ENG', 'Scotland': 'SCO', 'Wales': 'WAL' };
+    if(textFlags[teamName]){
+      return `<span class="team-flag-text">${textFlags[teamName]}</span>`;
+    }
+    const code = TEAM_FLAG_CODES[teamName];
+    if(code){
+      return `<img class="team-flag-img" src="https://flagcdn.com/w80/${code}.png" alt="${escapeHtml(teamName)}" loading="lazy">`;
+    }
+    return `<span class="team-flag">⚽</span>`;
   }
 
   /* -----------------------------------------------------------
@@ -596,7 +623,7 @@
         <div class="match-league-header">🏆 ${escapeHtml(match.league || '')}</div>
         <div class="match-card-body">
           <div class="match-team">
-            <span class="team-flag">${getTeamFlag(match.home)}</span>
+            ${getTeamFlagHtml(match.home)}
             <span class="team-name">${escapeHtml(match.home)}</span>
           </div>
           <div class="match-center">
@@ -604,7 +631,7 @@
             <span class="match-status-pill ${statusClass}">${statusLabel}</span>
           </div>
           <div class="match-team">
-            <span class="team-flag">${getTeamFlag(match.away)}</span>
+            ${getTeamFlagHtml(match.away)}
             <span class="team-name">${escapeHtml(match.away)}</span>
           </div>
         </div>
