@@ -23,7 +23,7 @@ if (!API_KEY) {
 
 // الحالات التي تعني أن المباراة جارية الآن فعلياً (مباشر)
 // راجع التوثيق: TIMED, SCHEDULED, LIVE, IN_PLAY, PAUSED, FINISHED, POSTPONED, SUSPENDED, CANCELLED
-const LIVE_STATUSES = new Set(['LIVE', 'IN_PLAY', 'PAUSED']);
+const LIVE_STATUSES = new Set(['LIVE', 'IN_PLAY', 'PAUSED', 'EXTRA_TIME', 'PENALTY_SHOOTOUT']);
 const FINISHED_STATUSES = new Set(['FINISHED', 'AWARDED']);
 
 function todayDateUTC() {
@@ -40,7 +40,7 @@ async function main() {
   const today = todayDateUTC();
   // نوسّع النطاق يوماً قبل ويوماً بعد لتفادي فقدان مباريات بسبب فرق التوقيت (UTC مقابل توقيتك المحلي)
   const dateFrom = addDaysUTC(today, -1);
- const dateTo = addDaysUTC(today, 2); 
+  const dateTo = addDaysUTC(today, 2);
 
   // تحديد البطولات المجانية المتاحة صريحاً (يشمل كأس العالم WC)
   const COMPETITIONS = 'WC,CL,PL,PD,BL1,SA,FL1,ELC,PPL,DED,EC,BSA';
@@ -84,6 +84,8 @@ async function main() {
       isFinished: FINISHED_STATUSES.has(status),
       homeScore: f.score?.fullTime?.home ?? null,
       awayScore: f.score?.fullTime?.away ?? null,
+      homePenalties: f.score?.penalties?.home ?? null,
+      awayPenalties: f.score?.penalties?.away ?? null,
     };
   });
 
