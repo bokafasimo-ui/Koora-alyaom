@@ -3,7 +3,7 @@ name: Update Matches Data
 on:
   schedule:
     # يعمل كل ساعتين (بتوقيت UTC)
-    - cron: '0 */2 * * *'
+   - cron: '*/5 * * * *' 
   # يسمح لك بتشغيله يدوياً من تبويب Actions لأي وقت تريد
   workflow_dispatch:
 
