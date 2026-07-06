@@ -524,16 +524,22 @@
         item.setAttribute('role', 'button');
       }
 
-      // تحديد نص/شارة الحالة: مباشر الآن / انتهت + النتيجة / الوقت فقط
+      // تحديد نص/شارة الحالة: مباشر الآن (مع النتيجة الحية وضربات الجزاء إن وُجدت) / انتهت + النتيجة / الوقت فقط
       let statusLabel = escapeHtml(match.time || '');
       let statusClass = '';
+      const hasScore = match.homeScore !== null && match.homeScore !== undefined
+        && match.awayScore !== null && match.awayScore !== undefined;
+      const hasPenalties = match.homePenalties !== null && match.homePenalties !== undefined
+        && match.awayPenalties !== null && match.awayPenalties !== undefined;
 
       if(match.isLive){
-        statusLabel = 'مباشر الآن';
         statusClass = 'live';
+        const scorePart = hasScore ? `${match.homeScore} - ${match.awayScore}` : '';
+        const penaltiesPart = hasPenalties ? ` (ركلات ترجيح ${match.homePenalties} - ${match.awayPenalties})` : '';
+        statusLabel = scorePart
+          ? `${scorePart}${penaltiesPart} · مباشر الآن`
+          : 'مباشر الآن';
       } else if(match.isFinished){
-        const hasScore = match.homeScore !== null && match.homeScore !== undefined
-          && match.awayScore !== null && match.awayScore !== undefined;
         statusLabel = hasScore
           ? `انتهت ${match.homeScore} - ${match.awayScore}`
           : 'انتهت';
