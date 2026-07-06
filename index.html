@@ -238,6 +238,13 @@
     border-color:rgba(255,45,85,0.3);
   }
 
+  .match-time.finished{
+    color:var(--text-dim);
+    background:rgba(255,255,255,0.04);
+    border-color:var(--border-soft);
+    font-weight:700;
+  }
+
   .match-item.disabled{
     cursor:not-allowed;
     opacity:0.55;
@@ -505,14 +512,30 @@
         item.setAttribute('role', 'button');
       }
 
+      // تحديد نص/شارة الحالة: مباشر الآن / انتهت + النتيجة / الوقت فقط
+      let statusLabel = escapeHtml(match.time || '');
+      let statusClass = '';
+
+      if(match.isLive){
+        statusLabel = 'مباشر الآن';
+        statusClass = 'live';
+      } else if(match.isFinished){
+        const hasScore = match.homeScore !== null && match.homeScore !== undefined
+          && match.awayScore !== null && match.awayScore !== undefined;
+        statusLabel = hasScore
+          ? `انتهت ${match.homeScore} - ${match.awayScore}`
+          : 'انتهت';
+        statusClass = 'finished';
+      }
+
       item.innerHTML = `
         <div class="match-teams">
           ${escapeHtml(match.home)} <span class="vs">ضد</span> ${escapeHtml(match.away)}
         </div>
         <div class="match-meta">
           <span class="match-league">${escapeHtml(match.league || '')}</span>
-          <span class="match-time ${match.isLive ? 'live' : ''}">
-            ${match.isLive ? 'مباشر الآن' : escapeHtml(match.time || '')}
+          <span class="match-time ${statusClass}">
+            ${statusLabel}
           </span>
         </div>
       `;
