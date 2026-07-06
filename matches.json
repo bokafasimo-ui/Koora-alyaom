@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-06T11:45:08.346Z",
+  "updatedAt": "2026-07-06T12:04:42.016Z",
   "matches": [
     {
       "home": "Brazil",
@@ -10,7 +10,9 @@
       "isLive": false,
       "isFinished": true,
       "homeScore": 1,
-      "awayScore": 2
+      "awayScore": 2,
+      "homePenalties": null,
+      "awayPenalties": null
     },
     {
       "home": "Mexico",
@@ -21,7 +23,9 @@
       "isLive": false,
       "isFinished": true,
       "homeScore": 2,
-      "awayScore": 3
+      "awayScore": 3,
+      "homePenalties": null,
+      "awayPenalties": null
     },
     {
       "home": "Portugal",
@@ -32,7 +36,9 @@
       "isLive": false,
       "isFinished": false,
       "homeScore": null,
-      "awayScore": null
+      "awayScore": null,
+      "homePenalties": null,
+      "awayPenalties": null
     },
     {
       "home": "United States",
@@ -43,7 +49,9 @@
       "isLive": false,
       "isFinished": false,
       "homeScore": null,
-      "awayScore": null
+      "awayScore": null,
+      "homePenalties": null,
+      "awayPenalties": null
     },
     {
       "home": "Argentina",
@@ -54,7 +62,9 @@
       "isLive": false,
       "isFinished": false,
       "homeScore": null,
-      "awayScore": null
+      "awayScore": null,
+      "homePenalties": null,
+      "awayPenalties": null
     },
     {
       "home": "Switzerland",
@@ -65,7 +75,9 @@
       "isLive": false,
       "isFinished": false,
       "homeScore": null,
-      "awayScore": null
+      "awayScore": null,
+      "homePenalties": null,
+      "awayPenalties": null
     }
   ]
 }
