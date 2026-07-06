@@ -456,10 +456,8 @@
   /* =========================================================
      رابط البث المباشر الحالي — عدّله يدوياً وقت أي مباراة تريد بثها
      =========================================================
-     غيّر هذا الرابط فقط عند بدء أي مباراة تريد مشاهدتها،
-     وسيتحدث مشغل الفيديو تلقائياً لكل الزوار الذين يفتحون الصفحة.
+     الرابط الآن يُقرأ من ملف stream.json بدل هذا المتغير (انظر الشرح أدناه)
      ========================================================= */
-  const CURRENT_LIVE_STREAM_URL = "ضع_رابط_البث_الحالي_هنا";
 
   const matchListEl = document.getElementById('matchList');
   const streamFrame = document.getElementById('streamFrame');
@@ -469,13 +467,25 @@
 
   /* -----------------------------------------------------------
      تهيئة المشغل الرئيسي عند تحميل الصفحة
-     إذا كان CURRENT_LIVE_STREAM_URL مضبوطاً برابط حقيقي، يظهر المشغل مباشرة
+     الرابط يُقرأ من ملف stream.json (بدل تعديل الكود)، لتغييره فقط
+     افتح stream.json وعدّل قيمة "url"، بدون لمس هذا الملف مستقبلاً
   ----------------------------------------------------------- */
-  function initPlayer(){
-    const hasValidUrl = CURRENT_LIVE_STREAM_URL && CURRENT_LIVE_STREAM_URL !== "ضع_رابط_البث_الحالي_هنا";
+  async function initPlayer(){
+    let streamUrl = '';
+    try{
+      const res = await fetch(`stream.json?t=${Date.now()}`);
+      if(res.ok){
+        const data = await res.json();
+        streamUrl = (data && data.url) ? data.url.trim() : '';
+      }
+    }catch(err){
+      console.error('تعذّر قراءة stream.json', err);
+    }
+
+    const hasValidUrl = !!streamUrl;
 
     if(hasValidUrl){
-      streamFrame.src = CURRENT_LIVE_STREAM_URL;
+      streamFrame.src = streamUrl;
       streamFrame.style.display = 'block';
       streamPlaceholder.style.display = 'none';
     } else {
