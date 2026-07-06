@@ -179,13 +179,12 @@
 
   .match-item{
     display:flex;
-    align-items:center;
-    justify-content:space-between;
+    flex-direction:column;
     gap:10px;
     background:linear-gradient(180deg, #131a28, #10151f);
     border:1px solid var(--border-soft);
     border-radius:14px;
-    padding:12px 14px;
+    padding:14px;
     cursor:pointer;
     transition:border-color .15s ease, transform .15s ease, box-shadow .15s ease;
   }
@@ -198,53 +197,77 @@
     outline:none;
   }
 
-  .match-teams{
+  .match-league-header{
+    font-size:0.72rem;
+    font-weight:700;
+    color:var(--text-dim);
+    border-bottom:1px solid var(--border-soft);
+    padding-bottom:8px;
+  }
+
+  .match-card-body{
     display:flex;
     align-items:center;
+    justify-content:space-between;
     gap:8px;
-    font-weight:700;
-    font-size:0.92rem;
   }
 
-  .match-teams .vs{
-    color:var(--text-dim);
-    font-weight:400;
-    font-size:0.75rem;
-  }
-
-  .match-meta{
+  .match-team{
+    flex:1;
     display:flex;
     flex-direction:column;
-    align-items:flex-end;
-    gap:4px;
+    align-items:center;
+    gap:6px;
+    text-align:center;
   }
 
-  .match-league{
-    font-size:0.68rem;
-    color:var(--text-dim);
+  .team-flag{
+    font-size:1.8rem;
+    line-height:1;
   }
 
-  .match-time{
+  .team-name{
+    font-size:0.82rem;
+    font-weight:700;
+  }
+
+  .match-center{
+    flex:0 0 auto;
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    gap:6px;
+    min-width:96px;
+  }
+
+  .match-clock{
     font-size:0.75rem;
     font-weight:700;
     color:var(--neon-blue);
-    background:rgba(0,242,254,0.08);
-    border:1px solid rgba(0,242,254,0.25);
-    padding:3px 10px;
-    border-radius:999px;
   }
 
-  .match-time.live{
+  .match-status-pill{
+    font-size:0.72rem;
+    font-weight:700;
+    color:var(--text-dim);
+    background:rgba(255,255,255,0.04);
+    border:1px solid var(--border-soft);
+    padding:5px 12px;
+    border-radius:999px;
+    text-align:center;
+    white-space:nowrap;
+  }
+
+  .match-status-pill.live{
     color:var(--live-red);
     background:rgba(255,45,85,0.08);
     border-color:rgba(255,45,85,0.3);
   }
 
-  .match-time.finished{
-    color:var(--text-dim);
-    background:rgba(255,255,255,0.04);
-    border-color:var(--border-soft);
-    font-weight:700;
+  .match-status-pill.finished{
+    color:var(--neon-green);
+    background:rgba(0,255,176,0.06);
+    border-color:rgba(0,255,176,0.25);
   }
 
   .match-item.disabled{
@@ -494,6 +517,29 @@
     }
   }
 
+  /* =========================================================
+     قاموس أعلام منتخبات كأس العالم 2026 (اسم الفريق كما يرجعه الـ API → علم Emoji)
+     ========================================================= */
+  const TEAM_FLAGS = {
+    'Morocco': '🇲🇦', 'Canada': '🇨🇦', 'Paraguay': '🇵🇾', 'France': '🇫🇷',
+    'Brazil': '🇧🇷', 'Norway': '🇳🇴', 'England': '🏴', 'Mexico': '🇲🇽',
+    'Spain': '🇪🇸', 'Portugal': '🇵🇹', 'Belgium': '🇧🇪', 'United States': '🇺🇸',
+    'Egypt': '🇪🇬', 'Argentina': '🇦🇷', 'Colombia': '🇨🇴', 'Switzerland': '🇨🇭',
+    'Ghana': '🇬🇭', 'Germany': '🇩🇪', 'Netherlands': '🇳🇱', 'Croatia': '🇭🇷',
+    'Italy': '🇮🇹', 'Uruguay': '🇺🇾', 'Japan': '🇯🇵', 'South Korea': '🇰🇷',
+    'Senegal': '🇸🇳', 'Nigeria': '🇳🇬', 'Cameroon': '🇨🇲', 'Tunisia': '🇹🇳',
+    'Algeria': '🇩🇿', 'Saudi Arabia': '🇸🇦', 'Qatar': '🇶🇦', 'Iran': '🇮🇷',
+    'Australia': '🇦🇺', 'Ecuador': '🇪🇨', 'Chile': '🇨🇱', 'Peru': '🇵🇪',
+    'Poland': '🇵🇱', 'Serbia': '🇷🇸', 'Denmark': '🇩🇰', 'Sweden': '🇸🇪',
+    'Wales': '🏴', 'Scotland': '🏴', 'Ireland': '🇮🇪', 'Austria': '🇦🇹',
+    'Turkey': '🇹🇷', 'Ukraine': '🇺🇦', 'Czech Republic': '🇨🇿', 'Greece': '🇬🇷',
+    'Panama': '🇵🇦', 'Costa Rica': '🇨🇷', 'Jamaica': '🇯🇲', 'New Zealand': '🇳🇿',
+  };
+
+  function getTeamFlag(teamName){
+    return TEAM_FLAGS[teamName] || '⚽';
+  }
+
   /* -----------------------------------------------------------
      دالة عرض قائمة المباريات في الواجهة
      تتوقع مصفوفة عناصر بالشكل التالي (عدّلها حسب استجابة API الخاص بك):
@@ -524,8 +570,8 @@
         item.setAttribute('role', 'button');
       }
 
-      // تحديد نص/شارة الحالة: مباشر الآن (مع النتيجة الحية وضربات الجزاء إن وُجدت) / انتهت + النتيجة / الوقت فقط
-      let statusLabel = escapeHtml(match.time || '');
+      // تحديد نص/شارة الحالة: مباشر الآن (مع النتيجة الحية وضربات الجزاء إن وُجدت) / انتهت + النتيجة / لم تبدأ بعد
+      let statusLabel = 'لم تبدأ بعد';
       let statusClass = '';
       const hasScore = match.homeScore !== null && match.homeScore !== undefined
         && match.awayScore !== null && match.awayScore !== undefined;
@@ -547,14 +593,20 @@
       }
 
       item.innerHTML = `
-        <div class="match-teams">
-          ${escapeHtml(match.home)} <span class="vs">ضد</span> ${escapeHtml(match.away)}
-        </div>
-        <div class="match-meta">
-          <span class="match-league">${escapeHtml(match.league || '')}</span>
-          <span class="match-time ${statusClass}">
-            ${statusLabel}
-          </span>
+        <div class="match-league-header">🏆 ${escapeHtml(match.league || '')}</div>
+        <div class="match-card-body">
+          <div class="match-team">
+            <span class="team-flag">${getTeamFlag(match.home)}</span>
+            <span class="team-name">${escapeHtml(match.home)}</span>
+          </div>
+          <div class="match-center">
+            ${!match.isLive && !match.isFinished ? `<span class="match-clock">${escapeHtml(match.time || '')}</span>` : ''}
+            <span class="match-status-pill ${statusClass}">${statusLabel}</span>
+          </div>
+          <div class="match-team">
+            <span class="team-flag">${getTeamFlag(match.away)}</span>
+            <span class="team-name">${escapeHtml(match.away)}</span>
+          </div>
         </div>
       `;
 
