@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-07T10:39:17.080Z",
+  "updatedAt": "2026-07-07T18:25:22.179Z",
   "matches": [
     {
       "home": "United States",
@@ -21,9 +21,9 @@
       "date": "2026-07-07",
       "time": "16:00 GMT",
       "isLive": false,
-      "isFinished": false,
-      "homeScore": null,
-      "awayScore": null,
+      "isFinished": true,
+      "homeScore": 3,
+      "awayScore": 2,
       "homePenalties": null,
       "awayPenalties": null
     },
