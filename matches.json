@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-10T17:23:04.564Z",
+  "updatedAt": "2026-07-10T21:31:45.738Z",
   "matches": [
     {
       "home": "Spain",
@@ -8,9 +8,9 @@
       "date": "2026-07-10",
       "time": "19:00 GMT",
       "isLive": false,
-      "isFinished": false,
-      "homeScore": null,
-      "awayScore": null,
+      "isFinished": true,
+      "homeScore": 2,
+      "awayScore": 1,
       "homePenalties": null,
       "awayPenalties": null
     }
