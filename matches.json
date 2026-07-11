@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-07-10T21:31:45.738Z",
+  "updatedAt": "2026-07-11T06:03:13.531Z",
   "matches": [
     {
-      "home": "Spain",
-      "away": "Belgium",
+      "home": "Norway",
+      "away": "England",
       "league": "FIFA World Cup",
-      "date": "2026-07-10",
-      "time": "19:00 GMT",
+      "date": "2026-07-11",
+      "time": "21:00 GMT",
       "isLive": false,
-      "isFinished": true,
-      "homeScore": 2,
-      "awayScore": 1,
+      "isFinished": false,
+      "homeScore": null,
+      "awayScore": null,
       "homePenalties": null,
       "awayPenalties": null
     }
