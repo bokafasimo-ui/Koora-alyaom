@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-15T16:53:15.174Z",
+  "updatedAt": "2026-07-15T20:38:12.018Z",
   "matches": [
     {
       "home": "England",
@@ -7,10 +7,10 @@
       "league": "FIFA World Cup",
       "date": "2026-07-15",
       "time": "19:00 GMT",
-      "isLive": false,
+      "isLive": true,
       "isFinished": false,
-      "homeScore": null,
-      "awayScore": null,
+      "homeScore": 1,
+      "awayScore": 0,
       "homePenalties": null,
       "awayPenalties": null
     }
