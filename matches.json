@@ -1,16 +1,29 @@
 {
-  "updatedAt": "2026-07-15T23:44:49.636Z",
+  "updatedAt": "2026-07-16T07:37:04.223Z",
   "matches": [
     {
-      "home": "England",
-      "away": "Argentina",
-      "league": "FIFA World Cup",
-      "date": "2026-07-15",
-      "time": "19:00 GMT",
+      "home": "EC Vitória",
+      "away": "CR Vasco da Gama",
+      "league": "Campeonato Brasileiro Série A",
+      "date": "2026-07-16",
+      "time": "22:30 GMT",
       "isLive": false,
-      "isFinished": true,
-      "homeScore": 1,
-      "awayScore": 2,
+      "isFinished": false,
+      "homeScore": null,
+      "awayScore": null,
+      "homePenalties": null,
+      "awayPenalties": null
+    },
+    {
+      "home": "Botafogo FR",
+      "away": "Santos FC",
+      "league": "Campeonato Brasileiro Série A",
+      "date": "2026-07-16",
+      "time": "22:30 GMT",
+      "isLive": false,
+      "isFinished": false,
+      "homeScore": null,
+      "awayScore": null,
       "homePenalties": null,
       "awayPenalties": null
     }
