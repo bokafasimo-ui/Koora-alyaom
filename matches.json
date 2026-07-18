@@ -1,42 +1,16 @@
 {
-  "updatedAt": "2026-07-17T23:12:23.188Z",
+  "updatedAt": "2026-07-18T06:31:39.377Z",
   "matches": [
     {
-      "home": "EC Bahia",
-      "away": "Chapecoense AF",
-      "league": "Campeonato Brasileiro Série A",
-      "date": "2026-07-17",
-      "time": "22:30 GMT",
-      "isLive": true,
+      "home": "France",
+      "away": "England",
+      "league": "FIFA World Cup",
+      "date": "2026-07-18",
+      "time": "21:00 GMT",
+      "isLive": false,
       "isFinished": false,
-      "homeScore": 2,
-      "awayScore": 0,
-      "homePenalties": null,
-      "awayPenalties": null
-    },
-    {
-      "home": "Mirassol FC",
-      "away": "Grêmio FBPA",
-      "league": "Campeonato Brasileiro Série A",
-      "date": "2026-07-17",
-      "time": "23:00 GMT",
-      "isLive": true,
-      "isFinished": false,
-      "homeScore": 0,
-      "awayScore": 0,
-      "homePenalties": null,
-      "awayPenalties": null
-    },
-    {
-      "home": "Fluminense FC",
-      "away": "RB Bragantino",
-      "league": "Campeonato Brasileiro Série A",
-      "date": "2026-07-17",
-      "time": "23:00 GMT",
-      "isLive": true,
-      "isFinished": false,
-      "homeScore": 0,
-      "awayScore": 0,
+      "homeScore": null,
+      "awayScore": null,
       "homePenalties": null,
       "awayPenalties": null
     }
