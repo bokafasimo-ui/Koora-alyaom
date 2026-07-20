@@ -1,18 +1,4 @@
 {
-  "updatedAt": "2026-07-19T23:41:36.865Z",
-  "matches": [
-    {
-      "home": "Spain",
-      "away": "Argentina",
-      "league": "FIFA World Cup",
-      "date": "2026-07-19",
-      "time": "19:00 GMT",
-      "isLive": false,
-      "isFinished": true,
-      "homeScore": 1,
-      "awayScore": 0,
-      "homePenalties": null,
-      "awayPenalties": null
-    }
-  ]
+  "updatedAt": "2026-07-20T10:30:09.035Z",
+  "matches": []
 }
