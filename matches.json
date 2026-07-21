@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-21T20:38:42.970Z",
+  "updatedAt": "2026-07-21T23:43:33.406Z",
   "matches": [
     {
       "home": "CA Mineiro",
@@ -7,10 +7,10 @@
       "league": "Campeonato Brasileiro Série A",
       "date": "2026-07-21",
       "time": "22:30 GMT",
-      "isLive": false,
+      "isLive": true,
       "isFinished": false,
-      "homeScore": null,
-      "awayScore": null,
+      "homeScore": 1,
+      "awayScore": 0,
       "homePenalties": null,
       "awayPenalties": null
     }
