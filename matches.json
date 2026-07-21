@@ -1,4 +1,18 @@
 {
-  "updatedAt": "2026-07-20T20:50:46.154Z",
-  "matches": []
+  "updatedAt": "2026-07-21T00:12:43.193Z",
+  "matches": [
+    {
+      "home": "CA Mineiro",
+      "away": "EC Bahia",
+      "league": "Campeonato Brasileiro Série A",
+      "date": "2026-07-21",
+      "time": "22:30 GMT",
+      "isLive": false,
+      "isFinished": false,
+      "homeScore": null,
+      "awayScore": null,
+      "homePenalties": null,
+      "awayPenalties": null
+    }
+  ]
 }
