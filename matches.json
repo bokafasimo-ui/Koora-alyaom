@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-07-21T23:43:33.406Z",
+  "updatedAt": "2026-07-22T08:00:35.511Z",
   "matches": [
     {
-      "home": "CA Mineiro",
-      "away": "EC Bahia",
+      "home": "Coritiba FBC",
+      "away": "SE Palmeiras",
       "league": "Campeonato Brasileiro Série A",
-      "date": "2026-07-21",
+      "date": "2026-07-22",
       "time": "22:30 GMT",
-      "isLive": true,
+      "isLive": false,
       "isFinished": false,
-      "homeScore": 1,
-      "awayScore": 0,
+      "homeScore": null,
+      "awayScore": null,
       "homePenalties": null,
       "awayPenalties": null
     }
