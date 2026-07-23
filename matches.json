@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-23T22:40:58.921Z",
+  "updatedAt": "2026-07-23T23:38:34.275Z",
   "matches": [
     {
       "home": "SC Internacional",
@@ -41,8 +41,8 @@
       "awayPenalties": null
     },
     {
-      "home": "SC Corinthians Paulista",
-      "away": "Clube do Remo",
+      "home": "Botafogo FR",
+      "away": "EC Vitória",
       "league": "Campeonato Brasileiro Série A",
       "date": "2026-07-23",
       "time": "22:30 GMT",
@@ -54,14 +54,14 @@
       "awayPenalties": null
     },
     {
-      "home": "Botafogo FR",
-      "away": "EC Vitória",
+      "home": "SC Corinthians Paulista",
+      "away": "Clube do Remo",
       "league": "Campeonato Brasileiro Série A",
       "date": "2026-07-23",
       "time": "22:30 GMT",
       "isLive": true,
       "isFinished": false,
-      "homeScore": 0,
+      "homeScore": 3,
       "awayScore": 0,
       "homePenalties": null,
       "awayPenalties": null
