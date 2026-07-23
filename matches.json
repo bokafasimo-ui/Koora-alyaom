@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-07-23T20:47:18.073Z",
+  "updatedAt": "2026-07-23T21:47:21.466Z",
   "matches": [
     {
-      "home": "SC Internacional",
-      "away": "Cruzeiro EC",
+      "home": "São Paulo FC",
+      "away": "CA Paranaense",
       "league": "Campeonato Brasileiro Série A",
       "date": "2026-07-23",
       "time": "00:30 GMT",
@@ -28,8 +28,8 @@
       "awayPenalties": null
     },
     {
-      "home": "São Paulo FC",
-      "away": "CA Paranaense",
+      "home": "SC Internacional",
+      "away": "Cruzeiro EC",
       "league": "Campeonato Brasileiro Série A",
       "date": "2026-07-23",
       "time": "00:30 GMT",
