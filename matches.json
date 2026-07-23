@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-07-23T19:51:44.132Z",
+  "updatedAt": "2026-07-23T20:47:18.073Z",
   "matches": [
     {
-      "home": "São Paulo FC",
-      "away": "CA Paranaense",
+      "home": "SC Internacional",
+      "away": "Cruzeiro EC",
       "league": "Campeonato Brasileiro Série A",
       "date": "2026-07-23",
       "time": "00:30 GMT",
@@ -28,8 +28,8 @@
       "awayPenalties": null
     },
     {
-      "home": "SC Internacional",
-      "away": "Cruzeiro EC",
+      "home": "São Paulo FC",
+      "away": "CA Paranaense",
       "league": "Campeonato Brasileiro Série A",
       "date": "2026-07-23",
       "time": "00:30 GMT",
@@ -41,8 +41,8 @@
       "awayPenalties": null
     },
     {
-      "home": "Botafogo FR",
-      "away": "EC Vitória",
+      "home": "SC Corinthians Paulista",
+      "away": "Clube do Remo",
       "league": "Campeonato Brasileiro Série A",
       "date": "2026-07-23",
       "time": "22:30 GMT",
@@ -54,8 +54,8 @@
       "awayPenalties": null
     },
     {
-      "home": "SC Corinthians Paulista",
-      "away": "Clube do Remo",
+      "home": "Botafogo FR",
+      "away": "EC Vitória",
       "league": "Campeonato Brasileiro Série A",
       "date": "2026-07-23",
       "time": "22:30 GMT",
