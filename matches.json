@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-07-25T18:31:26.804Z",
+  "updatedAt": "2026-07-25T19:47:08.125Z",
   "matches": [
     {
-      "home": "Santos FC",
-      "away": "Chapecoense AF",
+      "home": "CA Paranaense",
+      "away": "SC Internacional",
       "league": "Campeonato Brasileiro Série A",
       "date": "2026-07-25",
       "time": "21:30 GMT",
@@ -15,8 +15,8 @@
       "awayPenalties": null
     },
     {
-      "home": "CA Paranaense",
-      "away": "SC Internacional",
+      "home": "Santos FC",
+      "away": "Chapecoense AF",
       "league": "Campeonato Brasileiro Série A",
       "date": "2026-07-25",
       "time": "21:30 GMT",
