@@ -1,4 +1,44 @@
 {
-  "updatedAt": "2026-07-24T23:42:59.948Z",
-  "matches": []
+  "updatedAt": "2026-07-25T01:11:38.973Z",
+  "matches": [
+    {
+      "home": "Santos FC",
+      "away": "Chapecoense AF",
+      "league": "Campeonato Brasileiro Série A",
+      "date": "2026-07-25",
+      "time": "21:30 GMT",
+      "isLive": false,
+      "isFinished": false,
+      "homeScore": null,
+      "awayScore": null,
+      "homePenalties": null,
+      "awayPenalties": null
+    },
+    {
+      "home": "CA Paranaense",
+      "away": "SC Internacional",
+      "league": "Campeonato Brasileiro Série A",
+      "date": "2026-07-25",
+      "time": "21:30 GMT",
+      "isLive": false,
+      "isFinished": false,
+      "homeScore": null,
+      "awayScore": null,
+      "homePenalties": null,
+      "awayPenalties": null
+    },
+    {
+      "home": "CR Vasco da Gama",
+      "away": "Mirassol FC",
+      "league": "Campeonato Brasileiro Série A",
+      "date": "2026-07-25",
+      "time": "23:30 GMT",
+      "isLive": false,
+      "isFinished": false,
+      "homeScore": null,
+      "awayScore": null,
+      "homePenalties": null,
+      "awayPenalties": null
+    }
+  ]
 }
