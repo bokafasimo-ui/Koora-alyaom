@@ -1,28 +1,28 @@
 {
-  "updatedAt": "2026-07-26T20:33:12.612Z",
+  "updatedAt": "2026-07-26T21:31:04.356Z",
   "matches": [
-    {
-      "home": "Cruzeiro EC",
-      "away": "Botafogo FR",
-      "league": "Campeonato Brasileiro Série A",
-      "date": "2026-07-26",
-      "time": "19:00 GMT",
-      "isLive": true,
-      "isFinished": false,
-      "homeScore": 0,
-      "awayScore": 1,
-      "homePenalties": null,
-      "awayPenalties": null
-    },
     {
       "home": "EC Bahia",
       "away": "SC Corinthians Paulista",
       "league": "Campeonato Brasileiro Série A",
       "date": "2026-07-26",
       "time": "19:00 GMT",
-      "isLive": true,
-      "isFinished": false,
+      "isLive": false,
+      "isFinished": true,
       "homeScore": 1,
+      "awayScore": 1,
+      "homePenalties": null,
+      "awayPenalties": null
+    },
+    {
+      "home": "Cruzeiro EC",
+      "away": "Botafogo FR",
+      "league": "Campeonato Brasileiro Série A",
+      "date": "2026-07-26",
+      "time": "19:00 GMT",
+      "isLive": false,
+      "isFinished": true,
+      "homeScore": 0,
       "awayScore": 1,
       "homePenalties": null,
       "awayPenalties": null
@@ -41,8 +41,8 @@
       "awayPenalties": null
     },
     {
-      "home": "RB Bragantino",
-      "away": "Coritiba FBC",
+      "home": "CR Flamengo",
+      "away": "São Paulo FC",
       "league": "Campeonato Brasileiro Série A",
       "date": "2026-07-26",
       "time": "21:30 GMT",
@@ -54,8 +54,8 @@
       "awayPenalties": null
     },
     {
-      "home": "CR Flamengo",
-      "away": "São Paulo FC",
+      "home": "RB Bragantino",
+      "away": "Coritiba FBC",
       "league": "Campeonato Brasileiro Série A",
       "date": "2026-07-26",
       "time": "21:30 GMT",
