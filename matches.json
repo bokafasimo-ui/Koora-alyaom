@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-26T19:35:09.060Z",
+  "updatedAt": "2026-07-26T20:33:12.612Z",
   "matches": [
     {
       "home": "Cruzeiro EC",
@@ -10,7 +10,7 @@
       "isLive": true,
       "isFinished": false,
       "homeScore": 0,
-      "awayScore": 0,
+      "awayScore": 1,
       "homePenalties": null,
       "awayPenalties": null
     },
@@ -22,8 +22,21 @@
       "time": "19:00 GMT",
       "isLive": true,
       "isFinished": false,
-      "homeScore": 0,
+      "homeScore": 1,
       "awayScore": 1,
+      "homePenalties": null,
+      "awayPenalties": null
+    },
+    {
+      "home": "Grêmio FBPA",
+      "away": "Fluminense FC",
+      "league": "Campeonato Brasileiro Série A",
+      "date": "2026-07-26",
+      "time": "21:30 GMT",
+      "isLive": false,
+      "isFinished": false,
+      "homeScore": null,
+      "awayScore": null,
       "homePenalties": null,
       "awayPenalties": null
     },
@@ -54,21 +67,8 @@
       "awayPenalties": null
     },
     {
-      "home": "Grêmio FBPA",
-      "away": "Fluminense FC",
-      "league": "Campeonato Brasileiro Série A",
-      "date": "2026-07-26",
-      "time": "21:30 GMT",
-      "isLive": false,
-      "isFinished": false,
-      "homeScore": null,
-      "awayScore": null,
-      "homePenalties": null,
-      "awayPenalties": null
-    },
-    {
-      "home": "SE Palmeiras",
-      "away": "CA Mineiro",
+      "home": "Clube do Remo",
+      "away": "EC Vitória",
       "league": "Campeonato Brasileiro Série A",
       "date": "2026-07-26",
       "time": "22:30 GMT",
@@ -80,8 +80,8 @@
       "awayPenalties": null
     },
     {
-      "home": "Clube do Remo",
-      "away": "EC Vitória",
+      "home": "SE Palmeiras",
+      "away": "CA Mineiro",
       "league": "Campeonato Brasileiro Série A",
       "date": "2026-07-26",
       "time": "22:30 GMT",
