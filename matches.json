@@ -1,19 +1,6 @@
 {
-  "updatedAt": "2026-07-26T21:31:04.356Z",
+  "updatedAt": "2026-07-26T22:32:57.384Z",
   "matches": [
-    {
-      "home": "EC Bahia",
-      "away": "SC Corinthians Paulista",
-      "league": "Campeonato Brasileiro Série A",
-      "date": "2026-07-26",
-      "time": "19:00 GMT",
-      "isLive": false,
-      "isFinished": true,
-      "homeScore": 1,
-      "awayScore": 1,
-      "homePenalties": null,
-      "awayPenalties": null
-    },
     {
       "home": "Cruzeiro EC",
       "away": "Botafogo FR",
@@ -28,28 +15,28 @@
       "awayPenalties": null
     },
     {
+      "home": "EC Bahia",
+      "away": "SC Corinthians Paulista",
+      "league": "Campeonato Brasileiro Série A",
+      "date": "2026-07-26",
+      "time": "19:00 GMT",
+      "isLive": false,
+      "isFinished": true,
+      "homeScore": 1,
+      "awayScore": 1,
+      "homePenalties": null,
+      "awayPenalties": null
+    },
+    {
       "home": "Grêmio FBPA",
       "away": "Fluminense FC",
       "league": "Campeonato Brasileiro Série A",
       "date": "2026-07-26",
       "time": "21:30 GMT",
-      "isLive": false,
+      "isLive": true,
       "isFinished": false,
-      "homeScore": null,
-      "awayScore": null,
-      "homePenalties": null,
-      "awayPenalties": null
-    },
-    {
-      "home": "CR Flamengo",
-      "away": "São Paulo FC",
-      "league": "Campeonato Brasileiro Série A",
-      "date": "2026-07-26",
-      "time": "21:30 GMT",
-      "isLive": false,
-      "isFinished": false,
-      "homeScore": null,
-      "awayScore": null,
+      "homeScore": 0,
+      "awayScore": 0,
       "homePenalties": null,
       "awayPenalties": null
     },
@@ -59,10 +46,23 @@
       "league": "Campeonato Brasileiro Série A",
       "date": "2026-07-26",
       "time": "21:30 GMT",
-      "isLive": false,
+      "isLive": true,
       "isFinished": false,
-      "homeScore": null,
-      "awayScore": null,
+      "homeScore": 0,
+      "awayScore": 0,
+      "homePenalties": null,
+      "awayPenalties": null
+    },
+    {
+      "home": "CR Flamengo",
+      "away": "São Paulo FC",
+      "league": "Campeonato Brasileiro Série A",
+      "date": "2026-07-26",
+      "time": "21:30 GMT",
+      "isLive": true,
+      "isFinished": false,
+      "homeScore": 0,
+      "awayScore": 0,
       "homePenalties": null,
       "awayPenalties": null
     },
