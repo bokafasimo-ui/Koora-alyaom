@@ -1,4 +1,83 @@
 {
-  "updatedAt": "2026-07-28T23:17:32.103Z",
-  "matches": []
+  "updatedAt": "2026-07-29T00:12:30.279Z",
+  "matches": [
+    {
+      "home": "CA Mineiro",
+      "away": "RB Bragantino",
+      "league": "Campeonato Brasileiro Série A",
+      "date": "2026-07-29",
+      "time": "00:00 GMT",
+      "isLive": false,
+      "isFinished": false,
+      "homeScore": null,
+      "awayScore": null,
+      "homePenalties": null,
+      "awayPenalties": null
+    },
+    {
+      "home": "Chapecoense AF",
+      "away": "CR Vasco da Gama",
+      "league": "Campeonato Brasileiro Série A",
+      "date": "2026-07-29",
+      "time": "00:00 GMT",
+      "isLive": false,
+      "isFinished": false,
+      "homeScore": null,
+      "awayScore": null,
+      "homePenalties": null,
+      "awayPenalties": null
+    },
+    {
+      "home": "São Paulo FC",
+      "away": "Santos FC",
+      "league": "Campeonato Brasileiro Série A",
+      "date": "2026-07-29",
+      "time": "00:00 GMT",
+      "isLive": false,
+      "isFinished": false,
+      "homeScore": null,
+      "awayScore": null,
+      "homePenalties": null,
+      "awayPenalties": null
+    },
+    {
+      "home": "Botafogo FR",
+      "away": "Grêmio FBPA",
+      "league": "Campeonato Brasileiro Série A",
+      "date": "2026-07-29",
+      "time": "00:00 GMT",
+      "isLive": false,
+      "isFinished": false,
+      "homeScore": null,
+      "awayScore": null,
+      "homePenalties": null,
+      "awayPenalties": null
+    },
+    {
+      "home": "Mirassol FC",
+      "away": "Clube do Remo",
+      "league": "Campeonato Brasileiro Série A",
+      "date": "2026-07-29",
+      "time": "22:30 GMT",
+      "isLive": false,
+      "isFinished": false,
+      "homeScore": null,
+      "awayScore": null,
+      "homePenalties": null,
+      "awayPenalties": null
+    },
+    {
+      "home": "SC Internacional",
+      "away": "CR Flamengo",
+      "league": "Campeonato Brasileiro Série A",
+      "date": "2026-07-29",
+      "time": "22:30 GMT",
+      "isLive": false,
+      "isFinished": false,
+      "homeScore": null,
+      "awayScore": null,
+      "homePenalties": null,
+      "awayPenalties": null
+    }
+  ]
 }
