@@ -1,22 +1,9 @@
 {
-  "updatedAt": "2026-07-29T22:29:23.593Z",
+  "updatedAt": "2026-07-29T23:33:53.506Z",
   "matches": [
     {
-      "home": "Chapecoense AF",
-      "away": "CR Vasco da Gama",
-      "league": "Campeonato Brasileiro Série A",
-      "date": "2026-07-29",
-      "time": "00:00 GMT",
-      "isLive": false,
-      "isFinished": false,
-      "homeScore": null,
-      "awayScore": null,
-      "homePenalties": null,
-      "awayPenalties": null
-    },
-    {
-      "home": "CA Mineiro",
-      "away": "RB Bragantino",
+      "home": "Botafogo FR",
+      "away": "Grêmio FBPA",
       "league": "Campeonato Brasileiro Série A",
       "date": "2026-07-29",
       "time": "00:00 GMT",
@@ -41,8 +28,8 @@
       "awayPenalties": null
     },
     {
-      "home": "Botafogo FR",
-      "away": "Grêmio FBPA",
+      "home": "CA Mineiro",
+      "away": "RB Bragantino",
       "league": "Campeonato Brasileiro Série A",
       "date": "2026-07-29",
       "time": "00:00 GMT",
@@ -54,11 +41,11 @@
       "awayPenalties": null
     },
     {
-      "home": "Mirassol FC",
-      "away": "Clube do Remo",
+      "home": "Chapecoense AF",
+      "away": "CR Vasco da Gama",
       "league": "Campeonato Brasileiro Série A",
       "date": "2026-07-29",
-      "time": "22:30 GMT",
+      "time": "00:00 GMT",
       "isLive": false,
       "isFinished": false,
       "homeScore": null,
@@ -72,10 +59,23 @@
       "league": "Campeonato Brasileiro Série A",
       "date": "2026-07-29",
       "time": "22:30 GMT",
-      "isLive": false,
+      "isLive": true,
       "isFinished": false,
-      "homeScore": null,
-      "awayScore": null,
+      "homeScore": 1,
+      "awayScore": 0,
+      "homePenalties": null,
+      "awayPenalties": null
+    },
+    {
+      "home": "Mirassol FC",
+      "away": "Clube do Remo",
+      "league": "Campeonato Brasileiro Série A",
+      "date": "2026-07-29",
+      "time": "22:30 GMT",
+      "isLive": true,
+      "isFinished": false,
+      "homeScore": 1,
+      "awayScore": 1,
       "homePenalties": null,
       "awayPenalties": null
     }
