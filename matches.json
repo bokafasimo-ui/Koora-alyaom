@@ -1,22 +1,9 @@
 {
-  "updatedAt": "2026-07-29T21:27:17.247Z",
+  "updatedAt": "2026-07-29T22:29:23.593Z",
   "matches": [
     {
-      "home": "Botafogo FR",
-      "away": "Grêmio FBPA",
-      "league": "Campeonato Brasileiro Série A",
-      "date": "2026-07-29",
-      "time": "00:00 GMT",
-      "isLive": false,
-      "isFinished": false,
-      "homeScore": null,
-      "awayScore": null,
-      "homePenalties": null,
-      "awayPenalties": null
-    },
-    {
-      "home": "São Paulo FC",
-      "away": "Santos FC",
+      "home": "Chapecoense AF",
+      "away": "CR Vasco da Gama",
       "league": "Campeonato Brasileiro Série A",
       "date": "2026-07-29",
       "time": "00:00 GMT",
@@ -41,8 +28,8 @@
       "awayPenalties": null
     },
     {
-      "home": "Chapecoense AF",
-      "away": "CR Vasco da Gama",
+      "home": "São Paulo FC",
+      "away": "Santos FC",
       "league": "Campeonato Brasileiro Série A",
       "date": "2026-07-29",
       "time": "00:00 GMT",
@@ -54,8 +41,21 @@
       "awayPenalties": null
     },
     {
-      "home": "SC Internacional",
-      "away": "CR Flamengo",
+      "home": "Botafogo FR",
+      "away": "Grêmio FBPA",
+      "league": "Campeonato Brasileiro Série A",
+      "date": "2026-07-29",
+      "time": "00:00 GMT",
+      "isLive": false,
+      "isFinished": false,
+      "homeScore": null,
+      "awayScore": null,
+      "homePenalties": null,
+      "awayPenalties": null
+    },
+    {
+      "home": "Mirassol FC",
+      "away": "Clube do Remo",
       "league": "Campeonato Brasileiro Série A",
       "date": "2026-07-29",
       "time": "22:30 GMT",
@@ -67,8 +67,8 @@
       "awayPenalties": null
     },
     {
-      "home": "Mirassol FC",
-      "away": "Clube do Remo",
+      "home": "SC Internacional",
+      "away": "CR Flamengo",
       "league": "Campeonato Brasileiro Série A",
       "date": "2026-07-29",
       "time": "22:30 GMT",
