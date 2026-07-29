@@ -1,32 +1,6 @@
 {
-  "updatedAt": "2026-07-29T13:20:49.184Z",
+  "updatedAt": "2026-07-29T15:24:04.008Z",
   "matches": [
-    {
-      "home": "CA Mineiro",
-      "away": "RB Bragantino",
-      "league": "Campeonato Brasileiro Série A",
-      "date": "2026-07-29",
-      "time": "00:00 GMT",
-      "isLive": false,
-      "isFinished": false,
-      "homeScore": null,
-      "awayScore": null,
-      "homePenalties": null,
-      "awayPenalties": null
-    },
-    {
-      "home": "Chapecoense AF",
-      "away": "CR Vasco da Gama",
-      "league": "Campeonato Brasileiro Série A",
-      "date": "2026-07-29",
-      "time": "00:00 GMT",
-      "isLive": false,
-      "isFinished": false,
-      "homeScore": null,
-      "awayScore": null,
-      "homePenalties": null,
-      "awayPenalties": null
-    },
     {
       "home": "Botafogo FR",
       "away": "Grêmio FBPA",
@@ -54,8 +28,34 @@
       "awayPenalties": null
     },
     {
-      "home": "Mirassol FC",
-      "away": "Clube do Remo",
+      "home": "CA Mineiro",
+      "away": "RB Bragantino",
+      "league": "Campeonato Brasileiro Série A",
+      "date": "2026-07-29",
+      "time": "00:00 GMT",
+      "isLive": false,
+      "isFinished": false,
+      "homeScore": null,
+      "awayScore": null,
+      "homePenalties": null,
+      "awayPenalties": null
+    },
+    {
+      "home": "Chapecoense AF",
+      "away": "CR Vasco da Gama",
+      "league": "Campeonato Brasileiro Série A",
+      "date": "2026-07-29",
+      "time": "00:00 GMT",
+      "isLive": false,
+      "isFinished": false,
+      "homeScore": null,
+      "awayScore": null,
+      "homePenalties": null,
+      "awayPenalties": null
+    },
+    {
+      "home": "SC Internacional",
+      "away": "CR Flamengo",
       "league": "Campeonato Brasileiro Série A",
       "date": "2026-07-29",
       "time": "22:30 GMT",
@@ -67,8 +67,8 @@
       "awayPenalties": null
     },
     {
-      "home": "SC Internacional",
-      "away": "CR Flamengo",
+      "home": "Mirassol FC",
+      "away": "Clube do Remo",
       "league": "Campeonato Brasileiro Série A",
       "date": "2026-07-29",
       "time": "22:30 GMT",
