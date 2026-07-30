@@ -1,27 +1,27 @@
 {
-  "updatedAt": "2026-07-30T00:58:19.587Z",
+  "updatedAt": "2026-07-30T04:08:34.118Z",
   "matches": [
-    {
-      "home": "Fluminense FC",
-      "away": "EC Bahia",
-      "league": "Campeonato Brasileiro Série A",
-      "date": "2026-07-30",
-      "time": "00:30 GMT",
-      "isLive": true,
-      "isFinished": false,
-      "homeScore": 0,
-      "awayScore": 0,
-      "homePenalties": null,
-      "awayPenalties": null
-    },
     {
       "home": "EC Vitória",
       "away": "SE Palmeiras",
       "league": "Campeonato Brasileiro Série A",
       "date": "2026-07-30",
       "time": "00:30 GMT",
-      "isLive": true,
-      "isFinished": false,
+      "isLive": false,
+      "isFinished": true,
+      "homeScore": 0,
+      "awayScore": 4,
+      "homePenalties": null,
+      "awayPenalties": null
+    },
+    {
+      "home": "Fluminense FC",
+      "away": "EC Bahia",
+      "league": "Campeonato Brasileiro Série A",
+      "date": "2026-07-30",
+      "time": "00:30 GMT",
+      "isLive": false,
+      "isFinished": true,
       "homeScore": 0,
       "awayScore": 0,
       "homePenalties": null,
