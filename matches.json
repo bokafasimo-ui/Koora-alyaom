@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-30T21:53:44.372Z",
+  "updatedAt": "2026-07-30T22:56:48.597Z",
   "matches": [
     {
       "home": "EC Vitória",
@@ -33,10 +33,10 @@
       "league": "Campeonato Brasileiro Série A",
       "date": "2026-07-30",
       "time": "22:30 GMT",
-      "isLive": false,
+      "isLive": true,
       "isFinished": false,
-      "homeScore": null,
-      "awayScore": null,
+      "homeScore": 0,
+      "awayScore": 0,
       "homePenalties": null,
       "awayPenalties": null
     }
