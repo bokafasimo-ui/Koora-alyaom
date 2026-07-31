@@ -1,42 +1,16 @@
 {
-  "updatedAt": "2026-07-30T22:56:48.597Z",
+  "updatedAt": "2026-07-31T00:01:16.197Z",
   "matches": [
     {
-      "home": "EC Vitória",
-      "away": "SE Palmeiras",
+      "home": "Coritiba FBC",
+      "away": "Cruzeiro EC",
       "league": "Campeonato Brasileiro Série A",
-      "date": "2026-07-30",
+      "date": "2026-07-31",
       "time": "00:30 GMT",
       "isLive": false,
-      "isFinished": true,
-      "homeScore": 0,
-      "awayScore": 4,
-      "homePenalties": null,
-      "awayPenalties": null
-    },
-    {
-      "home": "Fluminense FC",
-      "away": "EC Bahia",
-      "league": "Campeonato Brasileiro Série A",
-      "date": "2026-07-30",
-      "time": "00:30 GMT",
-      "isLive": false,
-      "isFinished": true,
-      "homeScore": 0,
-      "awayScore": 0,
-      "homePenalties": null,
-      "awayPenalties": null
-    },
-    {
-      "home": "SC Corinthians Paulista",
-      "away": "CA Paranaense",
-      "league": "Campeonato Brasileiro Série A",
-      "date": "2026-07-30",
-      "time": "22:30 GMT",
-      "isLive": true,
       "isFinished": false,
-      "homeScore": 0,
-      "awayScore": 0,
+      "homeScore": null,
+      "awayScore": null,
       "homePenalties": null,
       "awayPenalties": null
     }
