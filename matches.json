@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-07T20:51:07.957Z",
+  "updatedAt": "2026-08-07T21:24:20.722Z",
   "matches": [
     {
       "home": "SC Cambuur-Leeuwarden",
@@ -10,7 +10,7 @@
       "isLive": false,
       "isFinished": true,
       "homeScore": 0,
-      "awayScore": 4,
+      "awayScore": 5,
       "homePenalties": null,
       "awayPenalties": null
     },
@@ -20,9 +20,9 @@
       "league": "Primeira Liga",
       "date": "2026-08-07",
       "time": "19:15 GMT",
-      "isLive": true,
-      "isFinished": false,
-      "homeScore": 0,
+      "isLive": false,
+      "isFinished": true,
+      "homeScore": 1,
       "awayScore": 1,
       "homePenalties": null,
       "awayPenalties": null
