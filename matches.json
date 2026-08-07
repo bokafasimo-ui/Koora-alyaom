@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-07T19:59:57.210Z",
+  "updatedAt": "2026-08-07T20:51:07.957Z",
   "matches": [
     {
       "home": "SC Cambuur-Leeuwarden",
@@ -10,7 +10,7 @@
       "isLive": false,
       "isFinished": true,
       "homeScore": 0,
-      "awayScore": 5,
+      "awayScore": 4,
       "homePenalties": null,
       "awayPenalties": null
     },
