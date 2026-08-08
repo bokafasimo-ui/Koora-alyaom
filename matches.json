@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-08-08T09:35:17.926Z",
+  "updatedAt": "2026-08-08T10:05:40.750Z",
   "matches": [
     {
-      "home": "NEC",
-      "away": "Telstar 1963",
-      "league": "Eredivisie",
+      "home": "CS Marítimo",
+      "away": "Casa Pia AC",
+      "league": "Primeira Liga",
       "date": "2026-08-08",
       "time": "14:30 GMT",
       "isLive": false,
@@ -15,9 +15,9 @@
       "awayPenalties": null
     },
     {
-      "home": "CS Marítimo",
-      "away": "Casa Pia AC",
-      "league": "Primeira Liga",
+      "home": "NEC",
+      "away": "Telstar 1963",
+      "league": "Eredivisie",
       "date": "2026-08-08",
       "time": "14:30 GMT",
       "isLive": false,
@@ -67,9 +67,9 @@
       "awayPenalties": null
     },
     {
-      "home": "Grêmio FBPA",
-      "away": "São Paulo FC",
-      "league": "Campeonato Brasileiro Série A",
+      "home": "AZ",
+      "away": "ADO Den Haag",
+      "league": "Eredivisie",
       "date": "2026-08-08",
       "time": "19:00 GMT",
       "isLive": false,
@@ -80,9 +80,9 @@
       "awayPenalties": null
     },
     {
-      "home": "AZ",
-      "away": "ADO Den Haag",
-      "league": "Eredivisie",
+      "home": "Grêmio FBPA",
+      "away": "São Paulo FC",
+      "league": "Campeonato Brasileiro Série A",
       "date": "2026-08-08",
       "time": "19:00 GMT",
       "isLive": false,
