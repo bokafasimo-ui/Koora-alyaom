@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-08T22:11:00.268Z",
+  "updatedAt": "2026-08-08T22:46:08.992Z",
   "matches": [
     {
       "home": "CS Marítimo",
@@ -114,7 +114,7 @@
       "isLive": true,
       "isFinished": false,
       "homeScore": 1,
-      "awayScore": 1,
+      "awayScore": 2,
       "homePenalties": null,
       "awayPenalties": null
     },
