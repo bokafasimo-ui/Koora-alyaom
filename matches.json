@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-08T06:26:27.621Z",
+  "updatedAt": "2026-08-08T07:28:59.579Z",
   "matches": [
     {
       "home": "CS Marítimo",
@@ -67,9 +67,9 @@
       "awayPenalties": null
     },
     {
-      "home": "Grêmio FBPA",
-      "away": "São Paulo FC",
-      "league": "Campeonato Brasileiro Série A",
+      "home": "AZ",
+      "away": "ADO Den Haag",
+      "league": "Eredivisie",
       "date": "2026-08-08",
       "time": "19:00 GMT",
       "isLive": false,
@@ -80,9 +80,9 @@
       "awayPenalties": null
     },
     {
-      "home": "AZ",
-      "away": "ADO Den Haag",
-      "league": "Eredivisie",
+      "home": "Grêmio FBPA",
+      "away": "São Paulo FC",
+      "league": "Campeonato Brasileiro Série A",
       "date": "2026-08-08",
       "time": "19:00 GMT",
       "isLive": false,
