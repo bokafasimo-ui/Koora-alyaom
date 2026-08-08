@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-08T17:42:14.789Z",
+  "updatedAt": "2026-08-08T18:03:17.305Z",
   "matches": [
     {
       "home": "NEC",
@@ -33,7 +33,7 @@
       "league": "Eredivisie",
       "date": "2026-08-08",
       "time": "16:45 GMT",
-      "isLive": false,
+      "isLive": true,
       "isFinished": false,
       "homeScore": null,
       "awayScore": null,
@@ -46,10 +46,10 @@
       "league": "Primeira Liga",
       "date": "2026-08-08",
       "time": "17:00 GMT",
-      "isLive": false,
+      "isLive": true,
       "isFinished": false,
-      "homeScore": null,
-      "awayScore": null,
+      "homeScore": 0,
+      "awayScore": 0,
       "homePenalties": null,
       "awayPenalties": null
     },
