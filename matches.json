@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-08T21:14:27.061Z",
+  "updatedAt": "2026-08-08T21:47:16.250Z",
   "matches": [
     {
       "home": "NEC",
@@ -98,9 +98,9 @@
       "league": "Primeira Liga",
       "date": "2026-08-08",
       "time": "19:30 GMT",
-      "isLive": true,
-      "isFinished": false,
-      "homeScore": 1,
+      "isLive": false,
+      "isFinished": true,
+      "homeScore": 2,
       "awayScore": 2,
       "homePenalties": null,
       "awayPenalties": null
@@ -111,10 +111,10 @@
       "league": "Campeonato Brasileiro Série A",
       "date": "2026-08-08",
       "time": "21:30 GMT",
-      "isLive": false,
+      "isLive": true,
       "isFinished": false,
-      "homeScore": null,
-      "awayScore": null,
+      "homeScore": 1,
+      "awayScore": 0,
       "homePenalties": null,
       "awayPenalties": null
     },
