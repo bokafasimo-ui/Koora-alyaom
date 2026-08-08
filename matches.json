@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-08T20:48:07.563Z",
+  "updatedAt": "2026-08-08T21:14:27.061Z",
   "matches": [
     {
       "home": "NEC",
@@ -72,9 +72,9 @@
       "league": "Campeonato Brasileiro Série A",
       "date": "2026-08-08",
       "time": "19:00 GMT",
-      "isLive": true,
-      "isFinished": false,
-      "homeScore": 1,
+      "isLive": false,
+      "isFinished": true,
+      "homeScore": 2,
       "awayScore": 1,
       "homePenalties": null,
       "awayPenalties": null
@@ -85,8 +85,8 @@
       "league": "Eredivisie",
       "date": "2026-08-08",
       "time": "19:00 GMT",
-      "isLive": true,
-      "isFinished": false,
+      "isLive": false,
+      "isFinished": true,
       "homeScore": 2,
       "awayScore": 0,
       "homePenalties": null,
@@ -100,8 +100,8 @@
       "time": "19:30 GMT",
       "isLive": true,
       "isFinished": false,
-      "homeScore": 0,
-      "awayScore": 1,
+      "homeScore": 1,
+      "awayScore": 2,
       "homePenalties": null,
       "awayPenalties": null
     },
