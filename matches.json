@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-09T16:57:26.371Z",
+  "updatedAt": "2026-08-09T17:32:28.962Z",
   "matches": [
     {
       "home": "Botafogo FR",
@@ -85,10 +85,10 @@
       "league": "Primeira Liga",
       "date": "2026-08-09",
       "time": "17:00 GMT",
-      "isLive": false,
+      "isLive": true,
       "isFinished": false,
-      "homeScore": null,
-      "awayScore": null,
+      "homeScore": 1,
+      "awayScore": 0,
       "homePenalties": null,
       "awayPenalties": null
     },
