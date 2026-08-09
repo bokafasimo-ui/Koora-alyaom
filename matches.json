@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-09T23:12:35.934Z",
+  "updatedAt": "2026-08-09T23:47:17.587Z",
   "matches": [
     {
       "home": "Botafogo FR",
@@ -119,19 +119,6 @@
       "awayPenalties": null
     },
     {
-      "home": "Gil Vicente FC",
-      "away": "Rio Ave FC",
-      "league": "Primeira Liga",
-      "date": "2026-08-09",
-      "time": "19:30 GMT",
-      "isLive": false,
-      "isFinished": true,
-      "homeScore": 1,
-      "awayScore": 0,
-      "homePenalties": null,
-      "awayPenalties": null
-    },
-    {
       "home": "Moreirense FC",
       "away": "Sporting Clube de Braga",
       "league": "Primeira Liga",
@@ -141,6 +128,19 @@
       "isFinished": true,
       "homeScore": 2,
       "awayScore": 2,
+      "homePenalties": null,
+      "awayPenalties": null
+    },
+    {
+      "home": "Gil Vicente FC",
+      "away": "Rio Ave FC",
+      "league": "Primeira Liga",
+      "date": "2026-08-09",
+      "time": "19:30 GMT",
+      "isLive": false,
+      "isFinished": true,
+      "homeScore": 1,
+      "awayScore": 0,
       "homePenalties": null,
       "awayPenalties": null
     },
@@ -163,10 +163,10 @@
       "league": "Campeonato Brasileiro Série A",
       "date": "2026-08-09",
       "time": "21:30 GMT",
-      "isLive": true,
-      "isFinished": false,
+      "isLive": false,
+      "isFinished": true,
       "homeScore": 0,
-      "awayScore": 1,
+      "awayScore": 2,
       "homePenalties": null,
       "awayPenalties": null
     },
@@ -176,10 +176,10 @@
       "league": "Campeonato Brasileiro Série A",
       "date": "2026-08-09",
       "time": "21:30 GMT",
-      "isLive": true,
-      "isFinished": false,
+      "isLive": false,
+      "isFinished": true,
       "homeScore": 0,
-      "awayScore": 3,
+      "awayScore": 2,
       "homePenalties": null,
       "awayPenalties": null
     },
