@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-14T19:57:16.001Z",
+  "updatedAt": "2026-08-14T20:31:41.757Z",
   "matches": [
     {
       "home": "Telstar 1963",
@@ -7,10 +7,10 @@
       "league": "Eredivisie",
       "date": "2026-08-14",
       "time": "18:00 GMT",
-      "isLive": true,
-      "isFinished": false,
+      "isLive": false,
+      "isFinished": true,
       "homeScore": 1,
-      "awayScore": 2,
+      "awayScore": 3,
       "homePenalties": null,
       "awayPenalties": null
     },
@@ -23,7 +23,7 @@
       "isLive": true,
       "isFinished": false,
       "homeScore": 1,
-      "awayScore": 1,
+      "awayScore": 2,
       "homePenalties": null,
       "awayPenalties": null
     },
@@ -35,7 +35,7 @@
       "time": "19:15 GMT",
       "isLive": true,
       "isFinished": false,
-      "homeScore": 2,
+      "homeScore": 3,
       "awayScore": 0,
       "homePenalties": null,
       "awayPenalties": null
