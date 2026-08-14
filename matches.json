@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-14T20:31:41.757Z",
+  "updatedAt": "2026-08-14T20:58:49.669Z",
   "matches": [
     {
       "home": "Telstar 1963",
@@ -22,7 +22,7 @@
       "time": "19:00 GMT",
       "isLive": true,
       "isFinished": false,
-      "homeScore": 1,
+      "homeScore": 2,
       "awayScore": 2,
       "homePenalties": null,
       "awayPenalties": null
@@ -36,7 +36,7 @@
       "isLive": true,
       "isFinished": false,
       "homeScore": 3,
-      "awayScore": 0,
+      "awayScore": 2,
       "homePenalties": null,
       "awayPenalties": null
     }
