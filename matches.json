@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-14T18:13:08.730Z",
+  "updatedAt": "2026-08-14T19:14:44.756Z",
   "matches": [
     {
       "home": "Telstar 1963",
@@ -20,10 +20,10 @@
       "league": "Championship",
       "date": "2026-08-14",
       "time": "19:00 GMT",
-      "isLive": false,
+      "isLive": true,
       "isFinished": false,
-      "homeScore": null,
-      "awayScore": null,
+      "homeScore": 0,
+      "awayScore": 0,
       "homePenalties": null,
       "awayPenalties": null
     },
