@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T04:35:50.299Z",
+  "updatedAt": "2026-08-15T05:00:16.261Z",
   "matches": [
     {
       "home": "Bolton Wanderers FC",
@@ -7,19 +7,6 @@
       "league": "Championship",
       "date": "2026-08-15",
       "time": "11:30 GMT",
-      "isLive": false,
-      "isFinished": false,
-      "homeScore": null,
-      "awayScore": null,
-      "homePenalties": null,
-      "awayPenalties": null
-    },
-    {
-      "home": "Stoke City FC",
-      "away": "Swansea City AFC",
-      "league": "Championship",
-      "date": "2026-08-15",
-      "time": "14:00 GMT",
       "isLive": false,
       "isFinished": false,
       "homeScore": null,
@@ -54,8 +41,8 @@
       "awayPenalties": null
     },
     {
-      "home": "Middlesbrough FC",
-      "away": "Lincoln City FC",
+      "home": "Stoke City FC",
+      "away": "Swansea City AFC",
       "league": "Championship",
       "date": "2026-08-15",
       "time": "14:00 GMT",
@@ -93,11 +80,11 @@
       "awayPenalties": null
     },
     {
-      "home": "Willem II Tilburg",
-      "away": "NEC",
-      "league": "Eredivisie",
+      "home": "Middlesbrough FC",
+      "away": "Lincoln City FC",
+      "league": "Championship",
       "date": "2026-08-15",
-      "time": "14:30 GMT",
+      "time": "14:00 GMT",
       "isLive": false,
       "isFinished": false,
       "homeScore": null,
@@ -109,6 +96,19 @@
       "home": "FC Alverca",
       "away": "CF Estrela da Amadora",
       "league": "Primeira Liga",
+      "date": "2026-08-15",
+      "time": "14:30 GMT",
+      "isLive": false,
+      "isFinished": false,
+      "homeScore": null,
+      "awayScore": null,
+      "homePenalties": null,
+      "awayPenalties": null
+    },
+    {
+      "home": "Willem II Tilburg",
+      "away": "NEC",
+      "league": "Eredivisie",
       "date": "2026-08-15",
       "time": "14:30 GMT",
       "isLive": false,
