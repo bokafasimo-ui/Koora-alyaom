@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T07:39:41.093Z",
+  "updatedAt": "2026-08-15T07:58:18.347Z",
   "matches": [
     {
       "home": "Bolton Wanderers FC",
@@ -28,21 +28,8 @@
       "awayPenalties": null
     },
     {
-      "home": "Bristol City FC",
-      "away": "Millwall FC",
-      "league": "Championship",
-      "date": "2026-08-15",
-      "time": "14:00 GMT",
-      "isLive": false,
-      "isFinished": false,
-      "homeScore": null,
-      "awayScore": null,
-      "homePenalties": null,
-      "awayPenalties": null
-    },
-    {
-      "home": "Stoke City FC",
-      "away": "Swansea City AFC",
+      "home": "Charlton Athletic FC",
+      "away": "Derby County FC",
       "league": "Championship",
       "date": "2026-08-15",
       "time": "14:00 GMT",
@@ -80,8 +67,21 @@
       "awayPenalties": null
     },
     {
-      "home": "Charlton Athletic FC",
-      "away": "Derby County FC",
+      "home": "Bristol City FC",
+      "away": "Millwall FC",
+      "league": "Championship",
+      "date": "2026-08-15",
+      "time": "14:00 GMT",
+      "isLive": false,
+      "isFinished": false,
+      "homeScore": null,
+      "awayScore": null,
+      "homePenalties": null,
+      "awayPenalties": null
+    },
+    {
+      "home": "Stoke City FC",
+      "away": "Swansea City AFC",
       "league": "Championship",
       "date": "2026-08-15",
       "time": "14:00 GMT",
@@ -197,9 +197,9 @@
       "awayPenalties": null
     },
     {
-      "home": "Fluminense FC",
-      "away": "SE Palmeiras",
-      "league": "Campeonato Brasileiro Série A",
+      "home": "Rio Ave FC",
+      "away": "FC Porto",
+      "league": "Primeira Liga",
       "date": "2026-08-15",
       "time": "19:30 GMT",
       "isLive": false,
@@ -223,9 +223,9 @@
       "awayPenalties": null
     },
     {
-      "home": "Rio Ave FC",
-      "away": "FC Porto",
-      "league": "Primeira Liga",
+      "home": "Fluminense FC",
+      "away": "SE Palmeiras",
+      "league": "Campeonato Brasileiro Série A",
       "date": "2026-08-15",
       "time": "19:30 GMT",
       "isLive": false,
