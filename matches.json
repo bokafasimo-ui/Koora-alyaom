@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T11:13:59.228Z",
+  "updatedAt": "2026-08-15T11:34:47.273Z",
   "matches": [
     {
       "home": "Bolton Wanderers FC",
@@ -7,19 +7,6 @@
       "league": "Championship",
       "date": "2026-08-15",
       "time": "11:30 GMT",
-      "isLive": false,
-      "isFinished": false,
-      "homeScore": null,
-      "awayScore": null,
-      "homePenalties": null,
-      "awayPenalties": null
-    },
-    {
-      "home": "Norwich City FC",
-      "away": "West Bromwich Albion FC",
-      "league": "Championship",
-      "date": "2026-08-15",
-      "time": "14:00 GMT",
       "isLive": false,
       "isFinished": false,
       "homeScore": null,
@@ -54,6 +41,32 @@
       "awayPenalties": null
     },
     {
+      "home": "Norwich City FC",
+      "away": "West Bromwich Albion FC",
+      "league": "Championship",
+      "date": "2026-08-15",
+      "time": "14:00 GMT",
+      "isLive": false,
+      "isFinished": false,
+      "homeScore": null,
+      "awayScore": null,
+      "homePenalties": null,
+      "awayPenalties": null
+    },
+    {
+      "home": "Stoke City FC",
+      "away": "Swansea City AFC",
+      "league": "Championship",
+      "date": "2026-08-15",
+      "time": "14:00 GMT",
+      "isLive": false,
+      "isFinished": false,
+      "homeScore": null,
+      "awayScore": null,
+      "homePenalties": null,
+      "awayPenalties": null
+    },
+    {
       "home": "Portsmouth FC",
       "away": "Queens Park Rangers FC",
       "league": "Championship",
@@ -69,19 +82,6 @@
     {
       "home": "Bristol City FC",
       "away": "Millwall FC",
-      "league": "Championship",
-      "date": "2026-08-15",
-      "time": "14:00 GMT",
-      "isLive": false,
-      "isFinished": false,
-      "homeScore": null,
-      "awayScore": null,
-      "homePenalties": null,
-      "awayPenalties": null
-    },
-    {
-      "home": "Stoke City FC",
-      "away": "Swansea City AFC",
       "league": "Championship",
       "date": "2026-08-15",
       "time": "14:00 GMT",
@@ -197,9 +197,9 @@
       "awayPenalties": null
     },
     {
-      "home": "Sevilla FC",
-      "away": "Rayo Vallecano de Madrid",
-      "league": "Primera Division",
+      "home": "Rio Ave FC",
+      "away": "FC Porto",
+      "league": "Primeira Liga",
       "date": "2026-08-15",
       "time": "19:30 GMT",
       "isLive": false,
@@ -210,9 +210,9 @@
       "awayPenalties": null
     },
     {
-      "home": "Rio Ave FC",
-      "away": "FC Porto",
-      "league": "Primeira Liga",
+      "home": "Sevilla FC",
+      "away": "Rayo Vallecano de Madrid",
+      "league": "Primera Division",
       "date": "2026-08-15",
       "time": "19:30 GMT",
       "isLive": false,
