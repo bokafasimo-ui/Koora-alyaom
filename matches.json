@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T14:59:12.621Z",
+  "updatedAt": "2026-08-15T15:27:06.696Z",
   "matches": [
     {
       "home": "Bolton Wanderers FC",
@@ -15,6 +15,45 @@
       "awayPenalties": null
     },
     {
+      "home": "Middlesbrough FC",
+      "away": "Lincoln City FC",
+      "league": "Championship",
+      "date": "2026-08-15",
+      "time": "14:00 GMT",
+      "isLive": true,
+      "isFinished": false,
+      "homeScore": 1,
+      "awayScore": 1,
+      "homePenalties": null,
+      "awayPenalties": null
+    },
+    {
+      "home": "Charlton Athletic FC",
+      "away": "Derby County FC",
+      "league": "Championship",
+      "date": "2026-08-15",
+      "time": "14:00 GMT",
+      "isLive": true,
+      "isFinished": false,
+      "homeScore": 1,
+      "awayScore": 1,
+      "homePenalties": null,
+      "awayPenalties": null
+    },
+    {
+      "home": "Norwich City FC",
+      "away": "West Bromwich Albion FC",
+      "league": "Championship",
+      "date": "2026-08-15",
+      "time": "14:00 GMT",
+      "isLive": true,
+      "isFinished": false,
+      "homeScore": 0,
+      "awayScore": 0,
+      "homePenalties": null,
+      "awayPenalties": null
+    },
+    {
       "home": "Bristol City FC",
       "away": "Millwall FC",
       "league": "Championship",
@@ -23,7 +62,7 @@
       "isLive": true,
       "isFinished": false,
       "homeScore": 0,
-      "awayScore": 1,
+      "awayScore": 2,
       "homePenalties": null,
       "awayPenalties": null
     },
@@ -54,41 +93,15 @@
       "awayPenalties": null
     },
     {
-      "home": "Middlesbrough FC",
-      "away": "Lincoln City FC",
-      "league": "Championship",
+      "home": "Willem II Tilburg",
+      "away": "NEC",
+      "league": "Eredivisie",
       "date": "2026-08-15",
-      "time": "14:00 GMT",
+      "time": "14:30 GMT",
       "isLive": true,
       "isFinished": false,
       "homeScore": 0,
       "awayScore": 1,
-      "homePenalties": null,
-      "awayPenalties": null
-    },
-    {
-      "home": "Charlton Athletic FC",
-      "away": "Derby County FC",
-      "league": "Championship",
-      "date": "2026-08-15",
-      "time": "14:00 GMT",
-      "isLive": true,
-      "isFinished": false,
-      "homeScore": 0,
-      "awayScore": 1,
-      "homePenalties": null,
-      "awayPenalties": null
-    },
-    {
-      "home": "Norwich City FC",
-      "away": "West Bromwich Albion FC",
-      "league": "Championship",
-      "date": "2026-08-15",
-      "time": "14:00 GMT",
-      "isLive": true,
-      "isFinished": false,
-      "homeScore": 0,
-      "awayScore": 0,
       "homePenalties": null,
       "awayPenalties": null
     },
@@ -96,19 +109,6 @@
       "home": "FC Alverca",
       "away": "CF Estrela da Amadora",
       "league": "Primeira Liga",
-      "date": "2026-08-15",
-      "time": "14:30 GMT",
-      "isLive": true,
-      "isFinished": false,
-      "homeScore": 0,
-      "awayScore": 0,
-      "homePenalties": null,
-      "awayPenalties": null
-    },
-    {
-      "home": "Willem II Tilburg",
-      "away": "NEC",
-      "league": "Eredivisie",
       "date": "2026-08-15",
       "time": "14:30 GMT",
       "isLive": true,
@@ -197,19 +197,6 @@
       "awayPenalties": null
     },
     {
-      "home": "Fluminense FC",
-      "away": "SE Palmeiras",
-      "league": "Campeonato Brasileiro Série A",
-      "date": "2026-08-15",
-      "time": "19:30 GMT",
-      "isLive": false,
-      "isFinished": false,
-      "homeScore": null,
-      "awayScore": null,
-      "homePenalties": null,
-      "awayPenalties": null
-    },
-    {
       "home": "Sevilla FC",
       "away": "Rayo Vallecano de Madrid",
       "league": "Primera Division",
@@ -226,6 +213,19 @@
       "home": "Rio Ave FC",
       "away": "FC Porto",
       "league": "Primeira Liga",
+      "date": "2026-08-15",
+      "time": "19:30 GMT",
+      "isLive": false,
+      "isFinished": false,
+      "homeScore": null,
+      "awayScore": null,
+      "homePenalties": null,
+      "awayPenalties": null
+    },
+    {
+      "home": "Fluminense FC",
+      "away": "SE Palmeiras",
+      "league": "Campeonato Brasileiro Série A",
       "date": "2026-08-15",
       "time": "19:30 GMT",
       "isLive": false,
