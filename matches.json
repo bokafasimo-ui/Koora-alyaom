@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T11:34:47.273Z",
+  "updatedAt": "2026-08-15T11:52:05.248Z",
   "matches": [
     {
       "home": "Bolton Wanderers FC",
@@ -7,10 +7,10 @@
       "league": "Championship",
       "date": "2026-08-15",
       "time": "11:30 GMT",
-      "isLive": false,
+      "isLive": true,
       "isFinished": false,
-      "homeScore": null,
-      "awayScore": null,
+      "homeScore": 1,
+      "awayScore": 0,
       "homePenalties": null,
       "awayPenalties": null
     },
@@ -54,6 +54,19 @@
       "awayPenalties": null
     },
     {
+      "home": "Bristol City FC",
+      "away": "Millwall FC",
+      "league": "Championship",
+      "date": "2026-08-15",
+      "time": "14:00 GMT",
+      "isLive": false,
+      "isFinished": false,
+      "homeScore": null,
+      "awayScore": null,
+      "homePenalties": null,
+      "awayPenalties": null
+    },
+    {
       "home": "Stoke City FC",
       "away": "Swansea City AFC",
       "league": "Championship",
@@ -69,19 +82,6 @@
     {
       "home": "Portsmouth FC",
       "away": "Queens Park Rangers FC",
-      "league": "Championship",
-      "date": "2026-08-15",
-      "time": "14:00 GMT",
-      "isLive": false,
-      "isFinished": false,
-      "homeScore": null,
-      "awayScore": null,
-      "homePenalties": null,
-      "awayPenalties": null
-    },
-    {
-      "home": "Bristol City FC",
-      "away": "Millwall FC",
       "league": "Championship",
       "date": "2026-08-15",
       "time": "14:00 GMT",
@@ -197,9 +197,9 @@
       "awayPenalties": null
     },
     {
-      "home": "Rio Ave FC",
-      "away": "FC Porto",
-      "league": "Primeira Liga",
+      "home": "Sevilla FC",
+      "away": "Rayo Vallecano de Madrid",
+      "league": "Primera Division",
       "date": "2026-08-15",
       "time": "19:30 GMT",
       "isLive": false,
@@ -210,9 +210,9 @@
       "awayPenalties": null
     },
     {
-      "home": "Sevilla FC",
-      "away": "Rayo Vallecano de Madrid",
-      "league": "Primera Division",
+      "home": "Rio Ave FC",
+      "away": "FC Porto",
+      "league": "Primeira Liga",
       "date": "2026-08-15",
       "time": "19:30 GMT",
       "isLive": false,
