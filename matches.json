@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T13:32:45.712Z",
+  "updatedAt": "2026-08-15T13:54:31.637Z",
   "matches": [
     {
       "home": "Bolton Wanderers FC",
@@ -54,19 +54,6 @@
       "awayPenalties": null
     },
     {
-      "home": "Bristol City FC",
-      "away": "Millwall FC",
-      "league": "Championship",
-      "date": "2026-08-15",
-      "time": "14:00 GMT",
-      "isLive": false,
-      "isFinished": false,
-      "homeScore": null,
-      "awayScore": null,
-      "homePenalties": null,
-      "awayPenalties": null
-    },
-    {
       "home": "Stoke City FC",
       "away": "Swansea City AFC",
       "league": "Championship",
@@ -82,6 +69,19 @@
     {
       "home": "Portsmouth FC",
       "away": "Queens Park Rangers FC",
+      "league": "Championship",
+      "date": "2026-08-15",
+      "time": "14:00 GMT",
+      "isLive": false,
+      "isFinished": false,
+      "homeScore": null,
+      "awayScore": null,
+      "homePenalties": null,
+      "awayPenalties": null
+    },
+    {
+      "home": "Bristol City FC",
+      "away": "Millwall FC",
       "league": "Championship",
       "date": "2026-08-15",
       "time": "14:00 GMT",
