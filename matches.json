@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T20:32:17.465Z",
+  "updatedAt": "2026-08-15T20:52:27.639Z",
   "matches": [
     {
       "home": "Bolton Wanderers FC",
@@ -7,6 +7,19 @@
       "league": "Championship",
       "date": "2026-08-15",
       "time": "11:30 GMT",
+      "isLive": false,
+      "isFinished": true,
+      "homeScore": 2,
+      "awayScore": 1,
+      "homePenalties": null,
+      "awayPenalties": null
+    },
+    {
+      "home": "Charlton Athletic FC",
+      "away": "Derby County FC",
+      "league": "Championship",
+      "date": "2026-08-15",
+      "time": "14:00 GMT",
       "isLive": false,
       "isFinished": true,
       "homeScore": 2,
@@ -41,15 +54,15 @@
       "awayPenalties": null
     },
     {
-      "home": "Charlton Athletic FC",
-      "away": "Derby County FC",
+      "home": "Stoke City FC",
+      "away": "Swansea City AFC",
       "league": "Championship",
       "date": "2026-08-15",
       "time": "14:00 GMT",
       "isLive": false,
       "isFinished": true,
-      "homeScore": 2,
-      "awayScore": 1,
+      "homeScore": 1,
+      "awayScore": 2,
       "homePenalties": null,
       "awayPenalties": null
     },
@@ -62,19 +75,6 @@
       "isLive": false,
       "isFinished": true,
       "homeScore": 0,
-      "awayScore": 2,
-      "homePenalties": null,
-      "awayPenalties": null
-    },
-    {
-      "home": "Stoke City FC",
-      "away": "Swansea City AFC",
-      "league": "Championship",
-      "date": "2026-08-15",
-      "time": "14:00 GMT",
-      "isLive": false,
-      "isFinished": true,
-      "homeScore": 1,
       "awayScore": 2,
       "homePenalties": null,
       "awayPenalties": null
@@ -205,7 +205,7 @@
       "isLive": true,
       "isFinished": false,
       "homeScore": 0,
-      "awayScore": 2,
+      "awayScore": 1,
       "homePenalties": null,
       "awayPenalties": null
     },
