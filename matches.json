@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T03:21:46.261Z",
+  "updatedAt": "2026-08-15T03:58:40.969Z",
   "matches": [
     {
       "home": "Bolton Wanderers FC",
@@ -7,19 +7,6 @@
       "league": "Championship",
       "date": "2026-08-15",
       "time": "11:30 GMT",
-      "isLive": false,
-      "isFinished": false,
-      "homeScore": null,
-      "awayScore": null,
-      "homePenalties": null,
-      "awayPenalties": null
-    },
-    {
-      "home": "Middlesbrough FC",
-      "away": "Lincoln City FC",
-      "league": "Championship",
-      "date": "2026-08-15",
-      "time": "14:00 GMT",
       "isLive": false,
       "isFinished": false,
       "homeScore": null,
@@ -54,6 +41,32 @@
       "awayPenalties": null
     },
     {
+      "home": "Middlesbrough FC",
+      "away": "Lincoln City FC",
+      "league": "Championship",
+      "date": "2026-08-15",
+      "time": "14:00 GMT",
+      "isLive": false,
+      "isFinished": false,
+      "homeScore": null,
+      "awayScore": null,
+      "homePenalties": null,
+      "awayPenalties": null
+    },
+    {
+      "home": "Portsmouth FC",
+      "away": "Queens Park Rangers FC",
+      "league": "Championship",
+      "date": "2026-08-15",
+      "time": "14:00 GMT",
+      "isLive": false,
+      "isFinished": false,
+      "homeScore": null,
+      "awayScore": null,
+      "homePenalties": null,
+      "awayPenalties": null
+    },
+    {
       "home": "Bristol City FC",
       "away": "Millwall FC",
       "league": "Championship",
@@ -69,19 +82,6 @@
     {
       "home": "Stoke City FC",
       "away": "Swansea City AFC",
-      "league": "Championship",
-      "date": "2026-08-15",
-      "time": "14:00 GMT",
-      "isLive": false,
-      "isFinished": false,
-      "homeScore": null,
-      "awayScore": null,
-      "homePenalties": null,
-      "awayPenalties": null
-    },
-    {
-      "home": "Portsmouth FC",
-      "away": "Queens Park Rangers FC",
       "league": "Championship",
       "date": "2026-08-15",
       "time": "14:00 GMT",
