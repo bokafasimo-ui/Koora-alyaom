@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T21:10:30.206Z",
+  "updatedAt": "2026-08-15T21:33:42.545Z",
   "matches": [
     {
       "home": "Bolton Wanderers FC",
@@ -28,15 +28,28 @@
       "awayPenalties": null
     },
     {
-      "home": "Charlton Athletic FC",
-      "away": "Derby County FC",
+      "home": "Bristol City FC",
+      "away": "Millwall FC",
       "league": "Championship",
       "date": "2026-08-15",
       "time": "14:00 GMT",
       "isLive": false,
       "isFinished": true,
-      "homeScore": 2,
-      "awayScore": 1,
+      "homeScore": 0,
+      "awayScore": 2,
+      "homePenalties": null,
+      "awayPenalties": null
+    },
+    {
+      "home": "Stoke City FC",
+      "away": "Swansea City AFC",
+      "league": "Championship",
+      "date": "2026-08-15",
+      "time": "14:00 GMT",
+      "isLive": false,
+      "isFinished": true,
+      "homeScore": 1,
+      "awayScore": 2,
       "homePenalties": null,
       "awayPenalties": null
     },
@@ -67,28 +80,15 @@
       "awayPenalties": null
     },
     {
-      "home": "Bristol City FC",
-      "away": "Millwall FC",
+      "home": "Charlton Athletic FC",
+      "away": "Derby County FC",
       "league": "Championship",
       "date": "2026-08-15",
       "time": "14:00 GMT",
       "isLive": false,
       "isFinished": true,
-      "homeScore": 0,
-      "awayScore": 2,
-      "homePenalties": null,
-      "awayPenalties": null
-    },
-    {
-      "home": "Stoke City FC",
-      "away": "Swansea City AFC",
-      "league": "Championship",
-      "date": "2026-08-15",
-      "time": "14:00 GMT",
-      "isLive": false,
-      "isFinished": true,
-      "homeScore": 1,
-      "awayScore": 2,
+      "homeScore": 2,
+      "awayScore": 1,
       "homePenalties": null,
       "awayPenalties": null
     },
@@ -197,6 +197,19 @@
       "awayPenalties": null
     },
     {
+      "home": "Fluminense FC",
+      "away": "SE Palmeiras",
+      "league": "Campeonato Brasileiro Série A",
+      "date": "2026-08-15",
+      "time": "19:30 GMT",
+      "isLive": false,
+      "isFinished": true,
+      "homeScore": 3,
+      "awayScore": 2,
+      "homePenalties": null,
+      "awayPenalties": null
+    },
+    {
       "home": "Sevilla FC",
       "away": "Rayo Vallecano de Madrid",
       "league": "Primera Division",
@@ -215,23 +228,10 @@
       "league": "Primeira Liga",
       "date": "2026-08-15",
       "time": "19:30 GMT",
-      "isLive": true,
-      "isFinished": false,
+      "isLive": false,
+      "isFinished": true,
       "homeScore": 0,
-      "awayScore": 1,
-      "homePenalties": null,
-      "awayPenalties": null
-    },
-    {
-      "home": "Fluminense FC",
-      "away": "SE Palmeiras",
-      "league": "Campeonato Brasileiro Série A",
-      "date": "2026-08-15",
-      "time": "19:30 GMT",
-      "isLive": true,
-      "isFinished": false,
-      "homeScore": 1,
-      "awayScore": 1,
+      "awayScore": 2,
       "homePenalties": null,
       "awayPenalties": null
     },
