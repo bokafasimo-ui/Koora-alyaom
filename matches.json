@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T22:53:35.130Z",
+  "updatedAt": "2026-08-15T23:11:38.391Z",
   "matches": [
     {
       "home": "Bolton Wanderers FC",
@@ -244,7 +244,7 @@
       "isLive": true,
       "isFinished": false,
       "homeScore": 0,
-      "awayScore": 0,
+      "awayScore": 1,
       "homePenalties": null,
       "awayPenalties": null
     }
