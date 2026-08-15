@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T02:39:06.994Z",
+  "updatedAt": "2026-08-15T03:21:46.261Z",
   "matches": [
     {
       "home": "Bolton Wanderers FC",
@@ -28,8 +28,8 @@
       "awayPenalties": null
     },
     {
-      "home": "Norwich City FC",
-      "away": "West Bromwich Albion FC",
+      "home": "Charlton Athletic FC",
+      "away": "Derby County FC",
       "league": "Championship",
       "date": "2026-08-15",
       "time": "14:00 GMT",
@@ -41,8 +41,8 @@
       "awayPenalties": null
     },
     {
-      "home": "Charlton Athletic FC",
-      "away": "Derby County FC",
+      "home": "Norwich City FC",
+      "away": "West Bromwich Albion FC",
       "league": "Championship",
       "date": "2026-08-15",
       "time": "14:00 GMT",
@@ -210,9 +210,9 @@
       "awayPenalties": null
     },
     {
-      "home": "Sevilla FC",
-      "away": "Rayo Vallecano de Madrid",
-      "league": "Primera Division",
+      "home": "Fluminense FC",
+      "away": "SE Palmeiras",
+      "league": "Campeonato Brasileiro Série A",
       "date": "2026-08-15",
       "time": "19:30 GMT",
       "isLive": false,
@@ -223,9 +223,9 @@
       "awayPenalties": null
     },
     {
-      "home": "Fluminense FC",
-      "away": "SE Palmeiras",
-      "league": "Campeonato Brasileiro Série A",
+      "home": "Sevilla FC",
+      "away": "Rayo Vallecano de Madrid",
+      "league": "Primera Division",
       "date": "2026-08-15",
       "time": "19:30 GMT",
       "isLive": false,
