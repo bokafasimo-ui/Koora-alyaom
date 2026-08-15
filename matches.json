@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T06:26:26.800Z",
+  "updatedAt": "2026-08-15T07:06:26.138Z",
   "matches": [
     {
       "home": "Bolton Wanderers FC",
@@ -7,6 +7,19 @@
       "league": "Championship",
       "date": "2026-08-15",
       "time": "11:30 GMT",
+      "isLive": false,
+      "isFinished": false,
+      "homeScore": null,
+      "awayScore": null,
+      "homePenalties": null,
+      "awayPenalties": null
+    },
+    {
+      "home": "Norwich City FC",
+      "away": "West Bromwich Albion FC",
+      "league": "Championship",
+      "date": "2026-08-15",
+      "time": "14:00 GMT",
       "isLive": false,
       "isFinished": false,
       "homeScore": null,
@@ -41,8 +54,8 @@
       "awayPenalties": null
     },
     {
-      "home": "Norwich City FC",
-      "away": "West Bromwich Albion FC",
+      "home": "Portsmouth FC",
+      "away": "Queens Park Rangers FC",
       "league": "Championship",
       "date": "2026-08-15",
       "time": "14:00 GMT",
@@ -69,19 +82,6 @@
     {
       "home": "Stoke City FC",
       "away": "Swansea City AFC",
-      "league": "Championship",
-      "date": "2026-08-15",
-      "time": "14:00 GMT",
-      "isLive": false,
-      "isFinished": false,
-      "homeScore": null,
-      "awayScore": null,
-      "homePenalties": null,
-      "awayPenalties": null
-    },
-    {
-      "home": "Portsmouth FC",
-      "away": "Queens Park Rangers FC",
       "league": "Championship",
       "date": "2026-08-15",
       "time": "14:00 GMT",
