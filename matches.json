@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T11:07:38.403Z",
+  "updatedAt": "2026-08-16T11:31:59.778Z",
   "matches": [
     {
       "home": "São Paulo FC",
@@ -23,7 +23,7 @@
       "isLive": true,
       "isFinished": false,
       "homeScore": 0,
-      "awayScore": 2,
+      "awayScore": 3,
       "homePenalties": null,
       "awayPenalties": null
     },
