@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T21:05:08.667Z",
+  "updatedAt": "2026-08-16T21:30:40.666Z",
   "matches": [
     {
       "home": "São Paulo FC",
@@ -145,19 +145,6 @@
       "awayPenalties": null
     },
     {
-      "home": "FC Arouca",
-      "away": "Moreirense FC",
-      "league": "Primeira Liga",
-      "date": "2026-08-16",
-      "time": "17:00 GMT",
-      "isLive": false,
-      "isFinished": true,
-      "homeScore": 4,
-      "awayScore": 0,
-      "homePenalties": null,
-      "awayPenalties": null
-    },
-    {
       "home": "RCD Espanyol de Barcelona",
       "away": "Levante UD",
       "league": "Primera Division",
@@ -171,15 +158,28 @@
       "awayPenalties": null
     },
     {
+      "home": "FC Arouca",
+      "away": "Moreirense FC",
+      "league": "Primeira Liga",
+      "date": "2026-08-16",
+      "time": "17:00 GMT",
+      "isLive": false,
+      "isFinished": true,
+      "homeScore": 4,
+      "awayScore": 0,
+      "homePenalties": null,
+      "awayPenalties": null
+    },
+    {
       "home": "CA Mineiro",
       "away": "Grêmio FBPA",
       "league": "Campeonato Brasileiro Série A",
       "date": "2026-08-16",
       "time": "19:00 GMT",
       "isLive": false,
-      "isFinished": false,
-      "homeScore": null,
-      "awayScore": null,
+      "isFinished": true,
+      "homeScore": 3,
+      "awayScore": 0,
       "homePenalties": null,
       "awayPenalties": null
     },
@@ -205,7 +205,7 @@
       "isLive": true,
       "isFinished": false,
       "homeScore": 1,
-      "awayScore": 1,
+      "awayScore": 2,
       "homePenalties": null,
       "awayPenalties": null
     },
