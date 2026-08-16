@@ -1,19 +1,6 @@
 {
-  "updatedAt": "2026-08-16T20:50:23.891Z",
+  "updatedAt": "2026-08-16T21:05:08.667Z",
   "matches": [
-    {
-      "home": "Sporting Clube de Braga",
-      "away": "Gil Vicente FC",
-      "league": "Primeira Liga",
-      "date": "2026-08-16",
-      "time": "00:00 GMT",
-      "isLive": false,
-      "isFinished": false,
-      "homeScore": null,
-      "awayScore": null,
-      "homePenalties": null,
-      "awayPenalties": null
-    },
     {
       "home": "São Paulo FC",
       "away": "Coritiba FBC",
@@ -28,6 +15,19 @@
       "awayPenalties": null
     },
     {
+      "home": "Sporting Clube de Braga",
+      "away": "Gil Vicente FC",
+      "league": "Primeira Liga",
+      "date": "2026-08-16",
+      "time": "00:00 GMT",
+      "isLive": false,
+      "isFinished": false,
+      "homeScore": null,
+      "awayScore": null,
+      "homePenalties": null,
+      "awayPenalties": null
+    },
+    {
       "home": "ADO Den Haag",
       "away": "FC Groningen",
       "league": "Eredivisie",
@@ -37,19 +37,6 @@
       "isFinished": true,
       "homeScore": 1,
       "awayScore": 4,
-      "homePenalties": null,
-      "awayPenalties": null
-    },
-    {
-      "home": "FC Twente '65",
-      "away": "PEC Zwolle",
-      "league": "Eredivisie",
-      "date": "2026-08-16",
-      "time": "12:30 GMT",
-      "isLive": false,
-      "isFinished": true,
-      "homeScore": 3,
-      "awayScore": 1,
       "homePenalties": null,
       "awayPenalties": null
     },
@@ -75,6 +62,19 @@
       "isLive": false,
       "isFinished": true,
       "homeScore": 2,
+      "awayScore": 1,
+      "homePenalties": null,
+      "awayPenalties": null
+    },
+    {
+      "home": "FC Twente '65",
+      "away": "PEC Zwolle",
+      "league": "Eredivisie",
+      "date": "2026-08-16",
+      "time": "12:30 GMT",
+      "isLive": false,
+      "isFinished": true,
+      "homeScore": 3,
       "awayScore": 1,
       "homePenalties": null,
       "awayPenalties": null
@@ -119,9 +119,9 @@
       "awayPenalties": null
     },
     {
-      "home": "Real Racing Club de Santander",
-      "away": "Villarreal CF",
-      "league": "Primera Division",
+      "home": "Burnley FC",
+      "away": "West Ham United FC",
+      "league": "Championship",
       "date": "2026-08-16",
       "time": "15:00 GMT",
       "isLive": false,
@@ -132,9 +132,9 @@
       "awayPenalties": null
     },
     {
-      "home": "Burnley FC",
-      "away": "West Ham United FC",
-      "league": "Championship",
+      "home": "Real Racing Club de Santander",
+      "away": "Villarreal CF",
+      "league": "Primera Division",
       "date": "2026-08-16",
       "time": "15:00 GMT",
       "isLive": false,
@@ -171,19 +171,6 @@
       "awayPenalties": null
     },
     {
-      "home": "CR Vasco da Gama",
-      "away": "Santos FC",
-      "league": "Campeonato Brasileiro Série A",
-      "date": "2026-08-16",
-      "time": "19:00 GMT",
-      "isLive": true,
-      "isFinished": false,
-      "homeScore": 0,
-      "awayScore": 3,
-      "homePenalties": null,
-      "awayPenalties": null
-    },
-    {
       "home": "CA Mineiro",
       "away": "Grêmio FBPA",
       "league": "Campeonato Brasileiro Série A",
@@ -193,6 +180,19 @@
       "isFinished": false,
       "homeScore": null,
       "awayScore": null,
+      "homePenalties": null,
+      "awayPenalties": null
+    },
+    {
+      "home": "CR Vasco da Gama",
+      "away": "Santos FC",
+      "league": "Campeonato Brasileiro Série A",
+      "date": "2026-08-16",
+      "time": "19:00 GMT",
+      "isLive": false,
+      "isFinished": true,
+      "homeScore": 0,
+      "awayScore": 3,
       "homePenalties": null,
       "awayPenalties": null
     },
@@ -210,8 +210,8 @@
       "awayPenalties": null
     },
     {
-      "home": "Mirassol FC",
-      "away": "CR Flamengo",
+      "home": "EC Vitória",
+      "away": "Botafogo FR",
       "league": "Campeonato Brasileiro Série A",
       "date": "2026-08-16",
       "time": "21:30 GMT",
@@ -223,8 +223,8 @@
       "awayPenalties": null
     },
     {
-      "home": "EC Vitória",
-      "away": "Botafogo FR",
+      "home": "Mirassol FC",
+      "away": "CR Flamengo",
       "league": "Campeonato Brasileiro Série A",
       "date": "2026-08-16",
       "time": "21:30 GMT",
