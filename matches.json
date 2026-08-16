@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T13:56:51.585Z",
+  "updatedAt": "2026-08-16T14:21:50.592Z",
   "matches": [
     {
       "home": "São Paulo FC",
@@ -28,6 +28,19 @@
       "awayPenalties": null
     },
     {
+      "home": "FC Twente '65",
+      "away": "PEC Zwolle",
+      "league": "Eredivisie",
+      "date": "2026-08-16",
+      "time": "12:30 GMT",
+      "isLive": true,
+      "isFinished": false,
+      "homeScore": 3,
+      "awayScore": 1,
+      "homePenalties": null,
+      "awayPenalties": null
+    },
+    {
       "home": "Feyenoord Rotterdam",
       "away": "Go Ahead Eagles",
       "league": "Eredivisie",
@@ -36,7 +49,7 @@
       "isLive": true,
       "isFinished": false,
       "homeScore": 2,
-      "awayScore": 1,
+      "awayScore": 2,
       "homePenalties": null,
       "awayPenalties": null
     },
@@ -54,28 +67,15 @@
       "awayPenalties": null
     },
     {
-      "home": "FC Twente '65",
-      "away": "PEC Zwolle",
-      "league": "Eredivisie",
-      "date": "2026-08-16",
-      "time": "12:30 GMT",
-      "isLive": true,
-      "isFinished": false,
-      "homeScore": 2,
-      "awayScore": 1,
-      "homePenalties": null,
-      "awayPenalties": null
-    },
-    {
       "home": "Chapecoense AF",
       "away": "EC Bahia",
       "league": "Campeonato Brasileiro Série A",
       "date": "2026-08-16",
       "time": "14:00 GMT",
-      "isLive": false,
+      "isLive": true,
       "isFinished": false,
-      "homeScore": null,
-      "awayScore": null,
+      "homeScore": 0,
+      "awayScore": 1,
       "homePenalties": null,
       "awayPenalties": null
     },
@@ -184,8 +184,8 @@
       "awayPenalties": null
     },
     {
-      "home": "Sporting Clube de Braga",
-      "away": "Gil Vicente FC",
+      "home": "FC Famalicão",
+      "away": "CS Marítimo",
       "league": "Primeira Liga",
       "date": "2026-08-16",
       "time": "19:30 GMT",
@@ -197,8 +197,8 @@
       "awayPenalties": null
     },
     {
-      "home": "FC Famalicão",
-      "away": "CS Marítimo",
+      "home": "Sporting Clube de Braga",
+      "away": "Gil Vicente FC",
       "league": "Primeira Liga",
       "date": "2026-08-16",
       "time": "19:30 GMT",
