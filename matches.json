@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T12:10:34.621Z",
+  "updatedAt": "2026-08-16T12:59:37.558Z",
   "matches": [
     {
       "home": "São Paulo FC",
@@ -20,8 +20,8 @@
       "league": "Eredivisie",
       "date": "2026-08-16",
       "time": "10:15 GMT",
-      "isLive": true,
-      "isFinished": false,
+      "isLive": false,
+      "isFinished": true,
       "homeScore": 1,
       "awayScore": 4,
       "homePenalties": null,
@@ -33,10 +33,10 @@
       "league": "Eredivisie",
       "date": "2026-08-16",
       "time": "12:30 GMT",
-      "isLive": false,
+      "isLive": true,
       "isFinished": false,
-      "homeScore": null,
-      "awayScore": null,
+      "homeScore": 0,
+      "awayScore": 1,
       "homePenalties": null,
       "awayPenalties": null
     },
@@ -46,10 +46,10 @@
       "league": "Championship",
       "date": "2026-08-16",
       "time": "12:30 GMT",
-      "isLive": false,
+      "isLive": true,
       "isFinished": false,
-      "homeScore": null,
-      "awayScore": null,
+      "homeScore": 1,
+      "awayScore": 0,
       "homePenalties": null,
       "awayPenalties": null
     },
@@ -59,10 +59,10 @@
       "league": "Eredivisie",
       "date": "2026-08-16",
       "time": "12:30 GMT",
-      "isLive": false,
+      "isLive": true,
       "isFinished": false,
-      "homeScore": null,
-      "awayScore": null,
+      "homeScore": 0,
+      "awayScore": 0,
       "homePenalties": null,
       "awayPenalties": null
     },
@@ -106,9 +106,9 @@
       "awayPenalties": null
     },
     {
-      "home": "Real Racing Club de Santander",
-      "away": "Villarreal CF",
-      "league": "Primera Division",
+      "home": "Burnley FC",
+      "away": "West Ham United FC",
+      "league": "Championship",
       "date": "2026-08-16",
       "time": "15:00 GMT",
       "isLive": false,
@@ -119,9 +119,9 @@
       "awayPenalties": null
     },
     {
-      "home": "Burnley FC",
-      "away": "West Ham United FC",
-      "league": "Championship",
+      "home": "Real Racing Club de Santander",
+      "away": "Villarreal CF",
+      "league": "Primera Division",
       "date": "2026-08-16",
       "time": "15:00 GMT",
       "isLive": false,
@@ -158,19 +158,6 @@
       "awayPenalties": null
     },
     {
-      "home": "CA Mineiro",
-      "away": "Grêmio FBPA",
-      "league": "Campeonato Brasileiro Série A",
-      "date": "2026-08-16",
-      "time": "19:00 GMT",
-      "isLive": false,
-      "isFinished": false,
-      "homeScore": null,
-      "awayScore": null,
-      "homePenalties": null,
-      "awayPenalties": null
-    },
-    {
       "home": "CR Vasco da Gama",
       "away": "Santos FC",
       "league": "Campeonato Brasileiro Série A",
@@ -184,11 +171,11 @@
       "awayPenalties": null
     },
     {
-      "home": "Sporting Clube de Braga",
-      "away": "Gil Vicente FC",
-      "league": "Primeira Liga",
+      "home": "CA Mineiro",
+      "away": "Grêmio FBPA",
+      "league": "Campeonato Brasileiro Série A",
       "date": "2026-08-16",
-      "time": "19:30 GMT",
+      "time": "19:00 GMT",
       "isLive": false,
       "isFinished": false,
       "homeScore": null,
@@ -210,8 +197,21 @@
       "awayPenalties": null
     },
     {
-      "home": "EC Vitória",
-      "away": "Botafogo FR",
+      "home": "Sporting Clube de Braga",
+      "away": "Gil Vicente FC",
+      "league": "Primeira Liga",
+      "date": "2026-08-16",
+      "time": "19:30 GMT",
+      "isLive": false,
+      "isFinished": false,
+      "homeScore": null,
+      "awayScore": null,
+      "homePenalties": null,
+      "awayPenalties": null
+    },
+    {
+      "home": "Mirassol FC",
+      "away": "CR Flamengo",
       "league": "Campeonato Brasileiro Série A",
       "date": "2026-08-16",
       "time": "21:30 GMT",
@@ -223,8 +223,8 @@
       "awayPenalties": null
     },
     {
-      "home": "Mirassol FC",
-      "away": "CR Flamengo",
+      "home": "EC Vitória",
+      "away": "Botafogo FR",
       "league": "Campeonato Brasileiro Série A",
       "date": "2026-08-16",
       "time": "21:30 GMT",
