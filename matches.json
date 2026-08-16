@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T05:38:04.190Z",
+  "updatedAt": "2026-08-16T05:58:45.931Z",
   "matches": [
     {
       "home": "São Paulo FC",
@@ -132,9 +132,9 @@
       "awayPenalties": null
     },
     {
-      "home": "RCD Espanyol de Barcelona",
-      "away": "Levante UD",
-      "league": "Primera Division",
+      "home": "FC Arouca",
+      "away": "Moreirense FC",
+      "league": "Primeira Liga",
       "date": "2026-08-16",
       "time": "17:00 GMT",
       "isLive": false,
@@ -145,9 +145,9 @@
       "awayPenalties": null
     },
     {
-      "home": "FC Arouca",
-      "away": "Moreirense FC",
-      "league": "Primeira Liga",
+      "home": "RCD Espanyol de Barcelona",
+      "away": "Levante UD",
+      "league": "Primera Division",
       "date": "2026-08-16",
       "time": "17:00 GMT",
       "isLive": false,
@@ -184,8 +184,8 @@
       "awayPenalties": null
     },
     {
-      "home": "Sporting Clube de Braga",
-      "away": "Gil Vicente FC",
+      "home": "FC Famalicão",
+      "away": "CS Marítimo",
       "league": "Primeira Liga",
       "date": "2026-08-16",
       "time": "19:30 GMT",
@@ -197,8 +197,8 @@
       "awayPenalties": null
     },
     {
-      "home": "FC Famalicão",
-      "away": "CS Marítimo",
+      "home": "Sporting Clube de Braga",
+      "away": "Gil Vicente FC",
       "league": "Primeira Liga",
       "date": "2026-08-16",
       "time": "19:30 GMT",
