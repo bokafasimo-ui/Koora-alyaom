@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T09:11:44.300Z",
+  "updatedAt": "2026-08-16T09:41:59.293Z",
   "matches": [
     {
       "home": "São Paulo FC",
@@ -28,9 +28,9 @@
       "awayPenalties": null
     },
     {
-      "home": "Watford FC",
-      "away": "Southampton FC",
-      "league": "Championship",
+      "home": "Feyenoord Rotterdam",
+      "away": "Go Ahead Eagles",
+      "league": "Eredivisie",
       "date": "2026-08-16",
       "time": "12:30 GMT",
       "isLive": false,
@@ -41,9 +41,9 @@
       "awayPenalties": null
     },
     {
-      "home": "Feyenoord Rotterdam",
-      "away": "Go Ahead Eagles",
-      "league": "Eredivisie",
+      "home": "Watford FC",
+      "away": "Southampton FC",
+      "league": "Championship",
       "date": "2026-08-16",
       "time": "12:30 GMT",
       "isLive": false,
@@ -106,9 +106,9 @@
       "awayPenalties": null
     },
     {
-      "home": "Real Racing Club de Santander",
-      "away": "Villarreal CF",
-      "league": "Primera Division",
+      "home": "Burnley FC",
+      "away": "West Ham United FC",
+      "league": "Championship",
       "date": "2026-08-16",
       "time": "15:00 GMT",
       "isLive": false,
@@ -119,9 +119,9 @@
       "awayPenalties": null
     },
     {
-      "home": "Burnley FC",
-      "away": "West Ham United FC",
-      "league": "Championship",
+      "home": "Real Racing Club de Santander",
+      "away": "Villarreal CF",
+      "league": "Primera Division",
       "date": "2026-08-16",
       "time": "15:00 GMT",
       "isLive": false,
