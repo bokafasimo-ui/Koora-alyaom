@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T18:47:56.218Z",
+  "updatedAt": "2026-08-16T19:08:58.553Z",
   "matches": [
     {
       "home": "São Paulo FC",
@@ -150,9 +150,9 @@
       "league": "Primera Division",
       "date": "2026-08-16",
       "time": "17:00 GMT",
-      "isLive": true,
-      "isFinished": false,
-      "homeScore": 2,
+      "isLive": false,
+      "isFinished": true,
+      "homeScore": 3,
       "awayScore": 0,
       "homePenalties": null,
       "awayPenalties": null
@@ -163,9 +163,9 @@
       "league": "Primeira Liga",
       "date": "2026-08-16",
       "time": "17:00 GMT",
-      "isLive": true,
-      "isFinished": false,
-      "homeScore": 3,
+      "isLive": false,
+      "isFinished": true,
+      "homeScore": 4,
       "awayScore": 0,
       "homePenalties": null,
       "awayPenalties": null
@@ -189,10 +189,10 @@
       "league": "Campeonato Brasileiro Série A",
       "date": "2026-08-16",
       "time": "19:00 GMT",
-      "isLive": false,
+      "isLive": true,
       "isFinished": false,
-      "homeScore": null,
-      "awayScore": null,
+      "homeScore": 0,
+      "awayScore": 0,
       "homePenalties": null,
       "awayPenalties": null
     },
