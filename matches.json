@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T00:26:45.847Z",
+  "updatedAt": "2026-08-16T02:05:42.868Z",
   "matches": [
     {
       "home": "São Paulo FC",
@@ -7,10 +7,10 @@
       "league": "Campeonato Brasileiro Série A",
       "date": "2026-08-16",
       "time": "00:00 GMT",
-      "isLive": true,
-      "isFinished": false,
-      "homeScore": 0,
-      "awayScore": 0,
+      "isLive": false,
+      "isFinished": true,
+      "homeScore": 1,
+      "awayScore": 1,
       "homePenalties": null,
       "awayPenalties": null
     },
@@ -20,6 +20,19 @@
       "league": "Eredivisie",
       "date": "2026-08-16",
       "time": "10:15 GMT",
+      "isLive": false,
+      "isFinished": false,
+      "homeScore": null,
+      "awayScore": null,
+      "homePenalties": null,
+      "awayPenalties": null
+    },
+    {
+      "home": "FC Twente '65",
+      "away": "PEC Zwolle",
+      "league": "Eredivisie",
+      "date": "2026-08-16",
+      "time": "12:30 GMT",
       "isLive": false,
       "isFinished": false,
       "homeScore": null,
@@ -43,19 +56,6 @@
     {
       "home": "Feyenoord Rotterdam",
       "away": "Go Ahead Eagles",
-      "league": "Eredivisie",
-      "date": "2026-08-16",
-      "time": "12:30 GMT",
-      "isLive": false,
-      "isFinished": false,
-      "homeScore": null,
-      "awayScore": null,
-      "homePenalties": null,
-      "awayPenalties": null
-    },
-    {
-      "home": "FC Twente '65",
-      "away": "PEC Zwolle",
       "league": "Eredivisie",
       "date": "2026-08-16",
       "time": "12:30 GMT",
