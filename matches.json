@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-17T20:59:56.334Z",
+  "updatedAt": "2026-08-17T21:32:36.756Z",
   "matches": [
     {
       "home": "RC Deportivo La Coruña",
@@ -7,8 +7,8 @@
       "league": "Primera Division",
       "date": "2026-08-17",
       "time": "19:00 GMT",
-      "isLive": true,
-      "isFinished": false,
+      "isLive": false,
+      "isFinished": true,
       "homeScore": 1,
       "awayScore": 1,
       "homePenalties": null,
@@ -20,9 +20,9 @@
       "league": "Championship",
       "date": "2026-08-17",
       "time": "19:00 GMT",
-      "isLive": true,
-      "isFinished": false,
-      "homeScore": 0,
+      "isLive": false,
+      "isFinished": true,
+      "homeScore": 1,
       "awayScore": 1,
       "homePenalties": null,
       "awayPenalties": null
@@ -33,8 +33,8 @@
       "league": "Primeira Liga",
       "date": "2026-08-17",
       "time": "19:15 GMT",
-      "isLive": true,
-      "isFinished": false,
+      "isLive": false,
+      "isFinished": true,
       "homeScore": 0,
       "awayScore": 7,
       "homePenalties": null,
