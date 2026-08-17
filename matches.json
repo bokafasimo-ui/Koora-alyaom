@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-17T20:37:33.041Z",
+  "updatedAt": "2026-08-17T20:59:56.334Z",
   "matches": [
     {
       "home": "RC Deportivo La Coruña",
@@ -10,7 +10,7 @@
       "isLive": true,
       "isFinished": false,
       "homeScore": 1,
-      "awayScore": 0,
+      "awayScore": 1,
       "homePenalties": null,
       "awayPenalties": null
     },
@@ -36,7 +36,7 @@
       "isLive": true,
       "isFinished": false,
       "homeScore": 0,
-      "awayScore": 6,
+      "awayScore": 7,
       "homePenalties": null,
       "awayPenalties": null
     },
