@@ -1,19 +1,6 @@
 {
-  "updatedAt": "2026-08-17T20:03:09.851Z",
+  "updatedAt": "2026-08-17T20:37:33.041Z",
   "matches": [
-    {
-      "home": "Cardiff City FC",
-      "away": "Wrexham AFC",
-      "league": "Championship",
-      "date": "2026-08-17",
-      "time": "19:00 GMT",
-      "isLive": true,
-      "isFinished": false,
-      "homeScore": 0,
-      "awayScore": 1,
-      "homePenalties": null,
-      "awayPenalties": null
-    },
     {
       "home": "RC Deportivo La Coruña",
       "away": "Elche CF",
@@ -28,6 +15,19 @@
       "awayPenalties": null
     },
     {
+      "home": "Cardiff City FC",
+      "away": "Wrexham AFC",
+      "league": "Championship",
+      "date": "2026-08-17",
+      "time": "19:00 GMT",
+      "isLive": true,
+      "isFinished": false,
+      "homeScore": 0,
+      "awayScore": 1,
+      "homePenalties": null,
+      "awayPenalties": null
+    },
+    {
       "home": "Casa Pia AC",
       "away": "Sport Lisboa e Benfica",
       "league": "Primeira Liga",
@@ -36,7 +36,7 @@
       "isLive": true,
       "isFinished": false,
       "homeScore": 0,
-      "awayScore": 2,
+      "awayScore": 6,
       "homePenalties": null,
       "awayPenalties": null
     },
