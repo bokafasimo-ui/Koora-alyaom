@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T20:49:20.192Z",
+  "updatedAt": "2026-08-19T21:11:53.352Z",
   "matches": [
     {
       "home": "Club Atlético de Madrid",
@@ -7,9 +7,9 @@
       "league": "Primera Division",
       "date": "2026-08-19",
       "time": "19:00 GMT",
-      "isLive": true,
-      "isFinished": false,
-      "homeScore": 1,
+      "isLive": false,
+      "isFinished": true,
+      "homeScore": 2,
       "awayScore": 0,
       "homePenalties": null,
       "awayPenalties": null
