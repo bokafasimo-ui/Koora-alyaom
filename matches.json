@@ -1,4 +1,18 @@
 {
-  "updatedAt": "2026-08-18T23:53:20.524Z",
-  "matches": []
+  "updatedAt": "2026-08-19T00:39:37.011Z",
+  "matches": [
+    {
+      "home": "Club Atlético de Madrid",
+      "away": "Málaga CF",
+      "league": "Primera Division",
+      "date": "2026-08-19",
+      "time": "19:00 GMT",
+      "isLive": false,
+      "isFinished": false,
+      "homeScore": null,
+      "awayScore": null,
+      "homePenalties": null,
+      "awayPenalties": null
+    }
+  ]
 }
