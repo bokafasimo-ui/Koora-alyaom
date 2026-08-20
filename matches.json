@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-08-19T23:57:23.644Z",
+  "updatedAt": "2026-08-20T01:17:26.609Z",
   "matches": [
     {
-      "home": "Club Atlético de Madrid",
-      "away": "Málaga CF",
+      "home": "Rayo Vallecano de Madrid",
+      "away": "Deportivo Alavés",
       "league": "Primera Division",
-      "date": "2026-08-19",
+      "date": "2026-08-20",
       "time": "19:00 GMT",
       "isLive": false,
-      "isFinished": true,
-      "homeScore": 2,
-      "awayScore": 0,
+      "isFinished": false,
+      "homeScore": null,
+      "awayScore": null,
       "homePenalties": null,
       "awayPenalties": null
     }
