@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T19:04:07.943Z",
+  "updatedAt": "2026-08-20T19:39:03.175Z",
   "matches": [
     {
       "home": "Rayo Vallecano de Madrid",
@@ -7,10 +7,10 @@
       "league": "Primera Division",
       "date": "2026-08-20",
       "time": "19:00 GMT",
-      "isLive": false,
+      "isLive": true,
       "isFinished": false,
-      "homeScore": null,
-      "awayScore": null,
+      "homeScore": 0,
+      "awayScore": 0,
       "homePenalties": null,
       "awayPenalties": null
     }
