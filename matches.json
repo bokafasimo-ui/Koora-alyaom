@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T20:38:57.343Z",
+  "updatedAt": "2026-08-21T20:58:45.092Z",
   "matches": [
     {
       "home": "Olympique de Marseille",
@@ -7,22 +7,9 @@
       "league": "Ligue 1",
       "date": "2026-08-21",
       "time": "18:45 GMT",
-      "isLive": true,
-      "isFinished": false,
-      "homeScore": 2,
-      "awayScore": 0,
-      "homePenalties": null,
-      "awayPenalties": null
-    },
-    {
-      "home": "Arsenal FC",
-      "away": "Coventry City FC",
-      "league": "Premier League",
-      "date": "2026-08-21",
-      "time": "19:00 GMT",
-      "isLive": true,
-      "isFinished": false,
-      "homeScore": 3,
+      "isLive": false,
+      "isFinished": true,
+      "homeScore": 4,
       "awayScore": 0,
       "homePenalties": null,
       "awayPenalties": null
@@ -36,6 +23,19 @@
       "isLive": true,
       "isFinished": false,
       "homeScore": 1,
+      "awayScore": 0,
+      "homePenalties": null,
+      "awayPenalties": null
+    },
+    {
+      "home": "Arsenal FC",
+      "away": "Coventry City FC",
+      "league": "Premier League",
+      "date": "2026-08-21",
+      "time": "19:00 GMT",
+      "isLive": false,
+      "isFinished": true,
+      "homeScore": 3,
       "awayScore": 0,
       "homePenalties": null,
       "awayPenalties": null
