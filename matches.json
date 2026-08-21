@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T18:23:35.242Z",
+  "updatedAt": "2026-08-21T19:05:12.300Z",
   "matches": [
     {
       "home": "Olympique de Marseille",
@@ -7,6 +7,19 @@
       "league": "Ligue 1",
       "date": "2026-08-21",
       "time": "18:45 GMT",
+      "isLive": true,
+      "isFinished": false,
+      "homeScore": 0,
+      "awayScore": 0,
+      "homePenalties": null,
+      "awayPenalties": null
+    },
+    {
+      "home": "Real Betis Balompié",
+      "away": "Real Sociedad de Fútbol",
+      "league": "Primera Division",
+      "date": "2026-08-21",
+      "time": "19:00 GMT",
       "isLive": false,
       "isFinished": false,
       "homeScore": null,
@@ -18,19 +31,6 @@
       "home": "Arsenal FC",
       "away": "Coventry City FC",
       "league": "Premier League",
-      "date": "2026-08-21",
-      "time": "19:00 GMT",
-      "isLive": false,
-      "isFinished": false,
-      "homeScore": null,
-      "awayScore": null,
-      "homePenalties": null,
-      "awayPenalties": null
-    },
-    {
-      "home": "Real Betis Balompié",
-      "away": "Real Sociedad de Fútbol",
-      "league": "Primera Division",
       "date": "2026-08-21",
       "time": "19:00 GMT",
       "isLive": false,
