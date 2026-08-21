@@ -1,16 +1,42 @@
 {
-  "updatedAt": "2026-08-20T23:50:40.738Z",
+  "updatedAt": "2026-08-21T00:26:27.699Z",
   "matches": [
     {
-      "home": "Rayo Vallecano de Madrid",
-      "away": "Deportivo Alavés",
-      "league": "Primera Division",
-      "date": "2026-08-20",
+      "home": "Olympique de Marseille",
+      "away": "RC Strasbourg Alsace",
+      "league": "Ligue 1",
+      "date": "2026-08-21",
+      "time": "18:45 GMT",
+      "isLive": false,
+      "isFinished": false,
+      "homeScore": null,
+      "awayScore": null,
+      "homePenalties": null,
+      "awayPenalties": null
+    },
+    {
+      "home": "Arsenal FC",
+      "away": "Coventry City FC",
+      "league": "Premier League",
+      "date": "2026-08-21",
       "time": "19:00 GMT",
       "isLive": false,
-      "isFinished": true,
-      "homeScore": 1,
-      "awayScore": 1,
+      "isFinished": false,
+      "homeScore": null,
+      "awayScore": null,
+      "homePenalties": null,
+      "awayPenalties": null
+    },
+    {
+      "home": "Real Betis Balompié",
+      "away": "Real Sociedad de Fútbol",
+      "league": "Primera Division",
+      "date": "2026-08-21",
+      "time": "19:00 GMT",
+      "isLive": false,
+      "isFinished": false,
+      "homeScore": null,
+      "awayScore": null,
       "homePenalties": null,
       "awayPenalties": null
     }
