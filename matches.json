@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T22:55:10.701Z",
+  "updatedAt": "2026-08-22T23:15:39.569Z",
   "matches": [
     {
       "home": "NEC",
@@ -41,19 +41,6 @@
       "awayPenalties": null
     },
     {
-      "home": "Birmingham City FC",
-      "away": "Bristol City FC",
-      "league": "Championship",
-      "date": "2026-08-22",
-      "time": "11:30 GMT",
-      "isLive": false,
-      "isFinished": true,
-      "homeScore": 2,
-      "awayScore": 2,
-      "homePenalties": null,
-      "awayPenalties": null
-    },
-    {
       "home": "Lincoln City FC",
       "away": "Portsmouth FC",
       "league": "Championship",
@@ -67,15 +54,15 @@
       "awayPenalties": null
     },
     {
-      "home": "Southampton FC",
-      "away": "Stoke City FC",
+      "home": "Birmingham City FC",
+      "away": "Bristol City FC",
       "league": "Championship",
       "date": "2026-08-22",
-      "time": "14:00 GMT",
+      "time": "11:30 GMT",
       "isLive": false,
       "isFinished": true,
-      "homeScore": 3,
-      "awayScore": 1,
+      "homeScore": 2,
+      "awayScore": 2,
       "homePenalties": null,
       "awayPenalties": null
     },
@@ -127,6 +114,19 @@
       "isLive": false,
       "isFinished": true,
       "homeScore": 0,
+      "awayScore": 1,
+      "homePenalties": null,
+      "awayPenalties": null
+    },
+    {
+      "home": "Southampton FC",
+      "away": "Stoke City FC",
+      "league": "Championship",
+      "date": "2026-08-22",
+      "time": "14:00 GMT",
+      "isLive": false,
+      "isFinished": true,
+      "homeScore": 3,
       "awayScore": 1,
       "homePenalties": null,
       "awayPenalties": null
@@ -340,19 +340,6 @@
       "awayPenalties": null
     },
     {
-      "home": "Genoa CFC",
-      "away": "SSC Napoli",
-      "league": "Serie A",
-      "date": "2026-08-22",
-      "time": "18:45 GMT",
-      "isLive": false,
-      "isFinished": true,
-      "homeScore": 0,
-      "awayScore": 2,
-      "homePenalties": null,
-      "awayPenalties": null
-    },
-    {
       "home": "Le Mans FC",
       "away": "Stade Brestois 29",
       "league": "Ligue 1",
@@ -366,15 +353,15 @@
       "awayPenalties": null
     },
     {
-      "home": "Parma Calcio 1913",
-      "away": "Cagliari Calcio",
+      "home": "Genoa CFC",
+      "away": "SSC Napoli",
       "league": "Serie A",
       "date": "2026-08-22",
       "time": "18:45 GMT",
       "isLive": false,
       "isFinished": true,
       "homeScore": 0,
-      "awayScore": 1,
+      "awayScore": 2,
       "homePenalties": null,
       "awayPenalties": null
     },
@@ -414,6 +401,19 @@
       "isFinished": true,
       "homeScore": 0,
       "awayScore": 0,
+      "homePenalties": null,
+      "awayPenalties": null
+    },
+    {
+      "home": "Parma Calcio 1913",
+      "away": "Cagliari Calcio",
+      "league": "Serie A",
+      "date": "2026-08-22",
+      "time": "18:45 GMT",
+      "isLive": false,
+      "isFinished": true,
+      "homeScore": 0,
+      "awayScore": 1,
       "homePenalties": null,
       "awayPenalties": null
     },
