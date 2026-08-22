@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T13:39:19.599Z",
+  "updatedAt": "2026-08-22T13:57:22.573Z",
   "matches": [
     {
       "home": "NEC",
@@ -67,28 +67,15 @@
       "awayPenalties": null
     },
     {
-      "home": "Blackburn Rovers FC",
-      "away": "Middlesbrough FC",
-      "league": "Championship",
-      "date": "2026-08-22",
-      "time": "14:00 GMT",
-      "isLive": false,
-      "isFinished": false,
-      "homeScore": null,
-      "awayScore": null,
-      "homePenalties": null,
-      "awayPenalties": null
-    },
-    {
       "home": "Nottingham Forest FC",
       "away": "Leeds United FC",
       "league": "Premier League",
       "date": "2026-08-22",
       "time": "14:00 GMT",
-      "isLive": false,
+      "isLive": true,
       "isFinished": false,
-      "homeScore": null,
-      "awayScore": null,
+      "homeScore": 0,
+      "awayScore": 0,
       "homePenalties": null,
       "awayPenalties": null
     },
@@ -132,21 +119,8 @@
       "awayPenalties": null
     },
     {
-      "home": "Ipswich Town FC",
-      "away": "Sunderland AFC",
-      "league": "Premier League",
-      "date": "2026-08-22",
-      "time": "14:00 GMT",
-      "isLive": false,
-      "isFinished": false,
-      "homeScore": null,
-      "awayScore": null,
-      "homePenalties": null,
-      "awayPenalties": null
-    },
-    {
-      "home": "West Ham United FC",
-      "away": "Charlton Athletic FC",
+      "home": "Blackburn Rovers FC",
+      "away": "Middlesbrough FC",
       "league": "Championship",
       "date": "2026-08-22",
       "time": "14:00 GMT",
@@ -210,11 +184,24 @@
       "awayPenalties": null
     },
     {
-      "home": "CS Marítimo",
-      "away": "Académico de Viseu FC",
-      "league": "Primeira Liga",
+      "home": "Ipswich Town FC",
+      "away": "Sunderland AFC",
+      "league": "Premier League",
       "date": "2026-08-22",
-      "time": "14:30 GMT",
+      "time": "14:00 GMT",
+      "isLive": false,
+      "isFinished": false,
+      "homeScore": null,
+      "awayScore": null,
+      "homePenalties": null,
+      "awayPenalties": null
+    },
+    {
+      "home": "West Ham United FC",
+      "away": "Charlton Athletic FC",
+      "league": "Championship",
+      "date": "2026-08-22",
+      "time": "14:00 GMT",
       "isLive": false,
       "isFinished": false,
       "homeScore": null,
@@ -226,6 +213,19 @@
       "home": "Fortuna Sittard",
       "away": "AZ",
       "league": "Eredivisie",
+      "date": "2026-08-22",
+      "time": "14:30 GMT",
+      "isLive": false,
+      "isFinished": false,
+      "homeScore": null,
+      "awayScore": null,
+      "homePenalties": null,
+      "awayPenalties": null
+    },
+    {
+      "home": "CS Marítimo",
+      "away": "Académico de Viseu FC",
+      "league": "Primeira Liga",
       "date": "2026-08-22",
       "time": "14:30 GMT",
       "isLive": false,
@@ -444,9 +444,9 @@
       "awayPenalties": null
     },
     {
-      "home": "Sporting Clube de Portugal",
-      "away": "FC Alverca",
-      "league": "Primeira Liga",
+      "home": "RCD Espanyol de Barcelona",
+      "away": "Real Madrid CF",
+      "league": "Primera Division",
       "date": "2026-08-22",
       "time": "19:30 GMT",
       "isLive": false,
@@ -457,9 +457,9 @@
       "awayPenalties": null
     },
     {
-      "home": "RCD Espanyol de Barcelona",
-      "away": "Real Madrid CF",
-      "league": "Primera Division",
+      "home": "Sporting Clube de Portugal",
+      "away": "FC Alverca",
+      "league": "Primeira Liga",
       "date": "2026-08-22",
       "time": "19:30 GMT",
       "isLive": false,
