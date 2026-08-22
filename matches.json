@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T07:24:29.370Z",
+  "updatedAt": "2026-08-22T07:52:59.537Z",
   "matches": [
     {
       "home": "NEC",
@@ -41,6 +41,19 @@
       "awayPenalties": null
     },
     {
+      "home": "Millwall FC",
+      "away": "Norwich City FC",
+      "league": "Championship",
+      "date": "2026-08-22",
+      "time": "11:30 GMT",
+      "isLive": false,
+      "isFinished": false,
+      "homeScore": null,
+      "awayScore": null,
+      "homePenalties": null,
+      "awayPenalties": null
+    },
+    {
       "home": "Hull City AFC",
       "away": "Manchester United FC",
       "league": "Premier League",
@@ -54,11 +67,11 @@
       "awayPenalties": null
     },
     {
-      "home": "Millwall FC",
-      "away": "Norwich City FC",
+      "home": "Swansea City AFC",
+      "away": "Sheffield United FC",
       "league": "Championship",
       "date": "2026-08-22",
-      "time": "11:30 GMT",
+      "time": "14:00 GMT",
       "isLive": false,
       "isFinished": false,
       "homeScore": null,
@@ -93,8 +106,8 @@
       "awayPenalties": null
     },
     {
-      "home": "Queens Park Rangers FC",
-      "away": "Bolton Wanderers FC",
+      "home": "Preston North End FC",
+      "away": "Wolverhampton Wanderers FC",
       "league": "Championship",
       "date": "2026-08-22",
       "time": "14:00 GMT",
@@ -108,45 +121,6 @@
     {
       "home": "Wrexham AFC",
       "away": "Watford FC",
-      "league": "Championship",
-      "date": "2026-08-22",
-      "time": "14:00 GMT",
-      "isLive": false,
-      "isFinished": false,
-      "homeScore": null,
-      "awayScore": null,
-      "homePenalties": null,
-      "awayPenalties": null
-    },
-    {
-      "home": "Nottingham Forest FC",
-      "away": "Leeds United FC",
-      "league": "Premier League",
-      "date": "2026-08-22",
-      "time": "14:00 GMT",
-      "isLive": false,
-      "isFinished": false,
-      "homeScore": null,
-      "awayScore": null,
-      "homePenalties": null,
-      "awayPenalties": null
-    },
-    {
-      "home": "Swansea City AFC",
-      "away": "Sheffield United FC",
-      "league": "Championship",
-      "date": "2026-08-22",
-      "time": "14:00 GMT",
-      "isLive": false,
-      "isFinished": false,
-      "homeScore": null,
-      "awayScore": null,
-      "homePenalties": null,
-      "awayPenalties": null
-    },
-    {
-      "home": "Preston North End FC",
-      "away": "Wolverhampton Wanderers FC",
       "league": "Championship",
       "date": "2026-08-22",
       "time": "14:00 GMT",
@@ -184,8 +158,34 @@
       "awayPenalties": null
     },
     {
+      "home": "Queens Park Rangers FC",
+      "away": "Bolton Wanderers FC",
+      "league": "Championship",
+      "date": "2026-08-22",
+      "time": "14:00 GMT",
+      "isLive": false,
+      "isFinished": false,
+      "homeScore": null,
+      "awayScore": null,
+      "homePenalties": null,
+      "awayPenalties": null
+    },
+    {
       "home": "Ipswich Town FC",
       "away": "Sunderland AFC",
+      "league": "Premier League",
+      "date": "2026-08-22",
+      "time": "14:00 GMT",
+      "isLive": false,
+      "isFinished": false,
+      "homeScore": null,
+      "awayScore": null,
+      "homePenalties": null,
+      "awayPenalties": null
+    },
+    {
+      "home": "Nottingham Forest FC",
+      "away": "Leeds United FC",
       "league": "Premier League",
       "date": "2026-08-22",
       "time": "14:00 GMT",
@@ -262,8 +262,8 @@
       "awayPenalties": null
     },
     {
-      "home": "FC Internazionale Milano",
-      "away": "AC Monza",
+      "home": "Udinese Calcio",
+      "away": "Como 1907",
       "league": "Serie A",
       "date": "2026-08-22",
       "time": "16:30 GMT",
@@ -275,8 +275,8 @@
       "awayPenalties": null
     },
     {
-      "home": "Udinese Calcio",
-      "away": "Como 1907",
+      "home": "FC Internazionale Milano",
+      "away": "AC Monza",
       "league": "Serie A",
       "date": "2026-08-22",
       "time": "16:30 GMT",
@@ -340,35 +340,9 @@
       "awayPenalties": null
     },
     {
-      "home": "ES Troyes AC",
-      "away": "Paris FC",
-      "league": "Ligue 1",
-      "date": "2026-08-22",
-      "time": "18:45 GMT",
-      "isLive": false,
-      "isFinished": false,
-      "homeScore": null,
-      "awayScore": null,
-      "homePenalties": null,
-      "awayPenalties": null
-    },
-    {
-      "home": "OGC Nice",
-      "away": "FC Lorient",
-      "league": "Ligue 1",
-      "date": "2026-08-22",
-      "time": "18:45 GMT",
-      "isLive": false,
-      "isFinished": false,
-      "homeScore": null,
-      "awayScore": null,
-      "homePenalties": null,
-      "awayPenalties": null
-    },
-    {
-      "home": "Toulouse FC",
-      "away": "Olympique Lyonnais",
-      "league": "Ligue 1",
+      "home": "Genoa CFC",
+      "away": "SSC Napoli",
+      "league": "Serie A",
       "date": "2026-08-22",
       "time": "18:45 GMT",
       "isLive": false,
@@ -405,9 +379,35 @@
       "awayPenalties": null
     },
     {
-      "home": "Genoa CFC",
-      "away": "SSC Napoli",
-      "league": "Serie A",
+      "home": "ES Troyes AC",
+      "away": "Paris FC",
+      "league": "Ligue 1",
+      "date": "2026-08-22",
+      "time": "18:45 GMT",
+      "isLive": false,
+      "isFinished": false,
+      "homeScore": null,
+      "awayScore": null,
+      "homePenalties": null,
+      "awayPenalties": null
+    },
+    {
+      "home": "OGC Nice",
+      "away": "FC Lorient",
+      "league": "Ligue 1",
+      "date": "2026-08-22",
+      "time": "18:45 GMT",
+      "isLive": false,
+      "isFinished": false,
+      "homeScore": null,
+      "awayScore": null,
+      "homePenalties": null,
+      "awayPenalties": null
+    },
+    {
+      "home": "Toulouse FC",
+      "away": "Olympique Lyonnais",
+      "league": "Ligue 1",
       "date": "2026-08-22",
       "time": "18:45 GMT",
       "isLive": false,
