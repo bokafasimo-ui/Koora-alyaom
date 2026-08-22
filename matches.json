@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T05:42:43.843Z",
+  "updatedAt": "2026-08-22T06:01:46.369Z",
   "matches": [
     {
       "home": "NEC",
@@ -41,6 +41,19 @@
       "awayPenalties": null
     },
     {
+      "home": "Lincoln City FC",
+      "away": "Portsmouth FC",
+      "league": "Championship",
+      "date": "2026-08-22",
+      "time": "11:30 GMT",
+      "isLive": false,
+      "isFinished": false,
+      "homeScore": null,
+      "awayScore": null,
+      "homePenalties": null,
+      "awayPenalties": null
+    },
+    {
       "home": "Birmingham City FC",
       "away": "Bristol City FC",
       "league": "Championship",
@@ -54,11 +67,11 @@
       "awayPenalties": null
     },
     {
-      "home": "Lincoln City FC",
-      "away": "Portsmouth FC",
-      "league": "Championship",
+      "home": "Nottingham Forest FC",
+      "away": "Leeds United FC",
+      "league": "Premier League",
       "date": "2026-08-22",
-      "time": "11:30 GMT",
+      "time": "14:00 GMT",
       "isLive": false,
       "isFinished": false,
       "homeScore": null,
@@ -109,19 +122,6 @@
       "home": "Blackburn Rovers FC",
       "away": "Middlesbrough FC",
       "league": "Championship",
-      "date": "2026-08-22",
-      "time": "14:00 GMT",
-      "isLive": false,
-      "isFinished": false,
-      "homeScore": null,
-      "awayScore": null,
-      "homePenalties": null,
-      "awayPenalties": null
-    },
-    {
-      "home": "Nottingham Forest FC",
-      "away": "Leeds United FC",
-      "league": "Premier League",
       "date": "2026-08-22",
       "time": "14:00 GMT",
       "isLive": false,
@@ -210,9 +210,9 @@
       "awayPenalties": null
     },
     {
-      "home": "CS Marítimo",
-      "away": "Académico de Viseu FC",
-      "league": "Primeira Liga",
+      "home": "Fortuna Sittard",
+      "away": "AZ",
+      "league": "Eredivisie",
       "date": "2026-08-22",
       "time": "14:30 GMT",
       "isLive": false,
@@ -223,9 +223,9 @@
       "awayPenalties": null
     },
     {
-      "home": "Fortuna Sittard",
-      "away": "AZ",
-      "league": "Eredivisie",
+      "home": "CS Marítimo",
+      "away": "Académico de Viseu FC",
+      "league": "Primeira Liga",
       "date": "2026-08-22",
       "time": "14:30 GMT",
       "isLive": false,
@@ -366,6 +366,19 @@
       "awayPenalties": null
     },
     {
+      "home": "Toulouse FC",
+      "away": "Olympique Lyonnais",
+      "league": "Ligue 1",
+      "date": "2026-08-22",
+      "time": "18:45 GMT",
+      "isLive": false,
+      "isFinished": false,
+      "homeScore": null,
+      "awayScore": null,
+      "homePenalties": null,
+      "awayPenalties": null
+    },
+    {
       "home": "ES Troyes AC",
       "away": "Paris FC",
       "league": "Ligue 1",
@@ -405,19 +418,6 @@
       "awayPenalties": null
     },
     {
-      "home": "Toulouse FC",
-      "away": "Olympique Lyonnais",
-      "league": "Ligue 1",
-      "date": "2026-08-22",
-      "time": "18:45 GMT",
-      "isLive": false,
-      "isFinished": false,
-      "homeScore": null,
-      "awayScore": null,
-      "homePenalties": null,
-      "awayPenalties": null
-    },
-    {
       "home": "Fluminense FC",
       "away": "Clube do Remo",
       "league": "Campeonato Brasileiro Série A",
@@ -444,9 +444,9 @@
       "awayPenalties": null
     },
     {
-      "home": "Sporting Clube de Portugal",
-      "away": "FC Alverca",
-      "league": "Primeira Liga",
+      "home": "RCD Espanyol de Barcelona",
+      "away": "Real Madrid CF",
+      "league": "Primera Division",
       "date": "2026-08-22",
       "time": "19:30 GMT",
       "isLive": false,
@@ -457,9 +457,9 @@
       "awayPenalties": null
     },
     {
-      "home": "RCD Espanyol de Barcelona",
-      "away": "Real Madrid CF",
-      "league": "Primera Division",
+      "home": "Sporting Clube de Portugal",
+      "away": "FC Alverca",
+      "league": "Primeira Liga",
       "date": "2026-08-22",
       "time": "19:30 GMT",
       "isLive": false,
