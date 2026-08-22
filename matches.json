@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T01:56:19.289Z",
+  "updatedAt": "2026-08-22T02:52:12.998Z",
   "matches": [
     {
       "home": "NEC",
@@ -15,8 +15,8 @@
       "awayPenalties": null
     },
     {
-      "home": "Lincoln City FC",
-      "away": "Portsmouth FC",
+      "home": "Birmingham City FC",
+      "away": "Bristol City FC",
       "league": "Championship",
       "date": "2026-08-22",
       "time": "11:30 GMT",
@@ -28,8 +28,8 @@
       "awayPenalties": null
     },
     {
-      "home": "Birmingham City FC",
-      "away": "Bristol City FC",
+      "home": "Lincoln City FC",
+      "away": "Portsmouth FC",
       "league": "Championship",
       "date": "2026-08-22",
       "time": "11:30 GMT",
@@ -340,6 +340,19 @@
       "awayPenalties": null
     },
     {
+      "home": "Parma Calcio 1913",
+      "away": "Cagliari Calcio",
+      "league": "Serie A",
+      "date": "2026-08-22",
+      "time": "18:45 GMT",
+      "isLive": false,
+      "isFinished": false,
+      "homeScore": null,
+      "awayScore": null,
+      "homePenalties": null,
+      "awayPenalties": null
+    },
+    {
       "home": "OGC Nice",
       "away": "FC Lorient",
       "league": "Ligue 1",
@@ -369,19 +382,6 @@
       "home": "ES Troyes AC",
       "away": "Paris FC",
       "league": "Ligue 1",
-      "date": "2026-08-22",
-      "time": "18:45 GMT",
-      "isLive": false,
-      "isFinished": false,
-      "homeScore": null,
-      "awayScore": null,
-      "homePenalties": null,
-      "awayPenalties": null
-    },
-    {
-      "home": "Parma Calcio 1913",
-      "away": "Cagliari Calcio",
-      "league": "Serie A",
       "date": "2026-08-22",
       "time": "18:45 GMT",
       "isLive": false,
