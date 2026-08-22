@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T19:59:19.786Z",
+  "updatedAt": "2026-08-22T20:30:20.800Z",
   "matches": [
     {
       "home": "NEC",
@@ -11,19 +11,6 @@
       "isFinished": false,
       "homeScore": null,
       "awayScore": null,
-      "homePenalties": null,
-      "awayPenalties": null
-    },
-    {
-      "home": "Hull City AFC",
-      "away": "Manchester United FC",
-      "league": "Premier League",
-      "date": "2026-08-22",
-      "time": "11:30 GMT",
-      "isLive": false,
-      "isFinished": true,
-      "homeScore": 2,
-      "awayScore": 0,
       "homePenalties": null,
       "awayPenalties": null
     },
@@ -67,15 +54,28 @@
       "awayPenalties": null
     },
     {
-      "home": "Nottingham Forest FC",
-      "away": "Leeds United FC",
+      "home": "Hull City AFC",
+      "away": "Manchester United FC",
       "league": "Premier League",
+      "date": "2026-08-22",
+      "time": "11:30 GMT",
+      "isLive": false,
+      "isFinished": true,
+      "homeScore": 2,
+      "awayScore": 0,
+      "homePenalties": null,
+      "awayPenalties": null
+    },
+    {
+      "home": "Swansea City AFC",
+      "away": "Sheffield United FC",
+      "league": "Championship",
       "date": "2026-08-22",
       "time": "14:00 GMT",
       "isLive": false,
       "isFinished": true,
       "homeScore": 0,
-      "awayScore": 1,
+      "awayScore": 0,
       "homePenalties": null,
       "awayPenalties": null
     },
@@ -106,6 +106,19 @@
       "awayPenalties": null
     },
     {
+      "home": "Preston North End FC",
+      "away": "Wolverhampton Wanderers FC",
+      "league": "Championship",
+      "date": "2026-08-22",
+      "time": "14:00 GMT",
+      "isLive": false,
+      "isFinished": true,
+      "homeScore": 1,
+      "awayScore": 3,
+      "homePenalties": null,
+      "awayPenalties": null
+    },
+    {
       "home": "Wrexham AFC",
       "away": "Watford FC",
       "league": "Championship",
@@ -114,6 +127,32 @@
       "isLive": false,
       "isFinished": true,
       "homeScore": 1,
+      "awayScore": 1,
+      "homePenalties": null,
+      "awayPenalties": null
+    },
+    {
+      "home": "Blackburn Rovers FC",
+      "away": "Middlesbrough FC",
+      "league": "Championship",
+      "date": "2026-08-22",
+      "time": "14:00 GMT",
+      "isLive": false,
+      "isFinished": true,
+      "homeScore": 2,
+      "awayScore": 1,
+      "homePenalties": null,
+      "awayPenalties": null
+    },
+    {
+      "home": "Southampton FC",
+      "away": "Stoke City FC",
+      "league": "Championship",
+      "date": "2026-08-22",
+      "time": "14:00 GMT",
+      "isLive": false,
+      "isFinished": true,
+      "homeScore": 3,
       "awayScore": 1,
       "homePenalties": null,
       "awayPenalties": null
@@ -145,6 +184,19 @@
       "awayPenalties": null
     },
     {
+      "home": "Nottingham Forest FC",
+      "away": "Leeds United FC",
+      "league": "Premier League",
+      "date": "2026-08-22",
+      "time": "14:00 GMT",
+      "isLive": false,
+      "isFinished": true,
+      "homeScore": 0,
+      "awayScore": 1,
+      "homePenalties": null,
+      "awayPenalties": null
+    },
+    {
       "home": "Everton FC",
       "away": "Crystal Palace FC",
       "league": "Premier League",
@@ -154,58 +206,6 @@
       "isFinished": true,
       "homeScore": 2,
       "awayScore": 0,
-      "homePenalties": null,
-      "awayPenalties": null
-    },
-    {
-      "home": "Swansea City AFC",
-      "away": "Sheffield United FC",
-      "league": "Championship",
-      "date": "2026-08-22",
-      "time": "14:00 GMT",
-      "isLive": false,
-      "isFinished": true,
-      "homeScore": 0,
-      "awayScore": 0,
-      "homePenalties": null,
-      "awayPenalties": null
-    },
-    {
-      "home": "Blackburn Rovers FC",
-      "away": "Middlesbrough FC",
-      "league": "Championship",
-      "date": "2026-08-22",
-      "time": "14:00 GMT",
-      "isLive": false,
-      "isFinished": true,
-      "homeScore": 2,
-      "awayScore": 1,
-      "homePenalties": null,
-      "awayPenalties": null
-    },
-    {
-      "home": "Southampton FC",
-      "away": "Stoke City FC",
-      "league": "Championship",
-      "date": "2026-08-22",
-      "time": "14:00 GMT",
-      "isLive": false,
-      "isFinished": true,
-      "homeScore": 3,
-      "awayScore": 1,
-      "homePenalties": null,
-      "awayPenalties": null
-    },
-    {
-      "home": "Preston North End FC",
-      "away": "Wolverhampton Wanderers FC",
-      "league": "Championship",
-      "date": "2026-08-22",
-      "time": "14:00 GMT",
-      "isLive": false,
-      "isFinished": true,
-      "homeScore": 1,
-      "awayScore": 3,
       "homePenalties": null,
       "awayPenalties": null
     },
@@ -262,15 +262,15 @@
       "awayPenalties": null
     },
     {
-      "home": "Brentford FC",
-      "away": "Tottenham Hotspur FC",
-      "league": "Premier League",
+      "home": "Udinese Calcio",
+      "away": "Como 1907",
+      "league": "Serie A",
       "date": "2026-08-22",
       "time": "16:30 GMT",
       "isLive": false,
       "isFinished": true,
-      "homeScore": 3,
-      "awayScore": 0,
+      "homeScore": 1,
+      "awayScore": 1,
       "homePenalties": null,
       "awayPenalties": null
     },
@@ -288,15 +288,15 @@
       "awayPenalties": null
     },
     {
-      "home": "Udinese Calcio",
-      "away": "Como 1907",
-      "league": "Serie A",
+      "home": "Brentford FC",
+      "away": "Tottenham Hotspur FC",
+      "league": "Premier League",
       "date": "2026-08-22",
       "time": "16:30 GMT",
       "isLive": false,
       "isFinished": true,
-      "homeScore": 1,
-      "awayScore": 1,
+      "homeScore": 3,
+      "awayScore": 0,
       "homePenalties": null,
       "awayPenalties": null
     },
@@ -340,6 +340,45 @@
       "awayPenalties": null
     },
     {
+      "home": "Genoa CFC",
+      "away": "SSC Napoli",
+      "league": "Serie A",
+      "date": "2026-08-22",
+      "time": "18:45 GMT",
+      "isLive": true,
+      "isFinished": false,
+      "homeScore": 0,
+      "awayScore": 0,
+      "homePenalties": null,
+      "awayPenalties": null
+    },
+    {
+      "home": "Parma Calcio 1913",
+      "away": "Cagliari Calcio",
+      "league": "Serie A",
+      "date": "2026-08-22",
+      "time": "18:45 GMT",
+      "isLive": true,
+      "isFinished": false,
+      "homeScore": 0,
+      "awayScore": 0,
+      "homePenalties": null,
+      "awayPenalties": null
+    },
+    {
+      "home": "Le Mans FC",
+      "away": "Stade Brestois 29",
+      "league": "Ligue 1",
+      "date": "2026-08-22",
+      "time": "18:45 GMT",
+      "isLive": true,
+      "isFinished": false,
+      "homeScore": 2,
+      "awayScore": 2,
+      "homePenalties": null,
+      "awayPenalties": null
+    },
+    {
       "home": "ES Troyes AC",
       "away": "Paris FC",
       "league": "Ligue 1",
@@ -374,46 +413,7 @@
       "isLive": true,
       "isFinished": false,
       "homeScore": 0,
-      "awayScore": 0,
-      "homePenalties": null,
-      "awayPenalties": null
-    },
-    {
-      "home": "Parma Calcio 1913",
-      "away": "Cagliari Calcio",
-      "league": "Serie A",
-      "date": "2026-08-22",
-      "time": "18:45 GMT",
-      "isLive": true,
-      "isFinished": false,
-      "homeScore": 0,
-      "awayScore": 0,
-      "homePenalties": null,
-      "awayPenalties": null
-    },
-    {
-      "home": "Le Mans FC",
-      "away": "Stade Brestois 29",
-      "league": "Ligue 1",
-      "date": "2026-08-22",
-      "time": "18:45 GMT",
-      "isLive": true,
-      "isFinished": false,
-      "homeScore": 1,
       "awayScore": 1,
-      "homePenalties": null,
-      "awayPenalties": null
-    },
-    {
-      "home": "Genoa CFC",
-      "away": "SSC Napoli",
-      "league": "Serie A",
-      "date": "2026-08-22",
-      "time": "18:45 GMT",
-      "isLive": true,
-      "isFinished": false,
-      "homeScore": 0,
-      "awayScore": 0,
       "homePenalties": null,
       "awayPenalties": null
     },
@@ -426,7 +426,7 @@
       "isLive": true,
       "isFinished": false,
       "homeScore": 0,
-      "awayScore": 0,
+      "awayScore": 2,
       "homePenalties": null,
       "awayPenalties": null
     },
@@ -451,7 +451,7 @@
       "time": "19:30 GMT",
       "isLive": true,
       "isFinished": false,
-      "homeScore": 0,
+      "homeScore": 1,
       "awayScore": 1,
       "homePenalties": null,
       "awayPenalties": null
