@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T09:37:34.267Z",
+  "updatedAt": "2026-08-23T09:56:56.324Z",
   "matches": [
     {
       "home": "Go Ahead Eagles",
@@ -41,6 +41,19 @@
       "awayPenalties": null
     },
     {
+      "home": "Brighton & Hove Albion FC",
+      "away": "Aston Villa FC",
+      "league": "Premier League",
+      "date": "2026-08-23",
+      "time": "13:00 GMT",
+      "isLive": false,
+      "isFinished": false,
+      "homeScore": null,
+      "awayScore": null,
+      "homePenalties": null,
+      "awayPenalties": null
+    },
+    {
       "home": "Angers SCO",
       "away": "Lille OSC",
       "league": "Ligue 1",
@@ -56,19 +69,6 @@
     {
       "home": "Manchester City FC",
       "away": "AFC Bournemouth",
-      "league": "Premier League",
-      "date": "2026-08-23",
-      "time": "13:00 GMT",
-      "isLive": false,
-      "isFinished": false,
-      "homeScore": null,
-      "awayScore": null,
-      "homePenalties": null,
-      "awayPenalties": null
-    },
-    {
-      "home": "Brighton & Hove Albion FC",
-      "away": "Aston Villa FC",
       "league": "Premier League",
       "date": "2026-08-23",
       "time": "13:00 GMT",
@@ -197,8 +197,8 @@
       "awayPenalties": null
     },
     {
-      "home": "Atalanta BC",
-      "away": "US Sassuolo Calcio",
+      "home": "Torino FC",
+      "away": "AC Milan",
       "league": "Serie A",
       "date": "2026-08-23",
       "time": "18:45 GMT",
@@ -223,24 +223,11 @@
       "awayPenalties": null
     },
     {
-      "home": "Torino FC",
-      "away": "AC Milan",
+      "home": "Atalanta BC",
+      "away": "US Sassuolo Calcio",
       "league": "Serie A",
       "date": "2026-08-23",
       "time": "18:45 GMT",
-      "isLive": false,
-      "isFinished": false,
-      "homeScore": null,
-      "awayScore": null,
-      "homePenalties": null,
-      "awayPenalties": null
-    },
-    {
-      "home": "RB Bragantino",
-      "away": "Grêmio FBPA",
-      "league": "Campeonato Brasileiro Série A",
-      "date": "2026-08-23",
-      "time": "19:00 GMT",
       "isLive": false,
       "isFinished": false,
       "homeScore": null,
@@ -264,6 +251,19 @@
     {
       "home": "EC Vitória",
       "away": "EC Bahia",
+      "league": "Campeonato Brasileiro Série A",
+      "date": "2026-08-23",
+      "time": "19:00 GMT",
+      "isLive": false,
+      "isFinished": false,
+      "homeScore": null,
+      "awayScore": null,
+      "homePenalties": null,
+      "awayPenalties": null
+    },
+    {
+      "home": "RB Bragantino",
+      "away": "Grêmio FBPA",
       "league": "Campeonato Brasileiro Série A",
       "date": "2026-08-23",
       "time": "19:00 GMT",
