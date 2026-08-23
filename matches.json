@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T17:28:31.709Z",
+  "updatedAt": "2026-08-23T17:47:41.714Z",
   "matches": [
     {
       "home": "Go Ahead Eagles",
@@ -41,19 +41,6 @@
       "awayPenalties": null
     },
     {
-      "home": "Brighton & Hove Albion FC",
-      "away": "Aston Villa FC",
-      "league": "Premier League",
-      "date": "2026-08-23",
-      "time": "13:00 GMT",
-      "isLive": false,
-      "isFinished": true,
-      "homeScore": 4,
-      "awayScore": 0,
-      "homePenalties": null,
-      "awayPenalties": null
-    },
-    {
       "home": "Angers SCO",
       "away": "Lille OSC",
       "league": "Ligue 1",
@@ -76,6 +63,19 @@
       "isFinished": true,
       "homeScore": 2,
       "awayScore": 1,
+      "homePenalties": null,
+      "awayPenalties": null
+    },
+    {
+      "home": "Brighton & Hove Albion FC",
+      "away": "Aston Villa FC",
+      "league": "Premier League",
+      "date": "2026-08-23",
+      "time": "13:00 GMT",
+      "isLive": false,
+      "isFinished": true,
+      "homeScore": 4,
+      "awayScore": 0,
       "homePenalties": null,
       "awayPenalties": null
     },
@@ -137,9 +137,22 @@
       "league": "Premier League",
       "date": "2026-08-23",
       "time": "15:30 GMT",
+      "isLive": false,
+      "isFinished": true,
+      "homeScore": 2,
+      "awayScore": 2,
+      "homePenalties": null,
+      "awayPenalties": null
+    },
+    {
+      "home": "Venezia FC",
+      "away": "US Lecce",
+      "league": "Serie A",
+      "date": "2026-08-23",
+      "time": "16:30 GMT",
       "isLive": true,
       "isFinished": false,
-      "homeScore": 2,
+      "homeScore": 0,
       "awayScore": 1,
       "homePenalties": null,
       "awayPenalties": null
@@ -154,19 +167,6 @@
       "isFinished": false,
       "homeScore": 0,
       "awayScore": 1,
-      "homePenalties": null,
-      "awayPenalties": null
-    },
-    {
-      "home": "Venezia FC",
-      "away": "US Lecce",
-      "league": "Serie A",
-      "date": "2026-08-23",
-      "time": "16:30 GMT",
-      "isLive": true,
-      "isFinished": false,
-      "homeScore": 0,
-      "awayScore": 0,
       "homePenalties": null,
       "awayPenalties": null
     },
@@ -189,6 +189,19 @@
       "league": "Primera Division",
       "date": "2026-08-23",
       "time": "17:30 GMT",
+      "isLive": true,
+      "isFinished": false,
+      "homeScore": 0,
+      "awayScore": 0,
+      "homePenalties": null,
+      "awayPenalties": null
+    },
+    {
+      "home": "Atalanta BC",
+      "away": "US Sassuolo Calcio",
+      "league": "Serie A",
+      "date": "2026-08-23",
+      "time": "18:45 GMT",
       "isLive": false,
       "isFinished": false,
       "homeScore": null,
@@ -223,19 +236,6 @@
       "awayPenalties": null
     },
     {
-      "home": "Atalanta BC",
-      "away": "US Sassuolo Calcio",
-      "league": "Serie A",
-      "date": "2026-08-23",
-      "time": "18:45 GMT",
-      "isLive": false,
-      "isFinished": false,
-      "homeScore": null,
-      "awayScore": null,
-      "homePenalties": null,
-      "awayPenalties": null
-    },
-    {
       "home": "RB Bragantino",
       "away": "Grêmio FBPA",
       "league": "Campeonato Brasileiro Série A",
@@ -249,8 +249,8 @@
       "awayPenalties": null
     },
     {
-      "home": "SE Palmeiras",
-      "away": "CR Vasco da Gama",
+      "home": "EC Vitória",
+      "away": "EC Bahia",
       "league": "Campeonato Brasileiro Série A",
       "date": "2026-08-23",
       "time": "19:00 GMT",
@@ -262,8 +262,8 @@
       "awayPenalties": null
     },
     {
-      "home": "EC Vitória",
-      "away": "EC Bahia",
+      "home": "SE Palmeiras",
+      "away": "CR Vasco da Gama",
       "league": "Campeonato Brasileiro Série A",
       "date": "2026-08-23",
       "time": "19:00 GMT",
