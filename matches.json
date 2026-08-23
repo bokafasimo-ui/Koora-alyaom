@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T11:02:53.058Z",
+  "updatedAt": "2026-08-23T11:30:25.400Z",
   "matches": [
     {
       "home": "Go Ahead Eagles",
@@ -20,10 +20,10 @@
       "league": "Championship",
       "date": "2026-08-23",
       "time": "11:00 GMT",
-      "isLive": false,
+      "isLive": true,
       "isFinished": false,
-      "homeScore": null,
-      "awayScore": null,
+      "homeScore": 0,
+      "awayScore": 0,
       "homePenalties": null,
       "awayPenalties": null
     },
@@ -41,8 +41,8 @@
       "awayPenalties": null
     },
     {
-      "home": "Manchester City FC",
-      "away": "AFC Bournemouth",
+      "home": "Brighton & Hove Albion FC",
+      "away": "Aston Villa FC",
       "league": "Premier League",
       "date": "2026-08-23",
       "time": "13:00 GMT",
@@ -67,8 +67,8 @@
       "awayPenalties": null
     },
     {
-      "home": "Brighton & Hove Albion FC",
-      "away": "Aston Villa FC",
+      "home": "Manchester City FC",
+      "away": "AFC Bournemouth",
       "league": "Premier League",
       "date": "2026-08-23",
       "time": "13:00 GMT",
@@ -197,19 +197,6 @@
       "awayPenalties": null
     },
     {
-      "home": "Atalanta BC",
-      "away": "US Sassuolo Calcio",
-      "league": "Serie A",
-      "date": "2026-08-23",
-      "time": "18:45 GMT",
-      "isLive": false,
-      "isFinished": false,
-      "homeScore": null,
-      "awayScore": null,
-      "homePenalties": null,
-      "awayPenalties": null
-    },
-    {
       "home": "Paris Saint-Germain FC",
       "away": "Stade Rennais FC 1901",
       "league": "Ligue 1",
@@ -225,6 +212,19 @@
     {
       "home": "Torino FC",
       "away": "AC Milan",
+      "league": "Serie A",
+      "date": "2026-08-23",
+      "time": "18:45 GMT",
+      "isLive": false,
+      "isFinished": false,
+      "homeScore": null,
+      "awayScore": null,
+      "homePenalties": null,
+      "awayPenalties": null
+    },
+    {
+      "home": "Atalanta BC",
+      "away": "US Sassuolo Calcio",
       "league": "Serie A",
       "date": "2026-08-23",
       "time": "18:45 GMT",
@@ -275,19 +275,6 @@
       "awayPenalties": null
     },
     {
-      "home": "Elche CF",
-      "away": "FC Barcelona",
-      "league": "Primera Division",
-      "date": "2026-08-23",
-      "time": "19:30 GMT",
-      "isLive": false,
-      "isFinished": false,
-      "homeScore": null,
-      "awayScore": null,
-      "homePenalties": null,
-      "awayPenalties": null
-    },
-    {
       "home": "FC Porto",
       "away": "FC Arouca",
       "league": "Primeira Liga",
@@ -301,8 +288,21 @@
       "awayPenalties": null
     },
     {
-      "home": "Chapecoense AF",
-      "away": "São Paulo FC",
+      "home": "Elche CF",
+      "away": "FC Barcelona",
+      "league": "Primera Division",
+      "date": "2026-08-23",
+      "time": "19:30 GMT",
+      "isLive": false,
+      "isFinished": false,
+      "homeScore": null,
+      "awayScore": null,
+      "homePenalties": null,
+      "awayPenalties": null
+    },
+    {
+      "home": "Santos FC",
+      "away": "Mirassol FC",
       "league": "Campeonato Brasileiro Série A",
       "date": "2026-08-23",
       "time": "21:30 GMT",
@@ -314,8 +314,8 @@
       "awayPenalties": null
     },
     {
-      "home": "Santos FC",
-      "away": "Mirassol FC",
+      "home": "Chapecoense AF",
+      "away": "São Paulo FC",
       "league": "Campeonato Brasileiro Série A",
       "date": "2026-08-23",
       "time": "21:30 GMT",
