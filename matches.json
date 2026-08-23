@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T13:58:03.919Z",
+  "updatedAt": "2026-08-23T14:25:57.405Z",
   "matches": [
     {
       "home": "Go Ahead Eagles",
@@ -41,15 +41,15 @@
       "awayPenalties": null
     },
     {
-      "home": "Manchester City FC",
-      "away": "AFC Bournemouth",
+      "home": "Brighton & Hove Albion FC",
+      "away": "Aston Villa FC",
       "league": "Premier League",
       "date": "2026-08-23",
       "time": "13:00 GMT",
       "isLive": true,
       "isFinished": false,
-      "homeScore": 0,
-      "awayScore": 1,
+      "homeScore": 4,
+      "awayScore": 0,
       "homePenalties": null,
       "awayPenalties": null
     },
@@ -67,15 +67,15 @@
       "awayPenalties": null
     },
     {
-      "home": "Brighton & Hove Albion FC",
-      "away": "Aston Villa FC",
+      "home": "Manchester City FC",
+      "away": "AFC Bournemouth",
       "league": "Premier League",
       "date": "2026-08-23",
       "time": "13:00 GMT",
       "isLive": true,
       "isFinished": false,
-      "homeScore": 4,
-      "awayScore": 0,
+      "homeScore": 0,
+      "awayScore": 1,
       "homePenalties": null,
       "awayPenalties": null
     },
@@ -197,19 +197,6 @@
       "awayPenalties": null
     },
     {
-      "home": "Atalanta BC",
-      "away": "US Sassuolo Calcio",
-      "league": "Serie A",
-      "date": "2026-08-23",
-      "time": "18:45 GMT",
-      "isLive": false,
-      "isFinished": false,
-      "homeScore": null,
-      "awayScore": null,
-      "homePenalties": null,
-      "awayPenalties": null
-    },
-    {
       "home": "Paris Saint-Germain FC",
       "away": "Stade Rennais FC 1901",
       "league": "Ligue 1",
@@ -236,11 +223,11 @@
       "awayPenalties": null
     },
     {
-      "home": "EC Vitória",
-      "away": "EC Bahia",
-      "league": "Campeonato Brasileiro Série A",
+      "home": "Atalanta BC",
+      "away": "US Sassuolo Calcio",
+      "league": "Serie A",
       "date": "2026-08-23",
-      "time": "19:00 GMT",
+      "time": "18:45 GMT",
       "isLive": false,
       "isFinished": false,
       "homeScore": null,
@@ -275,11 +262,11 @@
       "awayPenalties": null
     },
     {
-      "home": "Elche CF",
-      "away": "FC Barcelona",
-      "league": "Primera Division",
+      "home": "EC Vitória",
+      "away": "EC Bahia",
+      "league": "Campeonato Brasileiro Série A",
       "date": "2026-08-23",
-      "time": "19:30 GMT",
+      "time": "19:00 GMT",
       "isLive": false,
       "isFinished": false,
       "homeScore": null,
@@ -291,6 +278,19 @@
       "home": "FC Porto",
       "away": "FC Arouca",
       "league": "Primeira Liga",
+      "date": "2026-08-23",
+      "time": "19:30 GMT",
+      "isLive": false,
+      "isFinished": false,
+      "homeScore": null,
+      "awayScore": null,
+      "homePenalties": null,
+      "awayPenalties": null
+    },
+    {
+      "home": "Elche CF",
+      "away": "FC Barcelona",
+      "league": "Primera Division",
       "date": "2026-08-23",
       "time": "19:30 GMT",
       "isLive": false,
