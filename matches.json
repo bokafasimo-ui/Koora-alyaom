@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T10:23:14.178Z",
+  "updatedAt": "2026-08-23T10:46:53.425Z",
   "matches": [
     {
       "home": "Go Ahead Eagles",
@@ -41,19 +41,6 @@
       "awayPenalties": null
     },
     {
-      "home": "Manchester City FC",
-      "away": "AFC Bournemouth",
-      "league": "Premier League",
-      "date": "2026-08-23",
-      "time": "13:00 GMT",
-      "isLive": false,
-      "isFinished": false,
-      "homeScore": null,
-      "awayScore": null,
-      "homePenalties": null,
-      "awayPenalties": null
-    },
-    {
       "home": "Brighton & Hove Albion FC",
       "away": "Aston Villa FC",
       "league": "Premier League",
@@ -70,6 +57,19 @@
       "home": "Angers SCO",
       "away": "Lille OSC",
       "league": "Ligue 1",
+      "date": "2026-08-23",
+      "time": "13:00 GMT",
+      "isLive": false,
+      "isFinished": false,
+      "homeScore": null,
+      "awayScore": null,
+      "homePenalties": null,
+      "awayPenalties": null
+    },
+    {
+      "home": "Manchester City FC",
+      "away": "AFC Bournemouth",
+      "league": "Premier League",
       "date": "2026-08-23",
       "time": "13:00 GMT",
       "isLive": false,
@@ -197,19 +197,6 @@
       "awayPenalties": null
     },
     {
-      "home": "Atalanta BC",
-      "away": "US Sassuolo Calcio",
-      "league": "Serie A",
-      "date": "2026-08-23",
-      "time": "18:45 GMT",
-      "isLive": false,
-      "isFinished": false,
-      "homeScore": null,
-      "awayScore": null,
-      "homePenalties": null,
-      "awayPenalties": null
-    },
-    {
       "home": "Paris Saint-Germain FC",
       "away": "Stade Rennais FC 1901",
       "league": "Ligue 1",
@@ -225,6 +212,19 @@
     {
       "home": "Torino FC",
       "away": "AC Milan",
+      "league": "Serie A",
+      "date": "2026-08-23",
+      "time": "18:45 GMT",
+      "isLive": false,
+      "isFinished": false,
+      "homeScore": null,
+      "awayScore": null,
+      "homePenalties": null,
+      "awayPenalties": null
+    },
+    {
+      "home": "Atalanta BC",
+      "away": "US Sassuolo Calcio",
       "league": "Serie A",
       "date": "2026-08-23",
       "time": "18:45 GMT",
