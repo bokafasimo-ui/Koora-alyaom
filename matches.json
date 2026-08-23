@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T02:34:54.695Z",
+  "updatedAt": "2026-08-23T03:31:57.842Z",
   "matches": [
     {
       "home": "Go Ahead Eagles",
@@ -145,8 +145,8 @@
       "awayPenalties": null
     },
     {
-      "home": "Venezia FC",
-      "away": "US Lecce",
+      "home": "Frosinone Calcio",
+      "away": "Juventus FC",
       "league": "Serie A",
       "date": "2026-08-23",
       "time": "16:30 GMT",
@@ -158,8 +158,8 @@
       "awayPenalties": null
     },
     {
-      "home": "Frosinone Calcio",
-      "away": "Juventus FC",
+      "home": "Venezia FC",
+      "away": "US Lecce",
       "league": "Serie A",
       "date": "2026-08-23",
       "time": "16:30 GMT",
@@ -236,6 +236,19 @@
       "awayPenalties": null
     },
     {
+      "home": "SE Palmeiras",
+      "away": "CR Vasco da Gama",
+      "league": "Campeonato Brasileiro Série A",
+      "date": "2026-08-23",
+      "time": "19:00 GMT",
+      "isLive": false,
+      "isFinished": false,
+      "homeScore": null,
+      "awayScore": null,
+      "homePenalties": null,
+      "awayPenalties": null
+    },
+    {
       "home": "EC Vitória",
       "away": "EC Bahia",
       "league": "Campeonato Brasileiro Série A",
@@ -251,19 +264,6 @@
     {
       "home": "RB Bragantino",
       "away": "Grêmio FBPA",
-      "league": "Campeonato Brasileiro Série A",
-      "date": "2026-08-23",
-      "time": "19:00 GMT",
-      "isLive": false,
-      "isFinished": false,
-      "homeScore": null,
-      "awayScore": null,
-      "homePenalties": null,
-      "awayPenalties": null
-    },
-    {
-      "home": "SE Palmeiras",
-      "away": "CR Vasco da Gama",
       "league": "Campeonato Brasileiro Série A",
       "date": "2026-08-23",
       "time": "19:00 GMT",
@@ -301,8 +301,8 @@
       "awayPenalties": null
     },
     {
-      "home": "Santos FC",
-      "away": "Mirassol FC",
+      "home": "Chapecoense AF",
+      "away": "São Paulo FC",
       "league": "Campeonato Brasileiro Série A",
       "date": "2026-08-23",
       "time": "21:30 GMT",
@@ -314,8 +314,8 @@
       "awayPenalties": null
     },
     {
-      "home": "Chapecoense AF",
-      "away": "São Paulo FC",
+      "home": "Santos FC",
+      "away": "Mirassol FC",
       "league": "Campeonato Brasileiro Série A",
       "date": "2026-08-23",
       "time": "21:30 GMT",
