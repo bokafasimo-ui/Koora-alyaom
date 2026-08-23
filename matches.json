@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T14:25:57.405Z",
+  "updatedAt": "2026-08-23T14:48:41.638Z",
   "matches": [
     {
       "home": "Go Ahead Eagles",
@@ -33,8 +33,8 @@
       "league": "Eredivisie",
       "date": "2026-08-23",
       "time": "12:30 GMT",
-      "isLive": true,
-      "isFinished": false,
+      "isLive": false,
+      "isFinished": true,
       "homeScore": 5,
       "awayScore": 1,
       "homePenalties": null,
@@ -62,7 +62,7 @@
       "isLive": true,
       "isFinished": false,
       "homeScore": 0,
-      "awayScore": 2,
+      "awayScore": 3,
       "homePenalties": null,
       "awayPenalties": null
     },
@@ -85,10 +85,10 @@
       "league": "Primeira Liga",
       "date": "2026-08-23",
       "time": "14:30 GMT",
-      "isLive": false,
+      "isLive": true,
       "isFinished": false,
-      "homeScore": null,
-      "awayScore": null,
+      "homeScore": 1,
+      "awayScore": 0,
       "homePenalties": null,
       "awayPenalties": null
     },
@@ -249,8 +249,8 @@
       "awayPenalties": null
     },
     {
-      "home": "SE Palmeiras",
-      "away": "CR Vasco da Gama",
+      "home": "EC Vitória",
+      "away": "EC Bahia",
       "league": "Campeonato Brasileiro Série A",
       "date": "2026-08-23",
       "time": "19:00 GMT",
@@ -262,8 +262,8 @@
       "awayPenalties": null
     },
     {
-      "home": "EC Vitória",
-      "away": "EC Bahia",
+      "home": "SE Palmeiras",
+      "away": "CR Vasco da Gama",
       "league": "Campeonato Brasileiro Série A",
       "date": "2026-08-23",
       "time": "19:00 GMT",
