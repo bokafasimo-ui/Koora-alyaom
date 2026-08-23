@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T22:11:35.346Z",
+  "updatedAt": "2026-08-23T22:38:01.805Z",
   "matches": [
     {
       "home": "Go Ahead Eagles",
@@ -41,6 +41,19 @@
       "awayPenalties": null
     },
     {
+      "home": "Manchester City FC",
+      "away": "AFC Bournemouth",
+      "league": "Premier League",
+      "date": "2026-08-23",
+      "time": "13:00 GMT",
+      "isLive": false,
+      "isFinished": true,
+      "homeScore": 2,
+      "awayScore": 1,
+      "homePenalties": null,
+      "awayPenalties": null
+    },
+    {
       "home": "Brighton & Hove Albion FC",
       "away": "Aston Villa FC",
       "league": "Premier League",
@@ -63,19 +76,6 @@
       "isFinished": true,
       "homeScore": 0,
       "awayScore": 2,
-      "homePenalties": null,
-      "awayPenalties": null
-    },
-    {
-      "home": "Manchester City FC",
-      "away": "AFC Bournemouth",
-      "league": "Premier League",
-      "date": "2026-08-23",
-      "time": "13:00 GMT",
-      "isLive": false,
-      "isFinished": true,
-      "homeScore": 2,
-      "awayScore": 1,
       "homePenalties": null,
       "awayPenalties": null
     },
@@ -197,6 +197,19 @@
       "awayPenalties": null
     },
     {
+      "home": "Atalanta BC",
+      "away": "US Sassuolo Calcio",
+      "league": "Serie A",
+      "date": "2026-08-23",
+      "time": "18:45 GMT",
+      "isLive": false,
+      "isFinished": true,
+      "homeScore": 2,
+      "awayScore": 1,
+      "homePenalties": null,
+      "awayPenalties": null
+    },
+    {
       "home": "Paris Saint-Germain FC",
       "away": "Stade Rennais FC 1901",
       "league": "Ligue 1",
@@ -223,15 +236,15 @@
       "awayPenalties": null
     },
     {
-      "home": "Atalanta BC",
-      "away": "US Sassuolo Calcio",
-      "league": "Serie A",
+      "home": "RB Bragantino",
+      "away": "Grêmio FBPA",
+      "league": "Campeonato Brasileiro Série A",
       "date": "2026-08-23",
-      "time": "18:45 GMT",
+      "time": "19:00 GMT",
       "isLive": false,
       "isFinished": true,
-      "homeScore": 2,
-      "awayScore": 1,
+      "homeScore": 1,
+      "awayScore": 0,
       "homePenalties": null,
       "awayPenalties": null
     },
@@ -258,19 +271,6 @@
       "isFinished": true,
       "homeScore": 0,
       "awayScore": 2,
-      "homePenalties": null,
-      "awayPenalties": null
-    },
-    {
-      "home": "RB Bragantino",
-      "away": "Grêmio FBPA",
-      "league": "Campeonato Brasileiro Série A",
-      "date": "2026-08-23",
-      "time": "19:00 GMT",
-      "isLive": false,
-      "isFinished": true,
-      "homeScore": 1,
-      "awayScore": 0,
       "homePenalties": null,
       "awayPenalties": null
     },
@@ -322,7 +322,7 @@
       "isLive": true,
       "isFinished": false,
       "homeScore": 0,
-      "awayScore": 0,
+      "awayScore": 1,
       "homePenalties": null,
       "awayPenalties": null
     },
@@ -332,10 +332,10 @@
       "league": "Campeonato Brasileiro Série A",
       "date": "2026-08-23",
       "time": "22:30 GMT",
-      "isLive": false,
+      "isLive": true,
       "isFinished": false,
-      "homeScore": null,
-      "awayScore": null,
+      "homeScore": 0,
+      "awayScore": 0,
       "homePenalties": null,
       "awayPenalties": null
     }
