@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T21:35:13.246Z",
+  "updatedAt": "2026-08-23T21:53:23.567Z",
   "matches": [
     {
       "home": "Go Ahead Eagles",
@@ -41,6 +41,19 @@
       "awayPenalties": null
     },
     {
+      "home": "Brighton & Hove Albion FC",
+      "away": "Aston Villa FC",
+      "league": "Premier League",
+      "date": "2026-08-23",
+      "time": "13:00 GMT",
+      "isLive": false,
+      "isFinished": true,
+      "homeScore": 4,
+      "awayScore": 0,
+      "homePenalties": null,
+      "awayPenalties": null
+    },
+    {
       "home": "Angers SCO",
       "away": "Lille OSC",
       "league": "Ligue 1",
@@ -49,7 +62,7 @@
       "isLive": false,
       "isFinished": true,
       "homeScore": 0,
-      "awayScore": 3,
+      "awayScore": 2,
       "homePenalties": null,
       "awayPenalties": null
     },
@@ -63,19 +76,6 @@
       "isFinished": true,
       "homeScore": 2,
       "awayScore": 1,
-      "homePenalties": null,
-      "awayPenalties": null
-    },
-    {
-      "home": "Brighton & Hove Albion FC",
-      "away": "Aston Villa FC",
-      "league": "Premier League",
-      "date": "2026-08-23",
-      "time": "13:00 GMT",
-      "isLive": false,
-      "isFinished": true,
-      "homeScore": 4,
-      "awayScore": 0,
       "homePenalties": null,
       "awayPenalties": null
     },
@@ -197,19 +197,6 @@
       "awayPenalties": null
     },
     {
-      "home": "Atalanta BC",
-      "away": "US Sassuolo Calcio",
-      "league": "Serie A",
-      "date": "2026-08-23",
-      "time": "18:45 GMT",
-      "isLive": false,
-      "isFinished": true,
-      "homeScore": 2,
-      "awayScore": 1,
-      "homePenalties": null,
-      "awayPenalties": null
-    },
-    {
       "home": "Torino FC",
       "away": "AC Milan",
       "league": "Serie A",
@@ -219,6 +206,19 @@
       "isFinished": true,
       "homeScore": 1,
       "awayScore": 2,
+      "homePenalties": null,
+      "awayPenalties": null
+    },
+    {
+      "home": "Atalanta BC",
+      "away": "US Sassuolo Calcio",
+      "league": "Serie A",
+      "date": "2026-08-23",
+      "time": "18:45 GMT",
+      "isLive": false,
+      "isFinished": true,
+      "homeScore": 2,
+      "awayScore": 1,
       "homePenalties": null,
       "awayPenalties": null
     },
@@ -306,10 +306,10 @@
       "league": "Campeonato Brasileiro Série A",
       "date": "2026-08-23",
       "time": "21:30 GMT",
-      "isLive": false,
+      "isLive": true,
       "isFinished": false,
-      "homeScore": null,
-      "awayScore": null,
+      "homeScore": 0,
+      "awayScore": 0,
       "homePenalties": null,
       "awayPenalties": null
     },
@@ -319,10 +319,10 @@
       "league": "Campeonato Brasileiro Série A",
       "date": "2026-08-23",
       "time": "21:30 GMT",
-      "isLive": false,
+      "isLive": true,
       "isFinished": false,
-      "homeScore": null,
-      "awayScore": null,
+      "homeScore": 0,
+      "awayScore": 0,
       "homePenalties": null,
       "awayPenalties": null
     },
