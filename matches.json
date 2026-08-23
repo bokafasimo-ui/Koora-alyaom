@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T17:01:50.162Z",
+  "updatedAt": "2026-08-23T17:28:31.709Z",
   "matches": [
     {
       "home": "Go Ahead Eagles",
@@ -54,19 +54,6 @@
       "awayPenalties": null
     },
     {
-      "home": "Manchester City FC",
-      "away": "AFC Bournemouth",
-      "league": "Premier League",
-      "date": "2026-08-23",
-      "time": "13:00 GMT",
-      "isLive": false,
-      "isFinished": true,
-      "homeScore": 2,
-      "awayScore": 1,
-      "homePenalties": null,
-      "awayPenalties": null
-    },
-    {
       "home": "Angers SCO",
       "away": "Lille OSC",
       "league": "Ligue 1",
@@ -76,6 +63,19 @@
       "isFinished": true,
       "homeScore": 0,
       "awayScore": 2,
+      "homePenalties": null,
+      "awayPenalties": null
+    },
+    {
+      "home": "Manchester City FC",
+      "away": "AFC Bournemouth",
+      "league": "Premier League",
+      "date": "2026-08-23",
+      "time": "13:00 GMT",
+      "isLive": false,
+      "isFinished": true,
+      "homeScore": 2,
+      "awayScore": 1,
       "homePenalties": null,
       "awayPenalties": null
     },
@@ -98,10 +98,10 @@
       "league": "Eredivisie",
       "date": "2026-08-23",
       "time": "14:45 GMT",
-      "isLive": true,
-      "isFinished": false,
+      "isLive": false,
+      "isFinished": true,
       "homeScore": 2,
-      "awayScore": 4,
+      "awayScore": 5,
       "homePenalties": null,
       "awayPenalties": null
     },
@@ -111,8 +111,8 @@
       "league": "Primera Division",
       "date": "2026-08-23",
       "time": "15:00 GMT",
-      "isLive": true,
-      "isFinished": false,
+      "isLive": false,
+      "isFinished": true,
       "homeScore": 2,
       "awayScore": 2,
       "homePenalties": null,
@@ -124,8 +124,8 @@
       "league": "Ligue 1",
       "date": "2026-08-23",
       "time": "15:15 GMT",
-      "isLive": true,
-      "isFinished": false,
+      "isLive": false,
+      "isFinished": true,
       "homeScore": 0,
       "awayScore": 1,
       "homePenalties": null,
@@ -165,7 +165,7 @@
       "time": "16:30 GMT",
       "isLive": true,
       "isFinished": false,
-      "homeScore": 1,
+      "homeScore": 0,
       "awayScore": 0,
       "homePenalties": null,
       "awayPenalties": null
@@ -176,10 +176,10 @@
       "league": "Primeira Liga",
       "date": "2026-08-23",
       "time": "17:00 GMT",
-      "isLive": false,
+      "isLive": true,
       "isFinished": false,
-      "homeScore": null,
-      "awayScore": null,
+      "homeScore": 1,
+      "awayScore": 0,
       "homePenalties": null,
       "awayPenalties": null
     },
