@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T12:10:52.095Z",
+  "updatedAt": "2026-08-23T13:01:00.213Z",
   "matches": [
     {
       "home": "Go Ahead Eagles",
@@ -7,10 +7,10 @@
       "league": "Eredivisie",
       "date": "2026-08-23",
       "time": "10:15 GMT",
-      "isLive": true,
-      "isFinished": false,
-      "homeScore": 1,
-      "awayScore": 0,
+      "isLive": false,
+      "isFinished": true,
+      "homeScore": 3,
+      "awayScore": 1,
       "homePenalties": null,
       "awayPenalties": null
     },
@@ -20,9 +20,9 @@
       "league": "Championship",
       "date": "2026-08-23",
       "time": "11:00 GMT",
-      "isLive": true,
-      "isFinished": false,
-      "homeScore": 1,
+      "isLive": false,
+      "isFinished": true,
+      "homeScore": 3,
       "awayScore": 1,
       "homePenalties": null,
       "awayPenalties": null
@@ -33,6 +33,19 @@
       "league": "Eredivisie",
       "date": "2026-08-23",
       "time": "12:30 GMT",
+      "isLive": true,
+      "isFinished": false,
+      "homeScore": 1,
+      "awayScore": 1,
+      "homePenalties": null,
+      "awayPenalties": null
+    },
+    {
+      "home": "Angers SCO",
+      "away": "Lille OSC",
+      "league": "Ligue 1",
+      "date": "2026-08-23",
+      "time": "13:00 GMT",
       "isLive": false,
       "isFinished": false,
       "homeScore": null,
@@ -44,19 +57,6 @@
       "home": "Manchester City FC",
       "away": "AFC Bournemouth",
       "league": "Premier League",
-      "date": "2026-08-23",
-      "time": "13:00 GMT",
-      "isLive": false,
-      "isFinished": false,
-      "homeScore": null,
-      "awayScore": null,
-      "homePenalties": null,
-      "awayPenalties": null
-    },
-    {
-      "home": "Angers SCO",
-      "away": "Lille OSC",
-      "league": "Ligue 1",
       "date": "2026-08-23",
       "time": "13:00 GMT",
       "isLive": false,
@@ -145,8 +145,8 @@
       "awayPenalties": null
     },
     {
-      "home": "Venezia FC",
-      "away": "US Lecce",
+      "home": "Frosinone Calcio",
+      "away": "Juventus FC",
       "league": "Serie A",
       "date": "2026-08-23",
       "time": "16:30 GMT",
@@ -158,8 +158,8 @@
       "awayPenalties": null
     },
     {
-      "home": "Frosinone Calcio",
-      "away": "Juventus FC",
+      "home": "Venezia FC",
+      "away": "US Lecce",
       "league": "Serie A",
       "date": "2026-08-23",
       "time": "16:30 GMT",
@@ -301,8 +301,8 @@
       "awayPenalties": null
     },
     {
-      "home": "Chapecoense AF",
-      "away": "São Paulo FC",
+      "home": "Santos FC",
+      "away": "Mirassol FC",
       "league": "Campeonato Brasileiro Série A",
       "date": "2026-08-23",
       "time": "21:30 GMT",
@@ -314,8 +314,8 @@
       "awayPenalties": null
     },
     {
-      "home": "Santos FC",
-      "away": "Mirassol FC",
+      "home": "Chapecoense AF",
+      "away": "São Paulo FC",
       "league": "Campeonato Brasileiro Série A",
       "date": "2026-08-23",
       "time": "21:30 GMT",
