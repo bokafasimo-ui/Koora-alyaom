@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T08:03:53.137Z",
+  "updatedAt": "2026-08-23T08:43:10.145Z",
   "matches": [
     {
       "home": "Go Ahead Eagles",
@@ -54,9 +54,9 @@
       "awayPenalties": null
     },
     {
-      "home": "Angers SCO",
-      "away": "Lille OSC",
-      "league": "Ligue 1",
+      "home": "Manchester City FC",
+      "away": "AFC Bournemouth",
+      "league": "Premier League",
       "date": "2026-08-23",
       "time": "13:00 GMT",
       "isLive": false,
@@ -67,9 +67,9 @@
       "awayPenalties": null
     },
     {
-      "home": "Manchester City FC",
-      "away": "AFC Bournemouth",
-      "league": "Premier League",
+      "home": "Angers SCO",
+      "away": "Lille OSC",
+      "league": "Ligue 1",
       "date": "2026-08-23",
       "time": "13:00 GMT",
       "isLive": false,
