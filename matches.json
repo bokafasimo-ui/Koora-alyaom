@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T07:10:17.379Z",
+  "updatedAt": "2026-08-23T07:46:19.281Z",
   "matches": [
     {
       "home": "Go Ahead Eagles",
@@ -210,9 +210,9 @@
       "awayPenalties": null
     },
     {
-      "home": "Paris Saint-Germain FC",
-      "away": "Stade Rennais FC 1901",
-      "league": "Ligue 1",
+      "home": "Atalanta BC",
+      "away": "US Sassuolo Calcio",
+      "league": "Serie A",
       "date": "2026-08-23",
       "time": "18:45 GMT",
       "isLive": false,
@@ -223,9 +223,9 @@
       "awayPenalties": null
     },
     {
-      "home": "Atalanta BC",
-      "away": "US Sassuolo Calcio",
-      "league": "Serie A",
+      "home": "Paris Saint-Germain FC",
+      "away": "Stade Rennais FC 1901",
+      "league": "Ligue 1",
       "date": "2026-08-23",
       "time": "18:45 GMT",
       "isLive": false,
