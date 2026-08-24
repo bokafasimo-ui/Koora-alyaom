@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-24T17:51:43.383Z",
+  "updatedAt": "2026-08-24T18:18:30.110Z",
   "matches": [
     {
       "home": "Bologna FC 1909",
@@ -10,7 +10,7 @@
       "isLive": true,
       "isFinished": false,
       "homeScore": 0,
-      "awayScore": 0,
+      "awayScore": 1,
       "homePenalties": null,
       "awayPenalties": null
     },
