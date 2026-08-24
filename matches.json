@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-24T21:04:44.298Z",
+  "updatedAt": "2026-08-24T21:39:11.802Z",
   "matches": [
     {
       "home": "Bologna FC 1909",
@@ -59,8 +59,8 @@
       "league": "Primeira Liga",
       "date": "2026-08-24",
       "time": "19:15 GMT",
-      "isLive": true,
-      "isFinished": false,
+      "isLive": false,
+      "isFinished": true,
       "homeScore": 2,
       "awayScore": 0,
       "homePenalties": null,
@@ -72,8 +72,8 @@
       "league": "Primera Division",
       "date": "2026-08-24",
       "time": "19:30 GMT",
-      "isLive": true,
-      "isFinished": false,
+      "isLive": false,
+      "isFinished": true,
       "homeScore": 1,
       "awayScore": 1,
       "homePenalties": null,
