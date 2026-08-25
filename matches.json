@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-25T20:45:32.796Z",
+  "updatedAt": "2026-08-25T21:10:43.673Z",
   "matches": [
     {
       "home": "Valencia CF",
@@ -7,10 +7,10 @@
       "league": "Primera Division",
       "date": "2026-08-25",
       "time": "19:00 GMT",
-      "isLive": true,
-      "isFinished": false,
+      "isLive": false,
+      "isFinished": true,
       "homeScore": 0,
-      "awayScore": 0,
+      "awayScore": 1,
       "homePenalties": null,
       "awayPenalties": null
     }
