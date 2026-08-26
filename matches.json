@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-08-25T23:51:04.544Z",
+  "updatedAt": "2026-08-26T00:26:13.394Z",
   "matches": [
     {
-      "home": "Valencia CF",
-      "away": "Real Betis Balompié",
+      "home": "Real Madrid CF",
+      "away": "Real Sociedad de Fútbol",
       "league": "Primera Division",
-      "date": "2026-08-25",
+      "date": "2026-08-26",
       "time": "19:00 GMT",
       "isLive": false,
-      "isFinished": true,
-      "homeScore": 0,
-      "awayScore": 1,
+      "isFinished": false,
+      "homeScore": null,
+      "awayScore": null,
       "homePenalties": null,
       "awayPenalties": null
     }
