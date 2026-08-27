@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-27T10:29:46.791Z",
+  "updatedAt": "2026-08-27T20:42:08.404Z",
   "matches": [
     {
       "home": "RC Celta de Vigo",
@@ -8,9 +8,9 @@
       "date": "2026-08-27",
       "time": "18:30 GMT",
       "isLive": false,
-      "isFinished": false,
-      "homeScore": null,
-      "awayScore": null,
+      "isFinished": true,
+      "homeScore": 1,
+      "awayScore": 2,
       "homePenalties": null,
       "awayPenalties": null
     },
@@ -20,10 +20,10 @@
       "league": "Primera Division",
       "date": "2026-08-27",
       "time": "19:00 GMT",
-      "isLive": false,
+      "isLive": true,
       "isFinished": false,
-      "homeScore": null,
-      "awayScore": null,
+      "homeScore": 1,
+      "awayScore": 0,
       "homePenalties": null,
       "awayPenalties": null
     }
