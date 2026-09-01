@@ -1,48 +1,9 @@
 {
-  "updatedAt": "2026-09-01T00:18:48.296Z",
+  "updatedAt": "2026-09-01T05:19:59.697Z",
   "matches": [
-    {
-      "home": "Portsmouth FC",
-      "away": "Derby County FC",
-      "league": "Championship",
-      "date": "2026-09-01",
-      "time": "18:45 GMT",
-      "isLive": false,
-      "isFinished": false,
-      "homeScore": null,
-      "awayScore": null,
-      "homePenalties": null,
-      "awayPenalties": null
-    },
     {
       "home": "Preston North End FC",
       "away": "Bristol City FC",
-      "league": "Championship",
-      "date": "2026-09-01",
-      "time": "18:45 GMT",
-      "isLive": false,
-      "isFinished": false,
-      "homeScore": null,
-      "awayScore": null,
-      "homePenalties": null,
-      "awayPenalties": null
-    },
-    {
-      "home": "Swansea City AFC",
-      "away": "Watford FC",
-      "league": "Championship",
-      "date": "2026-09-01",
-      "time": "18:45 GMT",
-      "isLive": false,
-      "isFinished": false,
-      "homeScore": null,
-      "awayScore": null,
-      "homePenalties": null,
-      "awayPenalties": null
-    },
-    {
-      "home": "Lincoln City FC",
-      "away": "Blackburn Rovers FC",
       "league": "Championship",
       "date": "2026-09-01",
       "time": "18:45 GMT",
@@ -67,8 +28,47 @@
       "awayPenalties": null
     },
     {
+      "home": "Lincoln City FC",
+      "away": "Blackburn Rovers FC",
+      "league": "Championship",
+      "date": "2026-09-01",
+      "time": "18:45 GMT",
+      "isLive": false,
+      "isFinished": false,
+      "homeScore": null,
+      "awayScore": null,
+      "homePenalties": null,
+      "awayPenalties": null
+    },
+    {
       "home": "Sheffield United FC",
       "away": "Bolton Wanderers FC",
+      "league": "Championship",
+      "date": "2026-09-01",
+      "time": "18:45 GMT",
+      "isLive": false,
+      "isFinished": false,
+      "homeScore": null,
+      "awayScore": null,
+      "homePenalties": null,
+      "awayPenalties": null
+    },
+    {
+      "home": "Portsmouth FC",
+      "away": "Derby County FC",
+      "league": "Championship",
+      "date": "2026-09-01",
+      "time": "18:45 GMT",
+      "isLive": false,
+      "isFinished": false,
+      "homeScore": null,
+      "awayScore": null,
+      "homePenalties": null,
+      "awayPenalties": null
+    },
+    {
+      "home": "Swansea City AFC",
+      "away": "Watford FC",
       "league": "Championship",
       "date": "2026-09-01",
       "time": "18:45 GMT",
