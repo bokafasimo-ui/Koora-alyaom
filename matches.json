@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-02T01:02:09.892Z",
+  "updatedAt": "2026-09-02T05:40:41.132Z",
   "matches": [
     {
-      "home": "Millwall FC",
-      "away": "Wrexham AFC",
+      "home": "West Bromwich Albion FC",
+      "away": "Charlton Athletic FC",
       "league": "Championship",
       "date": "2026-09-02",
       "time": "18:45 GMT",
@@ -15,8 +15,8 @@
       "awayPenalties": null
     },
     {
-      "home": "West Bromwich Albion FC",
-      "away": "Charlton Athletic FC",
+      "home": "Millwall FC",
+      "away": "Wrexham AFC",
       "league": "Championship",
       "date": "2026-09-02",
       "time": "18:45 GMT",
