@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-03T19:56:22.779Z",
+  "updatedAt": "2026-09-03T22:17:28.190Z",
   "matches": [
     {
       "home": "Toulouse FC",
@@ -7,10 +7,10 @@
       "league": "Ligue 1",
       "date": "2026-09-03",
       "time": "18:45 GMT",
-      "isLive": true,
-      "isFinished": false,
+      "isLive": false,
+      "isFinished": true,
       "homeScore": 0,
-      "awayScore": 0,
+      "awayScore": 1,
       "homePenalties": null,
       "awayPenalties": null
     },
@@ -20,8 +20,8 @@
       "league": "Primera Division",
       "date": "2026-09-03",
       "time": "19:00 GMT",
-      "isLive": true,
-      "isFinished": false,
+      "isLive": false,
+      "isFinished": true,
       "homeScore": 0,
       "awayScore": 0,
       "homePenalties": null,
