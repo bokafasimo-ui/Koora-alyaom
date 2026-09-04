@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-04T04:28:00.112Z",
+  "updatedAt": "2026-09-04T08:59:20.907Z",
   "matches": [
     {
       "home": "Olympique Lyonnais",
@@ -54,9 +54,9 @@
       "awayPenalties": null
     },
     {
-      "home": "Ipswich Town FC",
-      "away": "Liverpool FC",
-      "league": "Premier League",
+      "home": "Real Betis Balompié",
+      "away": "Real Madrid CF",
+      "league": "Primera Division",
       "date": "2026-09-04",
       "time": "19:00 GMT",
       "isLive": false,
@@ -67,9 +67,9 @@
       "awayPenalties": null
     },
     {
-      "home": "Real Betis Balompié",
-      "away": "Real Madrid CF",
-      "league": "Primera Division",
+      "home": "Ipswich Town FC",
+      "away": "Liverpool FC",
+      "league": "Premier League",
       "date": "2026-09-04",
       "time": "19:00 GMT",
       "isLive": false,
