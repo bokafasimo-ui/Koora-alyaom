@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T22:14:58.395Z",
+  "updatedAt": "2026-09-06T23:58:08.858Z",
   "matches": [
     {
       "home": "Fluminense FC",
@@ -236,19 +236,6 @@
       "awayPenalties": null
     },
     {
-      "home": "Deportivo Alavés",
-      "away": "CA Osasuna",
-      "league": "Primera Division",
-      "date": "2026-09-06",
-      "time": "16:30 GMT",
-      "isLive": false,
-      "isFinished": true,
-      "homeScore": 5,
-      "awayScore": 2,
-      "homePenalties": null,
-      "awayPenalties": null
-    },
-    {
       "home": "Málaga CF",
       "away": "Levante UD",
       "league": "Primera Division",
@@ -258,6 +245,19 @@
       "isFinished": true,
       "homeScore": 0,
       "awayScore": 0,
+      "homePenalties": null,
+      "awayPenalties": null
+    },
+    {
+      "home": "Deportivo Alavés",
+      "away": "CA Osasuna",
+      "league": "Primera Division",
+      "date": "2026-09-06",
+      "time": "16:30 GMT",
+      "isLive": false,
+      "isFinished": true,
+      "homeScore": 5,
+      "awayScore": 2,
       "homePenalties": null,
       "awayPenalties": null
     },
@@ -301,19 +301,6 @@
       "awayPenalties": null
     },
     {
-      "home": "Clube do Remo",
-      "away": "CR Flamengo",
-      "league": "Campeonato Brasileiro Série A",
-      "date": "2026-09-06",
-      "time": "19:00 GMT",
-      "isLive": false,
-      "isFinished": true,
-      "homeScore": 0,
-      "awayScore": 1,
-      "homePenalties": null,
-      "awayPenalties": null
-    },
-    {
       "home": "RCD Espanyol de Barcelona",
       "away": "Sevilla FC",
       "league": "Primera Division",
@@ -322,6 +309,19 @@
       "isLive": false,
       "isFinished": true,
       "homeScore": 1,
+      "awayScore": 1,
+      "homePenalties": null,
+      "awayPenalties": null
+    },
+    {
+      "home": "Clube do Remo",
+      "away": "CR Flamengo",
+      "league": "Campeonato Brasileiro Série A",
+      "date": "2026-09-06",
+      "time": "19:00 GMT",
+      "isLive": false,
+      "isFinished": true,
+      "homeScore": 0,
       "awayScore": 1,
       "homePenalties": null,
       "awayPenalties": null
@@ -371,8 +371,8 @@
       "league": "Campeonato Brasileiro Série A",
       "date": "2026-09-06",
       "time": "21:30 GMT",
-      "isLive": true,
-      "isFinished": false,
+      "isLive": false,
+      "isFinished": true,
       "homeScore": 0,
       "awayScore": 0,
       "homePenalties": null,
@@ -384,10 +384,10 @@
       "league": "Campeonato Brasileiro Série A",
       "date": "2026-09-06",
       "time": "22:30 GMT",
-      "isLive": false,
+      "isLive": true,
       "isFinished": false,
-      "homeScore": null,
-      "awayScore": null,
+      "homeScore": 1,
+      "awayScore": 1,
       "homePenalties": null,
       "awayPenalties": null
     }
