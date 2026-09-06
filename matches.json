@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T00:54:58.287Z",
+  "updatedAt": "2026-09-06T05:26:29.981Z",
   "matches": [
     {
       "home": "Fluminense FC",
@@ -7,9 +7,9 @@
       "league": "Campeonato Brasileiro Série A",
       "date": "2026-09-06",
       "time": "00:00 GMT",
-      "isLive": true,
-      "isFinished": false,
-      "homeScore": 0,
+      "isLive": false,
+      "isFinished": true,
+      "homeScore": 1,
       "awayScore": 0,
       "homePenalties": null,
       "awayPenalties": null
