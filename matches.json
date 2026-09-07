@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-07T21:48:15.182Z",
+  "updatedAt": "2026-09-07T23:48:48.086Z",
   "matches": [
     {
       "home": "Cagliari Calcio",
@@ -72,10 +72,10 @@
       "league": "Campeonato Brasileiro Série A",
       "date": "2026-09-07",
       "time": "23:00 GMT",
-      "isLive": false,
+      "isLive": true,
       "isFinished": false,
-      "homeScore": null,
-      "awayScore": null,
+      "homeScore": 0,
+      "awayScore": 0,
       "homePenalties": null,
       "awayPenalties": null
     }
