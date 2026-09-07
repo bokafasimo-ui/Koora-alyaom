@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-07T18:48:15.124Z",
+  "updatedAt": "2026-09-07T21:48:15.182Z",
   "matches": [
     {
       "home": "Cagliari Calcio",
@@ -20,8 +20,8 @@
       "league": "Primera Division",
       "date": "2026-09-07",
       "time": "17:00 GMT",
-      "isLive": true,
-      "isFinished": false,
+      "isLive": false,
+      "isFinished": true,
       "homeScore": 1,
       "awayScore": 1,
       "homePenalties": null,
@@ -34,9 +34,9 @@
       "date": "2026-09-07",
       "time": "18:45 GMT",
       "isLive": false,
-      "isFinished": false,
-      "homeScore": null,
-      "awayScore": null,
+      "isFinished": true,
+      "homeScore": 1,
+      "awayScore": 2,
       "homePenalties": null,
       "awayPenalties": null
     },
@@ -47,9 +47,9 @@
       "date": "2026-09-07",
       "time": "19:15 GMT",
       "isLive": false,
-      "isFinished": false,
-      "homeScore": null,
-      "awayScore": null,
+      "isFinished": true,
+      "homeScore": 0,
+      "awayScore": 0,
       "homePenalties": null,
       "awayPenalties": null
     },
@@ -60,9 +60,9 @@
       "date": "2026-09-07",
       "time": "19:30 GMT",
       "isLive": false,
-      "isFinished": false,
-      "homeScore": null,
-      "awayScore": null,
+      "isFinished": true,
+      "homeScore": 2,
+      "awayScore": 3,
       "homePenalties": null,
       "awayPenalties": null
     },
