@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-08T01:28:59.733Z",
+  "updatedAt": "2026-09-08T06:25:54.891Z",
   "matches": [
     {
       "home": "FC Utrecht",
@@ -11,6 +11,19 @@
       "isFinished": false,
       "homeScore": 1,
       "awayScore": 3,
+      "homePenalties": null,
+      "awayPenalties": null
+    },
+    {
+      "home": "PAE AEK",
+      "away": "LASK Linz",
+      "league": "UEFA Champions League",
+      "date": "2026-09-08",
+      "time": "16:45 GMT",
+      "isLive": false,
+      "isFinished": false,
+      "homeScore": null,
+      "awayScore": null,
       "homePenalties": null,
       "awayPenalties": null
     },
@@ -41,11 +54,24 @@
       "awayPenalties": null
     },
     {
-      "home": "PAE AEK",
-      "away": "LASK Linz",
-      "league": "UEFA Champions League",
+      "home": "Southampton FC",
+      "away": "Swansea City AFC",
+      "league": "Championship",
       "date": "2026-09-08",
-      "time": "16:45 GMT",
+      "time": "18:45 GMT",
+      "isLive": false,
+      "isFinished": false,
+      "homeScore": null,
+      "awayScore": null,
+      "homePenalties": null,
+      "awayPenalties": null
+    },
+    {
+      "home": "Cardiff City FC",
+      "away": "Stoke City FC",
+      "league": "Championship",
+      "date": "2026-09-08",
+      "time": "18:45 GMT",
       "isLive": false,
       "isFinished": false,
       "homeScore": null,
@@ -93,11 +119,11 @@
       "awayPenalties": null
     },
     {
-      "home": "Southampton FC",
-      "away": "Swansea City AFC",
-      "league": "Championship",
+      "home": "FC Porto",
+      "away": "Manchester City FC",
+      "league": "UEFA Champions League",
       "date": "2026-09-08",
-      "time": "18:45 GMT",
+      "time": "19:00 GMT",
       "isLive": false,
       "isFinished": false,
       "homeScore": null,
@@ -106,11 +132,11 @@
       "awayPenalties": null
     },
     {
-      "home": "Cardiff City FC",
-      "away": "Stoke City FC",
-      "league": "Championship",
+      "home": "Lille OSC",
+      "away": "Real Betis Balompié",
+      "league": "UEFA Champions League",
       "date": "2026-09-08",
-      "time": "18:45 GMT",
+      "time": "19:00 GMT",
       "isLive": false,
       "isFinished": false,
       "homeScore": null,
@@ -148,32 +174,6 @@
       "home": "Bolton Wanderers FC",
       "away": "West Ham United FC",
       "league": "Championship",
-      "date": "2026-09-08",
-      "time": "19:00 GMT",
-      "isLive": false,
-      "isFinished": false,
-      "homeScore": null,
-      "awayScore": null,
-      "homePenalties": null,
-      "awayPenalties": null
-    },
-    {
-      "home": "FC Porto",
-      "away": "Manchester City FC",
-      "league": "UEFA Champions League",
-      "date": "2026-09-08",
-      "time": "19:00 GMT",
-      "isLive": false,
-      "isFinished": false,
-      "homeScore": null,
-      "awayScore": null,
-      "homePenalties": null,
-      "awayPenalties": null
-    },
-    {
-      "home": "Lille OSC",
-      "away": "Real Betis Balompié",
-      "league": "UEFA Champions League",
       "date": "2026-09-08",
       "time": "19:00 GMT",
       "isLive": false,
