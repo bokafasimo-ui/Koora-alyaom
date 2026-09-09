@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-09-09T01:28:40.717Z",
+  "updatedAt": "2026-09-09T06:30:45.067Z",
   "matches": [
     {
-      "home": "VfB Stuttgart",
-      "away": "Viking FK",
-      "league": "UEFA Champions League",
+      "home": "FC Twente '65",
+      "away": "Telstar 1963",
+      "league": "Eredivisie",
       "date": "2026-09-09",
       "time": "16:45 GMT",
       "isLive": false,
@@ -15,9 +15,9 @@
       "awayPenalties": null
     },
     {
-      "home": "FC Twente '65",
-      "away": "Telstar 1963",
-      "league": "Eredivisie",
+      "home": "VfB Stuttgart",
+      "away": "Viking FK",
+      "league": "UEFA Champions League",
       "date": "2026-09-09",
       "time": "16:45 GMT",
       "isLive": false,
@@ -93,19 +93,6 @@
       "awayPenalties": null
     },
     {
-      "home": "Liverpool FC",
-      "away": "Club Atlético de Madrid",
-      "league": "UEFA Champions League",
-      "date": "2026-09-09",
-      "time": "19:00 GMT",
-      "isLive": false,
-      "isFinished": false,
-      "homeScore": null,
-      "awayScore": null,
-      "homePenalties": null,
-      "awayPenalties": null
-    },
-    {
       "home": "Charlton Athletic FC",
       "away": "Queens Park Rangers FC",
       "league": "Championship",
@@ -121,6 +108,19 @@
     {
       "home": "SSC Napoli",
       "away": "Arsenal FC",
+      "league": "UEFA Champions League",
+      "date": "2026-09-09",
+      "time": "19:00 GMT",
+      "isLive": false,
+      "isFinished": false,
+      "homeScore": null,
+      "awayScore": null,
+      "homePenalties": null,
+      "awayPenalties": null
+    },
+    {
+      "home": "Liverpool FC",
+      "away": "Club Atlético de Madrid",
       "league": "UEFA Champions League",
       "date": "2026-09-09",
       "time": "19:00 GMT",
