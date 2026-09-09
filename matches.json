@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-09-09T11:46:15.252Z",
+  "updatedAt": "2026-09-09T15:19:56.273Z",
   "matches": [
     {
-      "home": "FC Twente '65",
-      "away": "Telstar 1963",
-      "league": "Eredivisie",
+      "home": "FC Barcelona",
+      "away": "Feyenoord Rotterdam",
+      "league": "UEFA Champions League",
       "date": "2026-09-09",
       "time": "16:45 GMT",
       "isLive": false,
@@ -28,24 +28,11 @@
       "awayPenalties": null
     },
     {
-      "home": "FC Barcelona",
-      "away": "Feyenoord Rotterdam",
-      "league": "UEFA Champions League",
+      "home": "FC Twente '65",
+      "away": "Telstar 1963",
+      "league": "Eredivisie",
       "date": "2026-09-09",
       "time": "16:45 GMT",
-      "isLive": false,
-      "isFinished": false,
-      "homeScore": null,
-      "awayScore": null,
-      "homePenalties": null,
-      "awayPenalties": null
-    },
-    {
-      "home": "Norwich City FC",
-      "away": "Birmingham City FC",
-      "league": "Championship",
-      "date": "2026-09-09",
-      "time": "18:45 GMT",
       "isLive": false,
       "isFinished": false,
       "homeScore": null,
@@ -67,11 +54,11 @@
       "awayPenalties": null
     },
     {
-      "home": "Paris Saint-Germain FC",
-      "away": "ŠK Slovan Bratislava",
-      "league": "UEFA Champions League",
+      "home": "Norwich City FC",
+      "away": "Birmingham City FC",
+      "league": "Championship",
       "date": "2026-09-09",
-      "time": "19:00 GMT",
+      "time": "18:45 GMT",
       "isLive": false,
       "isFinished": false,
       "homeScore": null,
@@ -80,8 +67,8 @@
       "awayPenalties": null
     },
     {
-      "home": "Sporting Clube de Portugal",
-      "away": "Galatasaray SK",
+      "home": "Liverpool FC",
+      "away": "Club Atlético de Madrid",
       "league": "UEFA Champions League",
       "date": "2026-09-09",
       "time": "19:00 GMT",
@@ -119,8 +106,21 @@
       "awayPenalties": null
     },
     {
-      "home": "Liverpool FC",
-      "away": "Club Atlético de Madrid",
+      "home": "Sporting Clube de Portugal",
+      "away": "Galatasaray SK",
+      "league": "UEFA Champions League",
+      "date": "2026-09-09",
+      "time": "19:00 GMT",
+      "isLive": false,
+      "isFinished": false,
+      "homeScore": null,
+      "awayScore": null,
+      "homePenalties": null,
+      "awayPenalties": null
+    },
+    {
+      "home": "Paris Saint-Germain FC",
+      "away": "ŠK Slovan Bratislava",
       "league": "UEFA Champions League",
       "date": "2026-09-09",
       "time": "19:00 GMT",
