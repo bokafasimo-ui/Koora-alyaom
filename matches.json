@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-10T01:09:21.522Z",
+  "updatedAt": "2026-09-10T05:56:52.949Z",
   "matches": [
     {
       "home": "PSV",
@@ -28,19 +28,6 @@
       "awayPenalties": null
     },
     {
-      "home": "Manchester United FC",
-      "away": "Sabah FK",
-      "league": "UEFA Champions League",
-      "date": "2026-09-10",
-      "time": "19:00 GMT",
-      "isLive": false,
-      "isFinished": false,
-      "homeScore": null,
-      "awayScore": null,
-      "homePenalties": null,
-      "awayPenalties": null
-    },
-    {
       "home": "SK Slavia Praha",
       "away": "Racing Club de Lens",
       "league": "UEFA Champions League",
@@ -54,8 +41,8 @@
       "awayPenalties": null
     },
     {
-      "home": "Como 1907",
-      "away": "RB Leipzig",
+      "home": "Manchester United FC",
+      "away": "Sabah FK",
       "league": "UEFA Champions League",
       "date": "2026-09-10",
       "time": "19:00 GMT",
@@ -69,6 +56,19 @@
     {
       "home": "FC Bayern München",
       "away": "FK Bodø/Glimt",
+      "league": "UEFA Champions League",
+      "date": "2026-09-10",
+      "time": "19:00 GMT",
+      "isLive": false,
+      "isFinished": false,
+      "homeScore": null,
+      "awayScore": null,
+      "homePenalties": null,
+      "awayPenalties": null
+    },
+    {
+      "home": "Como 1907",
+      "away": "RB Leipzig",
       "league": "UEFA Champions League",
       "date": "2026-09-10",
       "time": "19:00 GMT",
