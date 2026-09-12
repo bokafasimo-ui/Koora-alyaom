@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-12T04:30:26.064Z",
+  "updatedAt": "2026-09-12T08:46:45.690Z",
   "matches": [
     {
       "home": "Coritiba FBC",
@@ -80,6 +80,32 @@
       "awayPenalties": null
     },
     {
+      "home": "1. FSV Mainz 05",
+      "away": "Eintracht Frankfurt",
+      "league": "Bundesliga",
+      "date": "2026-09-12",
+      "time": "13:30 GMT",
+      "isLive": false,
+      "isFinished": false,
+      "homeScore": null,
+      "awayScore": null,
+      "homePenalties": null,
+      "awayPenalties": null
+    },
+    {
+      "home": "Borussia Dortmund",
+      "away": "SC Paderborn 07",
+      "league": "Bundesliga",
+      "date": "2026-09-12",
+      "time": "13:30 GMT",
+      "isLive": false,
+      "isFinished": false,
+      "homeScore": null,
+      "awayScore": null,
+      "homePenalties": null,
+      "awayPenalties": null
+    },
+    {
       "home": "FC Augsburg",
       "away": "Bayer 04 Leverkusen",
       "league": "Bundesliga",
@@ -119,11 +145,11 @@
       "awayPenalties": null
     },
     {
-      "home": "1. FSV Mainz 05",
-      "away": "Eintracht Frankfurt",
-      "league": "Bundesliga",
+      "home": "Swansea City AFC",
+      "away": "Burnley FC",
+      "league": "Championship",
       "date": "2026-09-12",
-      "time": "13:30 GMT",
+      "time": "14:00 GMT",
       "isLive": false,
       "isFinished": false,
       "homeScore": null,
@@ -132,11 +158,37 @@
       "awayPenalties": null
     },
     {
-      "home": "Borussia Dortmund",
-      "away": "SC Paderborn 07",
-      "league": "Bundesliga",
+      "home": "Liverpool FC",
+      "away": "Fulham FC",
+      "league": "Premier League",
       "date": "2026-09-12",
-      "time": "13:30 GMT",
+      "time": "14:00 GMT",
+      "isLive": false,
+      "isFinished": false,
+      "homeScore": null,
+      "awayScore": null,
+      "homePenalties": null,
+      "awayPenalties": null
+    },
+    {
+      "home": "Southampton FC",
+      "away": "Bristol City FC",
+      "league": "Championship",
+      "date": "2026-09-12",
+      "time": "14:00 GMT",
+      "isLive": false,
+      "isFinished": false,
+      "homeScore": null,
+      "awayScore": null,
+      "homePenalties": null,
+      "awayPenalties": null
+    },
+    {
+      "home": "Middlesbrough FC",
+      "away": "Norwich City FC",
+      "league": "Championship",
+      "date": "2026-09-12",
+      "time": "14:00 GMT",
       "isLive": false,
       "isFinished": false,
       "homeScore": null,
@@ -249,58 +301,6 @@
       "awayPenalties": null
     },
     {
-      "home": "Middlesbrough FC",
-      "away": "Norwich City FC",
-      "league": "Championship",
-      "date": "2026-09-12",
-      "time": "14:00 GMT",
-      "isLive": false,
-      "isFinished": false,
-      "homeScore": null,
-      "awayScore": null,
-      "homePenalties": null,
-      "awayPenalties": null
-    },
-    {
-      "home": "Swansea City AFC",
-      "away": "Burnley FC",
-      "league": "Championship",
-      "date": "2026-09-12",
-      "time": "14:00 GMT",
-      "isLive": false,
-      "isFinished": false,
-      "homeScore": null,
-      "awayScore": null,
-      "homePenalties": null,
-      "awayPenalties": null
-    },
-    {
-      "home": "Liverpool FC",
-      "away": "Fulham FC",
-      "league": "Premier League",
-      "date": "2026-09-12",
-      "time": "14:00 GMT",
-      "isLive": false,
-      "isFinished": false,
-      "homeScore": null,
-      "awayScore": null,
-      "homePenalties": null,
-      "awayPenalties": null
-    },
-    {
-      "home": "Southampton FC",
-      "away": "Bristol City FC",
-      "league": "Championship",
-      "date": "2026-09-12",
-      "time": "14:00 GMT",
-      "isLive": false,
-      "isFinished": false,
-      "homeScore": null,
-      "awayScore": null,
-      "homePenalties": null,
-      "awayPenalties": null
-    },
-    {
       "home": "CA Osasuna",
       "away": "RCD Espanyol de Barcelona",
       "league": "Primera Division",
@@ -314,9 +314,9 @@
       "awayPenalties": null
     },
     {
-      "home": "FC Twente '65",
-      "away": "ADO Den Haag",
-      "league": "Eredivisie",
+      "home": "CD Nacional",
+      "away": "FC Alverca",
+      "league": "Primeira Liga",
       "date": "2026-09-12",
       "time": "14:30 GMT",
       "isLive": false,
@@ -327,9 +327,9 @@
       "awayPenalties": null
     },
     {
-      "home": "CD Nacional",
-      "away": "FC Alverca",
-      "league": "Primeira Liga",
+      "home": "FC Twente '65",
+      "away": "ADO Den Haag",
+      "league": "Eredivisie",
       "date": "2026-09-12",
       "time": "14:30 GMT",
       "isLive": false,
@@ -366,6 +366,19 @@
       "awayPenalties": null
     },
     {
+      "home": "Tottenham Hotspur FC",
+      "away": "Everton FC",
+      "league": "Premier League",
+      "date": "2026-09-12",
+      "time": "16:30 GMT",
+      "isLive": false,
+      "isFinished": false,
+      "homeScore": null,
+      "awayScore": null,
+      "homePenalties": null,
+      "awayPenalties": null
+    },
+    {
       "home": "1. FC Köln",
       "away": "SV Werder Bremen",
       "league": "Bundesliga",
@@ -382,19 +395,6 @@
       "home": "Athletic Club",
       "away": "Elche CF",
       "league": "Primera Division",
-      "date": "2026-09-12",
-      "time": "16:30 GMT",
-      "isLive": false,
-      "isFinished": false,
-      "homeScore": null,
-      "awayScore": null,
-      "homePenalties": null,
-      "awayPenalties": null
-    },
-    {
-      "home": "Tottenham Hotspur FC",
-      "away": "Everton FC",
-      "league": "Premier League",
       "date": "2026-09-12",
       "time": "16:30 GMT",
       "isLive": false,
@@ -509,32 +509,6 @@
       "awayPenalties": null
     },
     {
-      "home": "CA Mineiro",
-      "away": "Fluminense FC",
-      "league": "Campeonato Brasileiro Série A",
-      "date": "2026-09-12",
-      "time": "19:00 GMT",
-      "isLive": false,
-      "isFinished": false,
-      "homeScore": null,
-      "awayScore": null,
-      "homePenalties": null,
-      "awayPenalties": null
-    },
-    {
-      "home": "SC Cambuur-Leeuwarden",
-      "away": "NEC",
-      "league": "Eredivisie",
-      "date": "2026-09-12",
-      "time": "19:00 GMT",
-      "isLive": false,
-      "isFinished": false,
-      "homeScore": null,
-      "awayScore": null,
-      "homePenalties": null,
-      "awayPenalties": null
-    },
-    {
       "home": "Grêmio FBPA",
       "away": "CR Vasco da Gama",
       "league": "Campeonato Brasileiro Série A",
@@ -564,6 +538,32 @@
       "home": "Real Madrid CF",
       "away": "Rayo Vallecano de Madrid",
       "league": "Primera Division",
+      "date": "2026-09-12",
+      "time": "19:00 GMT",
+      "isLive": false,
+      "isFinished": false,
+      "homeScore": null,
+      "awayScore": null,
+      "homePenalties": null,
+      "awayPenalties": null
+    },
+    {
+      "home": "CA Mineiro",
+      "away": "Fluminense FC",
+      "league": "Campeonato Brasileiro Série A",
+      "date": "2026-09-12",
+      "time": "19:00 GMT",
+      "isLive": false,
+      "isFinished": false,
+      "homeScore": null,
+      "awayScore": null,
+      "homePenalties": null,
+      "awayPenalties": null
+    },
+    {
+      "home": "SC Cambuur-Leeuwarden",
+      "away": "NEC",
+      "league": "Eredivisie",
       "date": "2026-09-12",
       "time": "19:00 GMT",
       "isLive": false,
