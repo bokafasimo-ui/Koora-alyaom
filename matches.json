@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-12T00:09:09.645Z",
+  "updatedAt": "2026-09-12T04:30:26.064Z",
   "matches": [
     {
       "home": "Coritiba FBC",
@@ -7,10 +7,10 @@
       "league": "Campeonato Brasileiro Série A",
       "date": "2026-09-12",
       "time": "00:00 GMT",
-      "isLive": true,
-      "isFinished": false,
-      "homeScore": 0,
-      "awayScore": 0,
+      "isLive": false,
+      "isFinished": true,
+      "homeScore": 3,
+      "awayScore": 3,
       "homePenalties": null,
       "awayPenalties": null
     },
@@ -249,6 +249,19 @@
       "awayPenalties": null
     },
     {
+      "home": "Middlesbrough FC",
+      "away": "Norwich City FC",
+      "league": "Championship",
+      "date": "2026-09-12",
+      "time": "14:00 GMT",
+      "isLive": false,
+      "isFinished": false,
+      "homeScore": null,
+      "awayScore": null,
+      "homePenalties": null,
+      "awayPenalties": null
+    },
+    {
       "home": "Swansea City AFC",
       "away": "Burnley FC",
       "league": "Championship",
@@ -277,19 +290,6 @@
     {
       "home": "Southampton FC",
       "away": "Bristol City FC",
-      "league": "Championship",
-      "date": "2026-09-12",
-      "time": "14:00 GMT",
-      "isLive": false,
-      "isFinished": false,
-      "homeScore": null,
-      "awayScore": null,
-      "homePenalties": null,
-      "awayPenalties": null
-    },
-    {
-      "home": "Middlesbrough FC",
-      "away": "Norwich City FC",
       "league": "Championship",
       "date": "2026-09-12",
       "time": "14:00 GMT",
