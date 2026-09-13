@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-13T06:10:13.634Z",
+  "updatedAt": "2026-09-13T11:47:53.941Z",
   "matches": [
     {
       "home": "Santos FC",
@@ -20,10 +20,10 @@
       "league": "Eredivisie",
       "date": "2026-09-13",
       "time": "10:15 GMT",
-      "isLive": false,
+      "isLive": true,
       "isFinished": false,
-      "homeScore": null,
-      "awayScore": null,
+      "homeScore": 0,
+      "awayScore": 1,
       "homePenalties": null,
       "awayPenalties": null
     },
@@ -33,10 +33,10 @@
       "league": "Championship",
       "date": "2026-09-13",
       "time": "11:00 GMT",
-      "isLive": false,
+      "isLive": true,
       "isFinished": false,
-      "homeScore": null,
-      "awayScore": null,
+      "homeScore": 0,
+      "awayScore": 0,
       "homePenalties": null,
       "awayPenalties": null
     },
@@ -67,9 +67,9 @@
       "awayPenalties": null
     },
     {
-      "home": "US Lecce",
-      "away": "AC Monza",
-      "league": "Serie A",
+      "home": "Coventry City FC",
+      "away": "Brighton & Hove Albion FC",
+      "league": "Premier League",
       "date": "2026-09-13",
       "time": "13:00 GMT",
       "isLive": false,
@@ -93,9 +93,9 @@
       "awayPenalties": null
     },
     {
-      "home": "Coventry City FC",
-      "away": "Brighton & Hove Albion FC",
-      "league": "Premier League",
+      "home": "US Lecce",
+      "away": "AC Monza",
+      "league": "Serie A",
       "date": "2026-09-13",
       "time": "13:00 GMT",
       "isLive": false,
@@ -158,9 +158,9 @@
       "awayPenalties": null
     },
     {
-      "home": "SV 07 Elversberg",
-      "away": "FC Bayern München",
-      "league": "Bundesliga",
+      "home": "Manchester United FC",
+      "away": "Manchester City FC",
+      "league": "Premier League",
       "date": "2026-09-13",
       "time": "15:30 GMT",
       "isLive": false,
@@ -171,9 +171,9 @@
       "awayPenalties": null
     },
     {
-      "home": "Manchester United FC",
-      "away": "Manchester City FC",
-      "league": "Premier League",
+      "home": "SV 07 Elversberg",
+      "away": "FC Bayern München",
+      "league": "Bundesliga",
       "date": "2026-09-13",
       "time": "15:30 GMT",
       "isLive": false,
@@ -210,8 +210,8 @@
       "awayPenalties": null
     },
     {
-      "home": "Sport Lisboa e Benfica",
-      "away": "Gil Vicente FC",
+      "home": "FC Arouca",
+      "away": "CD Santa Clara",
       "league": "Primeira Liga",
       "date": "2026-09-13",
       "time": "17:00 GMT",
@@ -223,8 +223,8 @@
       "awayPenalties": null
     },
     {
-      "home": "FC Arouca",
-      "away": "CD Santa Clara",
+      "home": "Sport Lisboa e Benfica",
+      "away": "Gil Vicente FC",
       "league": "Primeira Liga",
       "date": "2026-09-13",
       "time": "17:00 GMT",
@@ -275,9 +275,9 @@
       "awayPenalties": null
     },
     {
-      "home": "Real Sociedad de Fútbol",
-      "away": "Club Atlético de Madrid",
-      "league": "Primera Division",
+      "home": "Mirassol FC",
+      "away": "EC Vitória",
+      "league": "Campeonato Brasileiro Série A",
       "date": "2026-09-13",
       "time": "19:00 GMT",
       "isLive": false,
@@ -288,9 +288,9 @@
       "awayPenalties": null
     },
     {
-      "home": "Mirassol FC",
-      "away": "EC Vitória",
-      "league": "Campeonato Brasileiro Série A",
+      "home": "Real Sociedad de Fútbol",
+      "away": "Club Atlético de Madrid",
+      "league": "Primera Division",
       "date": "2026-09-13",
       "time": "19:00 GMT",
       "isLive": false,
