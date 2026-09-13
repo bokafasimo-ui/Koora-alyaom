@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-13T20:44:59.279Z",
+  "updatedAt": "2026-09-13T22:39:32.138Z",
   "matches": [
     {
       "home": "Santos FC",
@@ -67,19 +67,6 @@
       "awayPenalties": null
     },
     {
-      "home": "US Lecce",
-      "away": "AC Monza",
-      "league": "Serie A",
-      "date": "2026-09-13",
-      "time": "13:00 GMT",
-      "isLive": false,
-      "isFinished": true,
-      "homeScore": 3,
-      "awayScore": 2,
-      "homePenalties": null,
-      "awayPenalties": null
-    },
-    {
       "home": "Lille OSC",
       "away": "ES Troyes AC",
       "league": "Ligue 1",
@@ -102,6 +89,19 @@
       "isFinished": true,
       "homeScore": 0,
       "awayScore": 5,
+      "homePenalties": null,
+      "awayPenalties": null
+    },
+    {
+      "home": "US Lecce",
+      "away": "AC Monza",
+      "league": "Serie A",
+      "date": "2026-09-13",
+      "time": "13:00 GMT",
+      "isLive": false,
+      "isFinished": true,
+      "homeScore": 3,
+      "awayScore": 2,
       "homePenalties": null,
       "awayPenalties": null
     },
@@ -158,19 +158,6 @@
       "awayPenalties": null
     },
     {
-      "home": "SV 07 Elversberg",
-      "away": "FC Bayern München",
-      "league": "Bundesliga",
-      "date": "2026-09-13",
-      "time": "15:30 GMT",
-      "isLive": false,
-      "isFinished": true,
-      "homeScore": 1,
-      "awayScore": 2,
-      "homePenalties": null,
-      "awayPenalties": null
-    },
-    {
       "home": "Manchester United FC",
       "away": "Manchester City FC",
       "league": "Premier League",
@@ -180,6 +167,19 @@
       "isFinished": true,
       "homeScore": 0,
       "awayScore": 1,
+      "homePenalties": null,
+      "awayPenalties": null
+    },
+    {
+      "home": "SV 07 Elversberg",
+      "away": "FC Bayern München",
+      "league": "Bundesliga",
+      "date": "2026-09-13",
+      "time": "15:30 GMT",
+      "isLive": false,
+      "isFinished": true,
+      "homeScore": 1,
+      "awayScore": 2,
       "homePenalties": null,
       "awayPenalties": null
     },
@@ -249,6 +249,19 @@
       "awayPenalties": null
     },
     {
+      "home": "Stade Brestois 29",
+      "away": "Paris Saint-Germain FC",
+      "league": "Ligue 1",
+      "date": "2026-09-13",
+      "time": "18:45 GMT",
+      "isLive": false,
+      "isFinished": true,
+      "homeScore": 0,
+      "awayScore": 1,
+      "homePenalties": null,
+      "awayPenalties": null
+    },
+    {
       "home": "US Sassuolo Calcio",
       "away": "Juventus FC",
       "league": "Serie A",
@@ -262,15 +275,15 @@
       "awayPenalties": null
     },
     {
-      "home": "Stade Brestois 29",
-      "away": "Paris Saint-Germain FC",
-      "league": "Ligue 1",
+      "home": "Real Sociedad de Fútbol",
+      "away": "Club Atlético de Madrid",
+      "league": "Primera Division",
       "date": "2026-09-13",
-      "time": "18:45 GMT",
-      "isLive": true,
-      "isFinished": false,
+      "time": "19:00 GMT",
+      "isLive": false,
+      "isFinished": true,
       "homeScore": 0,
-      "awayScore": 1,
+      "awayScore": 3,
       "homePenalties": null,
       "awayPenalties": null
     },
@@ -280,23 +293,10 @@
       "league": "Campeonato Brasileiro Série A",
       "date": "2026-09-13",
       "time": "19:00 GMT",
-      "isLive": true,
-      "isFinished": false,
-      "homeScore": 1,
+      "isLive": false,
+      "isFinished": true,
+      "homeScore": 2,
       "awayScore": 2,
-      "homePenalties": null,
-      "awayPenalties": null
-    },
-    {
-      "home": "Real Sociedad de Fútbol",
-      "away": "Club Atlético de Madrid",
-      "league": "Primera Division",
-      "date": "2026-09-13",
-      "time": "19:00 GMT",
-      "isLive": true,
-      "isFinished": false,
-      "homeScore": 0,
-      "awayScore": 0,
       "homePenalties": null,
       "awayPenalties": null
     },
@@ -306,10 +306,10 @@
       "league": "Primeira Liga",
       "date": "2026-09-13",
       "time": "19:30 GMT",
-      "isLive": true,
-      "isFinished": false,
-      "homeScore": 0,
-      "awayScore": 0,
+      "isLive": false,
+      "isFinished": true,
+      "homeScore": 1,
+      "awayScore": 1,
       "homePenalties": null,
       "awayPenalties": null
     },
@@ -319,10 +319,10 @@
       "league": "Campeonato Brasileiro Série A",
       "date": "2026-09-13",
       "time": "20:30 GMT",
-      "isLive": true,
-      "isFinished": false,
-      "homeScore": 0,
-      "awayScore": 0,
+      "isLive": false,
+      "isFinished": true,
+      "homeScore": 2,
+      "awayScore": 1,
       "homePenalties": null,
       "awayPenalties": null
     }
