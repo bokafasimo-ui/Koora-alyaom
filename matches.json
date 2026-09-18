@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-18T00:49:44.859Z",
+  "updatedAt": "2026-09-18T05:18:29.367Z",
   "matches": [
     {
       "home": "FC Groningen",
@@ -28,19 +28,6 @@
       "awayPenalties": null
     },
     {
-      "home": "AS Monaco FC",
-      "away": "Racing Club de Lens",
-      "league": "Ligue 1",
-      "date": "2026-09-18",
-      "time": "18:45 GMT",
-      "isLive": false,
-      "isFinished": false,
-      "homeScore": null,
-      "awayScore": null,
-      "homePenalties": null,
-      "awayPenalties": null
-    },
-    {
       "home": "AC Monza",
       "away": "US Sassuolo Calcio",
       "league": "Serie A",
@@ -54,11 +41,11 @@
       "awayPenalties": null
     },
     {
-      "home": "Bristol City FC",
-      "away": "Watford FC",
-      "league": "Championship",
+      "home": "AS Monaco FC",
+      "away": "Racing Club de Lens",
+      "league": "Ligue 1",
       "date": "2026-09-18",
-      "time": "19:00 GMT",
+      "time": "18:45 GMT",
       "isLive": false,
       "isFinished": false,
       "homeScore": null,
@@ -83,6 +70,19 @@
       "home": "Brentford FC",
       "away": "Chelsea FC",
       "league": "Premier League",
+      "date": "2026-09-18",
+      "time": "19:00 GMT",
+      "isLive": false,
+      "isFinished": false,
+      "homeScore": null,
+      "awayScore": null,
+      "homePenalties": null,
+      "awayPenalties": null
+    },
+    {
+      "home": "Bristol City FC",
+      "away": "Watford FC",
+      "league": "Championship",
       "date": "2026-09-18",
       "time": "19:00 GMT",
       "isLive": false,
