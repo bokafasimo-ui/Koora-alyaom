@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-20T00:28:52.449Z",
+  "updatedAt": "2026-09-20T05:16:05.611Z",
   "matches": [
     {
       "home": "São Paulo FC",
@@ -7,8 +7,8 @@
       "league": "Campeonato Brasileiro Série A",
       "date": "2026-09-20",
       "time": "00:00 GMT",
-      "isLive": true,
-      "isFinished": false,
+      "isLive": false,
+      "isFinished": true,
       "homeScore": 1,
       "awayScore": 0,
       "homePenalties": null,
@@ -223,8 +223,8 @@
       "awayPenalties": null
     },
     {
-      "home": "Vitória SC",
-      "away": "Moreirense FC",
+      "home": "CF Estrela da Amadora",
+      "away": "Académico de Viseu FC",
       "league": "Primeira Liga",
       "date": "2026-09-20",
       "time": "14:30 GMT",
@@ -236,8 +236,8 @@
       "awayPenalties": null
     },
     {
-      "home": "CF Estrela da Amadora",
-      "away": "Académico de Viseu FC",
+      "home": "Vitória SC",
+      "away": "Moreirense FC",
       "league": "Primeira Liga",
       "date": "2026-09-20",
       "time": "14:30 GMT",
@@ -275,9 +275,9 @@
       "awayPenalties": null
     },
     {
-      "home": "Fulham FC",
-      "away": "Manchester United FC",
-      "league": "Premier League",
+      "home": "FC Schalke 04",
+      "away": "SV 07 Elversberg",
+      "league": "Bundesliga",
       "date": "2026-09-20",
       "time": "15:30 GMT",
       "isLive": false,
@@ -288,9 +288,9 @@
       "awayPenalties": null
     },
     {
-      "home": "FC Schalke 04",
-      "away": "SV 07 Elversberg",
-      "league": "Bundesliga",
+      "home": "Fulham FC",
+      "away": "Manchester United FC",
+      "league": "Premier League",
       "date": "2026-09-20",
       "time": "15:30 GMT",
       "isLive": false,
