@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-20T05:16:05.611Z",
+  "updatedAt": "2026-09-20T09:51:05.218Z",
   "matches": [
     {
       "home": "São Paulo FC",
@@ -67,6 +67,19 @@
       "awayPenalties": null
     },
     {
+      "home": "AZ",
+      "away": "Telstar 1963",
+      "league": "Eredivisie",
+      "date": "2026-09-20",
+      "time": "12:30 GMT",
+      "isLive": false,
+      "isFinished": false,
+      "homeScore": null,
+      "awayScore": null,
+      "homePenalties": null,
+      "awayPenalties": null
+    },
+    {
       "home": "Norwich City FC",
       "away": "Bolton Wanderers FC",
       "league": "Championship",
@@ -93,61 +106,9 @@
       "awayPenalties": null
     },
     {
-      "home": "AZ",
-      "away": "Telstar 1963",
-      "league": "Eredivisie",
-      "date": "2026-09-20",
-      "time": "12:30 GMT",
-      "isLive": false,
-      "isFinished": false,
-      "homeScore": null,
-      "awayScore": null,
-      "homePenalties": null,
-      "awayPenalties": null
-    },
-    {
-      "home": "Leeds United FC",
-      "away": "Crystal Palace FC",
-      "league": "Premier League",
-      "date": "2026-09-20",
-      "time": "13:00 GMT",
-      "isLive": false,
-      "isFinished": false,
-      "homeScore": null,
-      "awayScore": null,
-      "homePenalties": null,
-      "awayPenalties": null
-    },
-    {
       "home": "Parma Calcio 1913",
       "away": "Genoa CFC",
       "league": "Serie A",
-      "date": "2026-09-20",
-      "time": "13:00 GMT",
-      "isLive": false,
-      "isFinished": false,
-      "homeScore": null,
-      "awayScore": null,
-      "homePenalties": null,
-      "awayPenalties": null
-    },
-    {
-      "home": "Manchester City FC",
-      "away": "Sunderland AFC",
-      "league": "Premier League",
-      "date": "2026-09-20",
-      "time": "13:00 GMT",
-      "isLive": false,
-      "isFinished": false,
-      "homeScore": null,
-      "awayScore": null,
-      "homePenalties": null,
-      "awayPenalties": null
-    },
-    {
-      "home": "AJ Auxerre",
-      "away": "Stade Brestois 29",
-      "league": "Ligue 1",
       "date": "2026-09-20",
       "time": "13:00 GMT",
       "isLive": false,
@@ -174,6 +135,45 @@
       "home": "AFC Bournemouth",
       "away": "Liverpool FC",
       "league": "Premier League",
+      "date": "2026-09-20",
+      "time": "13:00 GMT",
+      "isLive": false,
+      "isFinished": false,
+      "homeScore": null,
+      "awayScore": null,
+      "homePenalties": null,
+      "awayPenalties": null
+    },
+    {
+      "home": "Manchester City FC",
+      "away": "Sunderland AFC",
+      "league": "Premier League",
+      "date": "2026-09-20",
+      "time": "13:00 GMT",
+      "isLive": false,
+      "isFinished": false,
+      "homeScore": null,
+      "awayScore": null,
+      "homePenalties": null,
+      "awayPenalties": null
+    },
+    {
+      "home": "Leeds United FC",
+      "away": "Crystal Palace FC",
+      "league": "Premier League",
+      "date": "2026-09-20",
+      "time": "13:00 GMT",
+      "isLive": false,
+      "isFinished": false,
+      "homeScore": null,
+      "awayScore": null,
+      "homePenalties": null,
+      "awayPenalties": null
+    },
+    {
+      "home": "AJ Auxerre",
+      "away": "Stade Brestois 29",
+      "league": "Ligue 1",
       "date": "2026-09-20",
       "time": "13:00 GMT",
       "isLive": false,
@@ -340,8 +340,8 @@
       "awayPenalties": null
     },
     {
-      "home": "CD Santa Clara",
-      "away": "Sporting Clube de Braga",
+      "home": "GD Estoril Praia",
+      "away": "Casa Pia AC",
       "league": "Primeira Liga",
       "date": "2026-09-20",
       "time": "17:00 GMT",
@@ -353,8 +353,8 @@
       "awayPenalties": null
     },
     {
-      "home": "GD Estoril Praia",
-      "away": "Casa Pia AC",
+      "home": "CD Santa Clara",
+      "away": "Sporting Clube de Braga",
       "league": "Primeira Liga",
       "date": "2026-09-20",
       "time": "17:00 GMT",
@@ -379,9 +379,9 @@
       "awayPenalties": null
     },
     {
-      "home": "Olympique de Marseille",
-      "away": "Paris Saint-Germain FC",
-      "league": "Ligue 1",
+      "home": "AC Milan",
+      "away": "US Lecce",
+      "league": "Serie A",
       "date": "2026-09-20",
       "time": "18:45 GMT",
       "isLive": false,
@@ -392,9 +392,9 @@
       "awayPenalties": null
     },
     {
-      "home": "AC Milan",
-      "away": "US Lecce",
-      "league": "Serie A",
+      "home": "Olympique de Marseille",
+      "away": "Paris Saint-Germain FC",
+      "league": "Ligue 1",
       "date": "2026-09-20",
       "time": "18:45 GMT",
       "isLive": false,
