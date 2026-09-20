@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-20T21:38:45.585Z",
+  "updatedAt": "2026-09-20T23:30:34.717Z",
   "matches": [
     {
       "home": "São Paulo FC",
@@ -119,19 +119,6 @@
       "awayPenalties": null
     },
     {
-      "home": "AJ Auxerre",
-      "away": "Stade Brestois 29",
-      "league": "Ligue 1",
-      "date": "2026-09-20",
-      "time": "13:00 GMT",
-      "isLive": false,
-      "isFinished": true,
-      "homeScore": 2,
-      "awayScore": 1,
-      "homePenalties": null,
-      "awayPenalties": null
-    },
-    {
       "home": "Frosinone Calcio",
       "away": "Como 1907",
       "league": "Serie A",
@@ -180,6 +167,19 @@
       "isFinished": true,
       "homeScore": 5,
       "awayScore": 3,
+      "homePenalties": null,
+      "awayPenalties": null
+    },
+    {
+      "home": "AJ Auxerre",
+      "away": "Stade Brestois 29",
+      "league": "Ligue 1",
+      "date": "2026-09-20",
+      "time": "13:00 GMT",
+      "isLive": false,
+      "isFinished": true,
+      "homeScore": 2,
+      "awayScore": 1,
       "homePenalties": null,
       "awayPenalties": null
     },
@@ -464,8 +464,8 @@
       "time": "21:30 GMT",
       "isLive": true,
       "isFinished": false,
-      "homeScore": 0,
-      "awayScore": 0,
+      "homeScore": 2,
+      "awayScore": 1,
       "homePenalties": null,
       "awayPenalties": null
     },
@@ -475,10 +475,10 @@
       "league": "Campeonato Brasileiro Série A",
       "date": "2026-09-20",
       "time": "22:30 GMT",
-      "isLive": false,
+      "isLive": true,
       "isFinished": false,
-      "homeScore": null,
-      "awayScore": null,
+      "homeScore": 1,
+      "awayScore": 1,
       "homePenalties": null,
       "awayPenalties": null
     }
