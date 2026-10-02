@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-02T20:01:49.871Z",
+  "updatedAt": "2026-10-02T23:42:19.434Z",
   "matches": [
     {
       "home": "São Paulo FC",
@@ -7,10 +7,10 @@
       "league": "Campeonato Brasileiro Série A",
       "date": "2026-10-02",
       "time": "23:00 GMT",
-      "isLive": false,
+      "isLive": true,
       "isFinished": false,
-      "homeScore": null,
-      "awayScore": null,
+      "homeScore": 1,
+      "awayScore": 0,
       "homePenalties": null,
       "awayPenalties": null
     }
