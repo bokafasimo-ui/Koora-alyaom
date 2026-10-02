@@ -1,4 +1,18 @@
 {
-  "updatedAt": "2026-10-01T23:35:25.674Z",
-  "matches": []
+  "updatedAt": "2026-10-02T02:33:04.674Z",
+  "matches": [
+    {
+      "home": "São Paulo FC",
+      "away": "Santos FC",
+      "league": "Campeonato Brasileiro Série A",
+      "date": "2026-10-02",
+      "time": "23:00 GMT",
+      "isLive": false,
+      "isFinished": false,
+      "homeScore": null,
+      "awayScore": null,
+      "homePenalties": null,
+      "awayPenalties": null
+    }
+  ]
 }
