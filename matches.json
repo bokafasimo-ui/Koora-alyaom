@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-10-02T23:42:19.434Z",
+  "updatedAt": "2026-10-03T02:20:17.113Z",
   "matches": [
     {
-      "home": "São Paulo FC",
-      "away": "Santos FC",
+      "home": "CA Mineiro",
+      "away": "RB Bragantino",
       "league": "Campeonato Brasileiro Série A",
-      "date": "2026-10-02",
-      "time": "23:00 GMT",
-      "isLive": true,
+      "date": "2026-10-03",
+      "time": "21:30 GMT",
+      "isLive": false,
       "isFinished": false,
-      "homeScore": 1,
-      "awayScore": 0,
+      "homeScore": null,
+      "awayScore": null,
       "homePenalties": null,
       "awayPenalties": null
     }
