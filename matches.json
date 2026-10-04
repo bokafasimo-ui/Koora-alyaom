@@ -1,18 +1,4 @@
 {
-  "updatedAt": "2026-10-03T23:00:30.746Z",
-  "matches": [
-    {
-      "home": "CA Mineiro",
-      "away": "RB Bragantino",
-      "league": "Campeonato Brasileiro Série A",
-      "date": "2026-10-03",
-      "time": "21:30 GMT",
-      "isLive": true,
-      "isFinished": false,
-      "homeScore": 1,
-      "awayScore": 0,
-      "homePenalties": null,
-      "awayPenalties": null
-    }
-  ]
+  "updatedAt": "2026-10-04T02:30:43.599Z",
+  "matches": []
 }
