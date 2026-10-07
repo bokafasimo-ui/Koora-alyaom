@@ -1,4 +1,70 @@
 {
-  "updatedAt": "2026-10-06T23:46:28.436Z",
-  "matches": []
+  "updatedAt": "2026-10-07T02:43:19.752Z",
+  "matches": [
+    {
+      "home": "RB Bragantino",
+      "away": "Mirassol FC",
+      "league": "Campeonato Brasileiro Série A",
+      "date": "2026-10-07",
+      "time": "22:30 GMT",
+      "isLive": false,
+      "isFinished": false,
+      "homeScore": null,
+      "awayScore": null,
+      "homePenalties": null,
+      "awayPenalties": null
+    },
+    {
+      "home": "SC Internacional",
+      "away": "SC Corinthians Paulista",
+      "league": "Campeonato Brasileiro Série A",
+      "date": "2026-10-07",
+      "time": "22:30 GMT",
+      "isLive": false,
+      "isFinished": false,
+      "homeScore": null,
+      "awayScore": null,
+      "homePenalties": null,
+      "awayPenalties": null
+    },
+    {
+      "home": "Clube do Remo",
+      "away": "Grêmio FBPA",
+      "league": "Campeonato Brasileiro Série A",
+      "date": "2026-10-07",
+      "time": "22:30 GMT",
+      "isLive": false,
+      "isFinished": false,
+      "homeScore": null,
+      "awayScore": null,
+      "homePenalties": null,
+      "awayPenalties": null
+    },
+    {
+      "home": "EC Vitória",
+      "away": "Chapecoense AF",
+      "league": "Campeonato Brasileiro Série A",
+      "date": "2026-10-07",
+      "time": "23:00 GMT",
+      "isLive": false,
+      "isFinished": false,
+      "homeScore": null,
+      "awayScore": null,
+      "homePenalties": null,
+      "awayPenalties": null
+    },
+    {
+      "home": "Botafogo FR",
+      "away": "CR Vasco da Gama",
+      "league": "Campeonato Brasileiro Série A",
+      "date": "2026-10-07",
+      "time": "23:30 GMT",
+      "isLive": false,
+      "isFinished": false,
+      "homeScore": null,
+      "awayScore": null,
+      "homePenalties": null,
+      "awayPenalties": null
+    }
+  ]
 }
