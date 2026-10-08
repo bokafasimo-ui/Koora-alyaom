@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-08T01:16:11.200Z",
+  "updatedAt": "2026-10-08T07:29:12.526Z",
   "matches": [
     {
       "home": "Cruzeiro EC",
@@ -7,9 +7,9 @@
       "league": "Campeonato Brasileiro Série A",
       "date": "2026-10-08",
       "time": "00:30 GMT",
-      "isLive": true,
-      "isFinished": false,
-      "homeScore": 0,
+      "isLive": false,
+      "isFinished": true,
+      "homeScore": 2,
       "awayScore": 0,
       "homePenalties": null,
       "awayPenalties": null
