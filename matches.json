@@ -1,19 +1,6 @@
 {
-  "updatedAt": "2026-10-09T00:25:09.164Z",
+  "updatedAt": "2026-10-09T06:26:56.845Z",
   "matches": [
-    {
-      "home": "SE Palmeiras",
-      "away": "EC Bahia",
-      "league": "Campeonato Brasileiro Série A",
-      "date": "2026-10-09",
-      "time": "00:30 GMT",
-      "isLive": false,
-      "isFinished": false,
-      "homeScore": null,
-      "awayScore": null,
-      "homePenalties": null,
-      "awayPenalties": null
-    },
     {
       "home": "Fluminense FC",
       "away": "Coritiba FBC",
@@ -21,9 +8,22 @@
       "date": "2026-10-09",
       "time": "00:30 GMT",
       "isLive": false,
-      "isFinished": false,
-      "homeScore": null,
-      "awayScore": null,
+      "isFinished": true,
+      "homeScore": 4,
+      "awayScore": 0,
+      "homePenalties": null,
+      "awayPenalties": null
+    },
+    {
+      "home": "SE Palmeiras",
+      "away": "EC Bahia",
+      "league": "Campeonato Brasileiro Série A",
+      "date": "2026-10-09",
+      "time": "00:30 GMT",
+      "isLive": false,
+      "isFinished": true,
+      "homeScore": 1,
+      "awayScore": 0,
       "homePenalties": null,
       "awayPenalties": null
     },
@@ -80,9 +80,9 @@
       "awayPenalties": null
     },
     {
-      "home": "Málaga CF",
-      "away": "RCD Espanyol de Barcelona",
-      "league": "Primera Division",
+      "home": "West Ham United FC",
+      "away": "Queens Park Rangers FC",
+      "league": "Championship",
       "date": "2026-10-09",
       "time": "19:00 GMT",
       "isLive": false,
@@ -93,9 +93,9 @@
       "awayPenalties": null
     },
     {
-      "home": "West Ham United FC",
-      "away": "Queens Park Rangers FC",
-      "league": "Championship",
+      "home": "Málaga CF",
+      "away": "RCD Espanyol de Barcelona",
+      "league": "Primera Division",
       "date": "2026-10-09",
       "time": "19:00 GMT",
       "isLive": false,
