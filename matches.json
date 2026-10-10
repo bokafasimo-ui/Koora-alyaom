@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-10T02:16:36.505Z",
+  "updatedAt": "2026-10-10T08:37:13.163Z",
   "matches": [
     {
       "home": "Arsenal FC",
@@ -314,19 +314,6 @@
       "awayPenalties": null
     },
     {
-      "home": "Casa Pia AC",
-      "away": "CD Santa Clara",
-      "league": "Primeira Liga",
-      "date": "2026-10-10",
-      "time": "14:30 GMT",
-      "isLive": false,
-      "isFinished": false,
-      "homeScore": null,
-      "awayScore": null,
-      "homePenalties": null,
-      "awayPenalties": null
-    },
-    {
       "home": "Lille OSC",
       "away": "Le Havre AC",
       "league": "Ligue 1",
@@ -514,6 +501,19 @@
       "league": "Primera Division",
       "date": "2026-10-10",
       "time": "19:00 GMT",
+      "isLive": false,
+      "isFinished": false,
+      "homeScore": null,
+      "awayScore": null,
+      "homePenalties": null,
+      "awayPenalties": null
+    },
+    {
+      "home": "Casa Pia AC",
+      "away": "CD Santa Clara",
+      "league": "Primeira Liga",
+      "date": "2026-10-10",
+      "time": "19:30 GMT",
       "isLive": false,
       "isFinished": false,
       "homeScore": null,
