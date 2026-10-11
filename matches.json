@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T00:54:44.756Z",
+  "updatedAt": "2026-10-11T06:44:11.544Z",
   "matches": [
     {
       "home": "São Paulo FC",
@@ -7,9 +7,9 @@
       "league": "Campeonato Brasileiro Série A",
       "date": "2026-10-11",
       "time": "00:00 GMT",
-      "isLive": true,
-      "isFinished": false,
-      "homeScore": 1,
+      "isLive": false,
+      "isFinished": true,
+      "homeScore": 2,
       "awayScore": 1,
       "homePenalties": null,
       "awayPenalties": null
@@ -119,6 +119,19 @@
       "awayPenalties": null
     },
     {
+      "home": "Hull City AFC",
+      "away": "Everton FC",
+      "league": "Premier League",
+      "date": "2026-10-11",
+      "time": "13:00 GMT",
+      "isLive": false,
+      "isFinished": false,
+      "homeScore": null,
+      "awayScore": null,
+      "homePenalties": null,
+      "awayPenalties": null
+    },
+    {
       "home": "Crystal Palace FC",
       "away": "Nottingham Forest FC",
       "league": "Premier League",
@@ -135,19 +148,6 @@
       "home": "OGC Nice",
       "away": "RC Strasbourg Alsace",
       "league": "Ligue 1",
-      "date": "2026-10-11",
-      "time": "13:00 GMT",
-      "isLive": false,
-      "isFinished": false,
-      "homeScore": null,
-      "awayScore": null,
-      "homePenalties": null,
-      "awayPenalties": null
-    },
-    {
-      "home": "Hull City AFC",
-      "away": "Everton FC",
-      "league": "Premier League",
       "date": "2026-10-11",
       "time": "13:00 GMT",
       "isLive": false,
@@ -353,8 +353,8 @@
       "awayPenalties": null
     },
     {
-      "home": "SE Palmeiras",
-      "away": "SC Corinthians Paulista",
+      "home": "CR Flamengo",
+      "away": "Fluminense FC",
       "league": "Campeonato Brasileiro Série A",
       "date": "2026-10-11",
       "time": "20:30 GMT",
@@ -366,8 +366,8 @@
       "awayPenalties": null
     },
     {
-      "home": "CR Flamengo",
-      "away": "Fluminense FC",
+      "home": "SE Palmeiras",
+      "away": "SC Corinthians Paulista",
       "league": "Campeonato Brasileiro Série A",
       "date": "2026-10-11",
       "time": "20:30 GMT",
