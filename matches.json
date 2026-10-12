@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12T07:29:05.905Z",
+  "updatedAt": "2026-10-12T16:55:33.070Z",
   "matches": [
     {
       "home": "Atalanta BC",
@@ -7,10 +7,10 @@
       "league": "Serie A",
       "date": "2026-10-12",
       "time": "16:30 GMT",
-      "isLive": false,
+      "isLive": true,
       "isFinished": false,
-      "homeScore": null,
-      "awayScore": null,
+      "homeScore": 2,
+      "awayScore": 0,
       "homePenalties": null,
       "awayPenalties": null
     },
@@ -28,9 +28,9 @@
       "awayPenalties": null
     },
     {
-      "home": "Levante UD",
-      "away": "Sevilla FC",
-      "league": "Primera Division",
+      "home": "Coventry City FC",
+      "away": "Newcastle United FC",
+      "league": "Premier League",
       "date": "2026-10-12",
       "time": "19:00 GMT",
       "isLive": false,
@@ -54,9 +54,9 @@
       "awayPenalties": null
     },
     {
-      "home": "Coventry City FC",
-      "away": "Newcastle United FC",
-      "league": "Premier League",
+      "home": "Levante UD",
+      "away": "Sevilla FC",
+      "league": "Primera Division",
       "date": "2026-10-12",
       "time": "19:00 GMT",
       "isLive": false,
