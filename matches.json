@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12T01:20:50.504Z",
+  "updatedAt": "2026-10-12T07:29:05.905Z",
   "matches": [
     {
       "home": "Atalanta BC",
@@ -41,9 +41,9 @@
       "awayPenalties": null
     },
     {
-      "home": "Coventry City FC",
-      "away": "Newcastle United FC",
-      "league": "Premier League",
+      "home": "Coritiba FBC",
+      "away": "Botafogo FR",
+      "league": "Campeonato Brasileiro Série A",
       "date": "2026-10-12",
       "time": "19:00 GMT",
       "isLive": false,
@@ -54,9 +54,9 @@
       "awayPenalties": null
     },
     {
-      "home": "Coritiba FBC",
-      "away": "Botafogo FR",
-      "league": "Campeonato Brasileiro Série A",
+      "home": "Coventry City FC",
+      "away": "Newcastle United FC",
+      "league": "Premier League",
       "date": "2026-10-12",
       "time": "19:00 GMT",
       "isLive": false,
