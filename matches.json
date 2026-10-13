@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T03:44:36.923Z",
+  "updatedAt": "2026-10-13T11:09:31.759Z",
   "matches": [
     {
       "home": "RB Bragantino",
@@ -11,19 +11,6 @@
       "isFinished": true,
       "homeScore": 4,
       "awayScore": 2,
-      "homePenalties": null,
-      "awayPenalties": null
-    },
-    {
-      "home": "Sabah FK",
-      "away": "SK Slavia Praha",
-      "league": "UEFA Champions League",
-      "date": "2026-10-13",
-      "time": "16:45 GMT",
-      "isLive": false,
-      "isFinished": false,
-      "homeScore": null,
-      "awayScore": null,
       "homePenalties": null,
       "awayPenalties": null
     },
@@ -41,11 +28,11 @@
       "awayPenalties": null
     },
     {
-      "home": "Bristol City FC",
-      "away": "Blackburn Rovers FC",
-      "league": "Championship",
+      "home": "Sabah FK",
+      "away": "SK Slavia Praha",
+      "league": "UEFA Champions League",
       "date": "2026-10-13",
-      "time": "18:45 GMT",
+      "time": "16:45 GMT",
       "isLive": false,
       "isFinished": false,
       "homeScore": null,
@@ -54,21 +41,8 @@
       "awayPenalties": null
     },
     {
-      "home": "Wrexham AFC",
-      "away": "West Bromwich Albion FC",
-      "league": "Championship",
-      "date": "2026-10-13",
-      "time": "18:45 GMT",
-      "isLive": false,
-      "isFinished": false,
-      "homeScore": null,
-      "awayScore": null,
-      "homePenalties": null,
-      "awayPenalties": null
-    },
-    {
-      "home": "Cardiff City FC",
-      "away": "Watford FC",
+      "home": "Millwall FC",
+      "away": "Swansea City AFC",
       "league": "Championship",
       "date": "2026-10-13",
       "time": "18:45 GMT",
@@ -106,8 +80,8 @@
       "awayPenalties": null
     },
     {
-      "home": "Millwall FC",
-      "away": "Swansea City AFC",
+      "home": "Cardiff City FC",
+      "away": "Watford FC",
       "league": "Championship",
       "date": "2026-10-13",
       "time": "18:45 GMT",
@@ -119,37 +93,11 @@
       "awayPenalties": null
     },
     {
-      "home": "RB Leipzig",
-      "away": "PSV",
-      "league": "UEFA Champions League",
-      "date": "2026-10-13",
-      "time": "19:00 GMT",
-      "isLive": false,
-      "isFinished": false,
-      "homeScore": null,
-      "awayScore": null,
-      "homePenalties": null,
-      "awayPenalties": null
-    },
-    {
-      "home": "Galatasaray SK",
-      "away": "FC Barcelona",
-      "league": "UEFA Champions League",
-      "date": "2026-10-13",
-      "time": "19:00 GMT",
-      "isLive": false,
-      "isFinished": false,
-      "homeScore": null,
-      "awayScore": null,
-      "homePenalties": null,
-      "awayPenalties": null
-    },
-    {
-      "home": "Stoke City FC",
-      "away": "Middlesbrough FC",
+      "home": "Bristol City FC",
+      "away": "Blackburn Rovers FC",
       "league": "Championship",
       "date": "2026-10-13",
-      "time": "19:00 GMT",
+      "time": "18:45 GMT",
       "isLive": false,
       "isFinished": false,
       "homeScore": null,
@@ -158,8 +106,21 @@
       "awayPenalties": null
     },
     {
-      "home": "Arsenal FC",
-      "away": "Lille OSC",
+      "home": "Wrexham AFC",
+      "away": "West Bromwich Albion FC",
+      "league": "Championship",
+      "date": "2026-10-13",
+      "time": "18:45 GMT",
+      "isLive": false,
+      "isFinished": false,
+      "homeScore": null,
+      "awayScore": null,
+      "homePenalties": null,
+      "awayPenalties": null
+    },
+    {
+      "home": "Club Atlético de Madrid",
+      "away": "Manchester United FC",
       "league": "UEFA Champions League",
       "date": "2026-10-13",
       "time": "19:00 GMT",
@@ -223,8 +184,47 @@
       "awayPenalties": null
     },
     {
-      "home": "Club Atlético de Madrid",
-      "away": "Manchester United FC",
+      "home": "Stoke City FC",
+      "away": "Middlesbrough FC",
+      "league": "Championship",
+      "date": "2026-10-13",
+      "time": "19:00 GMT",
+      "isLive": false,
+      "isFinished": false,
+      "homeScore": null,
+      "awayScore": null,
+      "homePenalties": null,
+      "awayPenalties": null
+    },
+    {
+      "home": "Arsenal FC",
+      "away": "Lille OSC",
+      "league": "UEFA Champions League",
+      "date": "2026-10-13",
+      "time": "19:00 GMT",
+      "isLive": false,
+      "isFinished": false,
+      "homeScore": null,
+      "awayScore": null,
+      "homePenalties": null,
+      "awayPenalties": null
+    },
+    {
+      "home": "RB Leipzig",
+      "away": "PSV",
+      "league": "UEFA Champions League",
+      "date": "2026-10-13",
+      "time": "19:00 GMT",
+      "isLive": false,
+      "isFinished": false,
+      "homeScore": null,
+      "awayScore": null,
+      "homePenalties": null,
+      "awayPenalties": null
+    },
+    {
+      "home": "Galatasaray SK",
+      "away": "FC Barcelona",
       "league": "UEFA Champions League",
       "date": "2026-10-13",
       "time": "19:00 GMT",
