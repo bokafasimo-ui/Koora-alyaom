@@ -1,4 +1,96 @@
 {
-  "updatedAt": "2026-10-15T22:55:28.628Z",
-  "matches": []
+  "updatedAt": "2026-10-16T00:58:37.734Z",
+  "matches": [
+    {
+      "home": "SC Heerenveen",
+      "away": "SBV Excelsior",
+      "league": "Eredivisie",
+      "date": "2026-10-16",
+      "time": "18:00 GMT",
+      "isLive": false,
+      "isFinished": false,
+      "homeScore": null,
+      "awayScore": null,
+      "homePenalties": null,
+      "awayPenalties": null
+    },
+    {
+      "home": "Eintracht Frankfurt",
+      "away": "1. FC Köln",
+      "league": "Bundesliga",
+      "date": "2026-10-16",
+      "time": "18:30 GMT",
+      "isLive": false,
+      "isFinished": false,
+      "homeScore": null,
+      "awayScore": null,
+      "homePenalties": null,
+      "awayPenalties": null
+    },
+    {
+      "home": "Le Mans FC",
+      "away": "Toulouse FC",
+      "league": "Ligue 1",
+      "date": "2026-10-16",
+      "time": "18:45 GMT",
+      "isLive": false,
+      "isFinished": false,
+      "homeScore": null,
+      "awayScore": null,
+      "homePenalties": null,
+      "awayPenalties": null
+    },
+    {
+      "home": "Frosinone Calcio",
+      "away": "US Sassuolo Calcio",
+      "league": "Serie A",
+      "date": "2026-10-16",
+      "time": "18:45 GMT",
+      "isLive": false,
+      "isFinished": false,
+      "homeScore": null,
+      "awayScore": null,
+      "homePenalties": null,
+      "awayPenalties": null
+    },
+    {
+      "home": "Burnley FC",
+      "away": "Wolverhampton Wanderers FC",
+      "league": "Championship",
+      "date": "2026-10-16",
+      "time": "19:00 GMT",
+      "isLive": false,
+      "isFinished": false,
+      "homeScore": null,
+      "awayScore": null,
+      "homePenalties": null,
+      "awayPenalties": null
+    },
+    {
+      "home": "RC Deportivo La Coruña",
+      "away": "Levante UD",
+      "league": "Primera Division",
+      "date": "2026-10-16",
+      "time": "19:00 GMT",
+      "isLive": false,
+      "isFinished": false,
+      "homeScore": null,
+      "awayScore": null,
+      "homePenalties": null,
+      "awayPenalties": null
+    },
+    {
+      "home": "Mirassol FC",
+      "away": "SC Internacional",
+      "league": "Campeonato Brasileiro Série A",
+      "date": "2026-10-16",
+      "time": "23:00 GMT",
+      "isLive": false,
+      "isFinished": false,
+      "homeScore": null,
+      "awayScore": null,
+      "homePenalties": null,
+      "awayPenalties": null
+    }
+  ]
 }
