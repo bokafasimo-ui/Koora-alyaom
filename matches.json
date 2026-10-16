@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T21:29:37.283Z",
+  "updatedAt": "2026-10-16T23:48:20.807Z",
   "matches": [
     {
       "home": "SC Heerenveen",
@@ -85,10 +85,10 @@
       "league": "Campeonato Brasileiro Série A",
       "date": "2026-10-16",
       "time": "23:00 GMT",
-      "isLive": false,
+      "isLive": true,
       "isFinished": false,
-      "homeScore": null,
-      "awayScore": null,
+      "homeScore": 0,
+      "awayScore": 0,
       "homePenalties": null,
       "awayPenalties": null
     }
