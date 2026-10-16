@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T14:47:08.273Z",
+  "updatedAt": "2026-10-16T18:26:07.784Z",
   "matches": [
     {
       "home": "SC Heerenveen",
@@ -7,10 +7,10 @@
       "league": "Eredivisie",
       "date": "2026-10-16",
       "time": "18:00 GMT",
-      "isLive": false,
+      "isLive": true,
       "isFinished": false,
-      "homeScore": null,
-      "awayScore": null,
+      "homeScore": 1,
+      "awayScore": 0,
       "homePenalties": null,
       "awayPenalties": null
     },
@@ -28,9 +28,9 @@
       "awayPenalties": null
     },
     {
-      "home": "Le Mans FC",
-      "away": "Toulouse FC",
-      "league": "Ligue 1",
+      "home": "Frosinone Calcio",
+      "away": "US Sassuolo Calcio",
+      "league": "Serie A",
       "date": "2026-10-16",
       "time": "18:45 GMT",
       "isLive": false,
@@ -41,9 +41,9 @@
       "awayPenalties": null
     },
     {
-      "home": "Frosinone Calcio",
-      "away": "US Sassuolo Calcio",
-      "league": "Serie A",
+      "home": "Le Mans FC",
+      "away": "Toulouse FC",
+      "league": "Ligue 1",
       "date": "2026-10-16",
       "time": "18:45 GMT",
       "isLive": false,
