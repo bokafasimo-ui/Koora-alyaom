@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T10:05:47.589Z",
+  "updatedAt": "2026-10-16T14:47:08.273Z",
   "matches": [
     {
       "home": "SC Heerenveen",
@@ -54,9 +54,9 @@
       "awayPenalties": null
     },
     {
-      "home": "RC Deportivo La Coruña",
-      "away": "Levante UD",
-      "league": "Primera Division",
+      "home": "Burnley FC",
+      "away": "Wolverhampton Wanderers FC",
+      "league": "Championship",
       "date": "2026-10-16",
       "time": "19:00 GMT",
       "isLive": false,
@@ -67,9 +67,9 @@
       "awayPenalties": null
     },
     {
-      "home": "Burnley FC",
-      "away": "Wolverhampton Wanderers FC",
-      "league": "Championship",
+      "home": "RC Deportivo La Coruña",
+      "away": "Levante UD",
+      "league": "Primera Division",
       "date": "2026-10-16",
       "time": "19:00 GMT",
       "isLive": false,
