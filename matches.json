@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T00:55:52.365Z",
+  "updatedAt": "2026-10-18T05:24:27.335Z",
   "matches": [
     {
       "home": "São Paulo FC",
@@ -7,9 +7,9 @@
       "league": "Campeonato Brasileiro Série A",
       "date": "2026-10-18",
       "time": "00:00 GMT",
-      "isLive": true,
-      "isFinished": false,
-      "homeScore": 0,
+      "isLive": false,
+      "isFinished": true,
+      "homeScore": 1,
       "awayScore": 0,
       "homePenalties": null,
       "awayPenalties": null
@@ -67,32 +67,6 @@
       "awayPenalties": null
     },
     {
-      "home": "AFC Bournemouth",
-      "away": "Sunderland AFC",
-      "league": "Premier League",
-      "date": "2026-10-18",
-      "time": "13:00 GMT",
-      "isLive": false,
-      "isFinished": false,
-      "homeScore": null,
-      "awayScore": null,
-      "homePenalties": null,
-      "awayPenalties": null
-    },
-    {
-      "home": "ACF Fiorentina",
-      "away": "Como 1907",
-      "league": "Serie A",
-      "date": "2026-10-18",
-      "time": "13:00 GMT",
-      "isLive": false,
-      "isFinished": false,
-      "homeScore": null,
-      "awayScore": null,
-      "homePenalties": null,
-      "awayPenalties": null
-    },
-    {
       "home": "Brighton & Hove Albion FC",
       "away": "Crystal Palace FC",
       "league": "Premier League",
@@ -122,6 +96,32 @@
       "home": "Leeds United FC",
       "away": "Manchester United FC",
       "league": "Premier League",
+      "date": "2026-10-18",
+      "time": "13:00 GMT",
+      "isLive": false,
+      "isFinished": false,
+      "homeScore": null,
+      "awayScore": null,
+      "homePenalties": null,
+      "awayPenalties": null
+    },
+    {
+      "home": "AFC Bournemouth",
+      "away": "Sunderland AFC",
+      "league": "Premier League",
+      "date": "2026-10-18",
+      "time": "13:00 GMT",
+      "isLive": false,
+      "isFinished": false,
+      "homeScore": null,
+      "awayScore": null,
+      "homePenalties": null,
+      "awayPenalties": null
+    },
+    {
+      "home": "ACF Fiorentina",
+      "away": "Como 1907",
+      "league": "Serie A",
       "date": "2026-10-18",
       "time": "13:00 GMT",
       "isLive": false,
@@ -171,6 +171,19 @@
       "awayPenalties": null
     },
     {
+      "home": "FC Lorient",
+      "away": "AS Monaco FC",
+      "league": "Ligue 1",
+      "date": "2026-10-18",
+      "time": "15:15 GMT",
+      "isLive": false,
+      "isFinished": false,
+      "homeScore": null,
+      "awayScore": null,
+      "homePenalties": null,
+      "awayPenalties": null
+    },
+    {
       "home": "Le Havre AC",
       "away": "AJ Auxerre",
       "league": "Ligue 1",
@@ -186,19 +199,6 @@
     {
       "home": "Paris FC",
       "away": "Stade Rennais FC 1901",
-      "league": "Ligue 1",
-      "date": "2026-10-18",
-      "time": "15:15 GMT",
-      "isLive": false,
-      "isFinished": false,
-      "homeScore": null,
-      "awayScore": null,
-      "homePenalties": null,
-      "awayPenalties": null
-    },
-    {
-      "home": "FC Lorient",
-      "away": "AS Monaco FC",
       "league": "Ligue 1",
       "date": "2026-10-18",
       "time": "15:15 GMT",
@@ -314,19 +314,6 @@
       "awayPenalties": null
     },
     {
-      "home": "Fluminense FC",
-      "away": "Santos FC",
-      "league": "Campeonato Brasileiro Série A",
-      "date": "2026-10-18",
-      "time": "19:00 GMT",
-      "isLive": false,
-      "isFinished": false,
-      "homeScore": null,
-      "awayScore": null,
-      "homePenalties": null,
-      "awayPenalties": null
-    },
-    {
       "home": "Real Madrid CF",
       "away": "Sevilla FC",
       "league": "Primera Division",
@@ -342,6 +329,19 @@
     {
       "home": "Grêmio FBPA",
       "away": "Cruzeiro EC",
+      "league": "Campeonato Brasileiro Série A",
+      "date": "2026-10-18",
+      "time": "19:00 GMT",
+      "isLive": false,
+      "isFinished": false,
+      "homeScore": null,
+      "awayScore": null,
+      "homePenalties": null,
+      "awayPenalties": null
+    },
+    {
+      "home": "Fluminense FC",
+      "away": "Santos FC",
       "league": "Campeonato Brasileiro Série A",
       "date": "2026-10-18",
       "time": "19:00 GMT",
