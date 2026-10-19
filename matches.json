@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-19T06:41:18.328Z",
+  "updatedAt": "2026-10-19T13:57:41.739Z",
   "matches": [
     {
       "home": "AC Monza",
@@ -28,9 +28,9 @@
       "awayPenalties": null
     },
     {
-      "home": "Tottenham Hotspur FC",
-      "away": "Coventry City FC",
-      "league": "Premier League",
+      "home": "Getafe CF",
+      "away": "Rayo Vallecano de Madrid",
+      "league": "Primera Division",
       "date": "2026-10-19",
       "time": "19:00 GMT",
       "isLive": false,
@@ -41,9 +41,9 @@
       "awayPenalties": null
     },
     {
-      "home": "Getafe CF",
-      "away": "Rayo Vallecano de Madrid",
-      "league": "Primera Division",
+      "home": "Tottenham Hotspur FC",
+      "away": "Coventry City FC",
+      "league": "Premier League",
       "date": "2026-10-19",
       "time": "19:00 GMT",
       "isLive": false,
