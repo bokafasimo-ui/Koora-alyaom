@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-20T20:31:06.023Z",
+  "updatedAt": "2026-10-20T23:20:23.643Z",
   "matches": [
     {
-      "home": "Fenerbahçe SK",
-      "away": "SK Slavia Praha",
+      "home": "Sabah FK",
+      "away": "Borussia Dortmund",
       "league": "UEFA Champions League",
       "date": "2026-10-20",
       "time": "16:45 GMT",
@@ -15,8 +15,8 @@
       "awayPenalties": null
     },
     {
-      "home": "Sabah FK",
-      "away": "Borussia Dortmund",
+      "home": "Fenerbahçe SK",
+      "away": "SK Slavia Praha",
       "league": "UEFA Champions League",
       "date": "2026-10-20",
       "time": "16:45 GMT",
@@ -41,8 +41,8 @@
       "awayPenalties": null
     },
     {
-      "home": "AS Roma",
-      "away": "ŠK Slovan Bratislava",
+      "home": "Paris Saint-Germain FC",
+      "away": "FC Barcelona",
       "league": "UEFA Champions League",
       "date": "2026-10-20",
       "time": "19:00 GMT",
@@ -54,21 +54,8 @@
       "awayPenalties": null
     },
     {
-      "home": "SSC Napoli",
-      "away": "FK Bodø/Glimt",
-      "league": "UEFA Champions League",
-      "date": "2026-10-20",
-      "time": "19:00 GMT",
-      "isLive": false,
-      "isFinished": false,
-      "homeScore": null,
-      "awayScore": null,
-      "homePenalties": null,
-      "awayPenalties": null
-    },
-    {
-      "home": "VfB Stuttgart",
-      "away": "Club Atlético de Madrid",
+      "home": "Liverpool FC",
+      "away": "Villarreal CF",
       "league": "UEFA Champions League",
       "date": "2026-10-20",
       "time": "19:00 GMT",
@@ -106,8 +93,8 @@
       "awayPenalties": null
     },
     {
-      "home": "Paris Saint-Germain FC",
-      "away": "FC Barcelona",
+      "home": "VfB Stuttgart",
+      "away": "Club Atlético de Madrid",
       "league": "UEFA Champions League",
       "date": "2026-10-20",
       "time": "19:00 GMT",
@@ -119,8 +106,21 @@
       "awayPenalties": null
     },
     {
-      "home": "Liverpool FC",
-      "away": "Villarreal CF",
+      "home": "AS Roma",
+      "away": "ŠK Slovan Bratislava",
+      "league": "UEFA Champions League",
+      "date": "2026-10-20",
+      "time": "19:00 GMT",
+      "isLive": false,
+      "isFinished": false,
+      "homeScore": null,
+      "awayScore": null,
+      "homePenalties": null,
+      "awayPenalties": null
+    },
+    {
+      "home": "SSC Napoli",
+      "away": "FK Bodø/Glimt",
       "league": "UEFA Champions League",
       "date": "2026-10-20",
       "time": "19:00 GMT",
