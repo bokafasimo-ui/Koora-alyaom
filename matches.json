@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T17:04:56.163Z",
+  "updatedAt": "2026-10-20T20:31:06.023Z",
   "matches": [
     {
       "home": "Fenerbahçe SK",
@@ -7,10 +7,10 @@
       "league": "UEFA Champions League",
       "date": "2026-10-20",
       "time": "16:45 GMT",
-      "isLive": true,
+      "isLive": false,
       "isFinished": false,
-      "homeScore": 2,
-      "awayScore": 0,
+      "homeScore": null,
+      "awayScore": null,
       "homePenalties": null,
       "awayPenalties": null
     },
@@ -20,10 +20,10 @@
       "league": "UEFA Champions League",
       "date": "2026-10-20",
       "time": "16:45 GMT",
-      "isLive": true,
+      "isLive": false,
       "isFinished": false,
-      "homeScore": 0,
-      "awayScore": 1,
+      "homeScore": null,
+      "awayScore": null,
       "homePenalties": null,
       "awayPenalties": null
     },
@@ -80,32 +80,6 @@
       "awayPenalties": null
     },
     {
-      "home": "Paris Saint-Germain FC",
-      "away": "FC Barcelona",
-      "league": "UEFA Champions League",
-      "date": "2026-10-20",
-      "time": "19:00 GMT",
-      "isLive": false,
-      "isFinished": false,
-      "homeScore": null,
-      "awayScore": null,
-      "homePenalties": null,
-      "awayPenalties": null
-    },
-    {
-      "home": "Liverpool FC",
-      "away": "Villarreal CF",
-      "league": "UEFA Champions League",
-      "date": "2026-10-20",
-      "time": "19:00 GMT",
-      "isLive": false,
-      "isFinished": false,
-      "homeScore": null,
-      "awayScore": null,
-      "homePenalties": null,
-      "awayPenalties": null
-    },
-    {
       "home": "FC Porto",
       "away": "PSV",
       "league": "UEFA Champions League",
@@ -121,6 +95,32 @@
     {
       "home": "Manchester City FC",
       "away": "PAE AEK",
+      "league": "UEFA Champions League",
+      "date": "2026-10-20",
+      "time": "19:00 GMT",
+      "isLive": false,
+      "isFinished": false,
+      "homeScore": null,
+      "awayScore": null,
+      "homePenalties": null,
+      "awayPenalties": null
+    },
+    {
+      "home": "Paris Saint-Germain FC",
+      "away": "FC Barcelona",
+      "league": "UEFA Champions League",
+      "date": "2026-10-20",
+      "time": "19:00 GMT",
+      "isLive": false,
+      "isFinished": false,
+      "homeScore": null,
+      "awayScore": null,
+      "homePenalties": null,
+      "awayPenalties": null
+    },
+    {
+      "home": "Liverpool FC",
+      "away": "Villarreal CF",
       "league": "UEFA Champions League",
       "date": "2026-10-20",
       "time": "19:00 GMT",
