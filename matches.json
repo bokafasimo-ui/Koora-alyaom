@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-21T06:35:24.030Z",
+  "updatedAt": "2026-10-21T12:19:25.714Z",
   "matches": [
     {
-      "home": "Como 1907",
-      "away": "Manchester United FC",
+      "home": "Lille OSC",
+      "away": "Galatasaray SK",
       "league": "UEFA Champions League",
       "date": "2026-10-21",
       "time": "16:45 GMT",
@@ -15,8 +15,8 @@
       "awayPenalties": null
     },
     {
-      "home": "Lille OSC",
-      "away": "Galatasaray SK",
+      "home": "Como 1907",
+      "away": "Manchester United FC",
       "league": "UEFA Champions League",
       "date": "2026-10-21",
       "time": "16:45 GMT",
@@ -41,47 +41,8 @@
       "awayPenalties": null
     },
     {
-      "home": "FC Bayern München",
-      "away": "Arsenal FC",
-      "league": "UEFA Champions League",
-      "date": "2026-10-21",
-      "time": "19:00 GMT",
-      "isLive": false,
-      "isFinished": false,
-      "homeScore": null,
-      "awayScore": null,
-      "homePenalties": null,
-      "awayPenalties": null
-    },
-    {
-      "home": "Aston Villa FC",
-      "away": "Viking FK",
-      "league": "UEFA Champions League",
-      "date": "2026-10-21",
-      "time": "19:00 GMT",
-      "isLive": false,
-      "isFinished": false,
-      "homeScore": null,
-      "awayScore": null,
-      "homePenalties": null,
-      "awayPenalties": null
-    },
-    {
-      "home": "Real Madrid CF",
-      "away": "RB Leipzig",
-      "league": "UEFA Champions League",
-      "date": "2026-10-21",
-      "time": "19:00 GMT",
-      "isLive": false,
-      "isFinished": false,
-      "homeScore": null,
-      "awayScore": null,
-      "homePenalties": null,
-      "awayPenalties": null
-    },
-    {
-      "home": "Real Betis Balompié",
-      "away": "Feyenoord Rotterdam",
+      "home": "FC Internazionale Milano",
+      "away": "FK Shakhtar Donetsk",
       "league": "UEFA Champions League",
       "date": "2026-10-21",
       "time": "19:00 GMT",
@@ -119,8 +80,47 @@
       "awayPenalties": null
     },
     {
-      "home": "FC Internazionale Milano",
-      "away": "FK Shakhtar Donetsk",
+      "home": "Real Betis Balompié",
+      "away": "Feyenoord Rotterdam",
+      "league": "UEFA Champions League",
+      "date": "2026-10-21",
+      "time": "19:00 GMT",
+      "isLive": false,
+      "isFinished": false,
+      "homeScore": null,
+      "awayScore": null,
+      "homePenalties": null,
+      "awayPenalties": null
+    },
+    {
+      "home": "FC Bayern München",
+      "away": "Arsenal FC",
+      "league": "UEFA Champions League",
+      "date": "2026-10-21",
+      "time": "19:00 GMT",
+      "isLive": false,
+      "isFinished": false,
+      "homeScore": null,
+      "awayScore": null,
+      "homePenalties": null,
+      "awayPenalties": null
+    },
+    {
+      "home": "Aston Villa FC",
+      "away": "Viking FK",
+      "league": "UEFA Champions League",
+      "date": "2026-10-21",
+      "time": "19:00 GMT",
+      "isLive": false,
+      "isFinished": false,
+      "homeScore": null,
+      "awayScore": null,
+      "homePenalties": null,
+      "awayPenalties": null
+    },
+    {
+      "home": "Real Madrid CF",
+      "away": "RB Leipzig",
       "league": "UEFA Champions League",
       "date": "2026-10-21",
       "time": "19:00 GMT",
