@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-20T23:20:23.643Z",
+  "updatedAt": "2026-10-21T01:42:23.947Z",
   "matches": [
     {
-      "home": "Sabah FK",
-      "away": "Borussia Dortmund",
+      "home": "Lille OSC",
+      "away": "Galatasaray SK",
       "league": "UEFA Champions League",
-      "date": "2026-10-20",
+      "date": "2026-10-21",
       "time": "16:45 GMT",
       "isLive": false,
       "isFinished": false,
@@ -15,10 +15,10 @@
       "awayPenalties": null
     },
     {
-      "home": "Fenerbahçe SK",
-      "away": "SK Slavia Praha",
+      "home": "Como 1907",
+      "away": "Manchester United FC",
       "league": "UEFA Champions League",
-      "date": "2026-10-20",
+      "date": "2026-10-21",
       "time": "16:45 GMT",
       "isLive": false,
       "isFinished": false,
@@ -28,23 +28,23 @@
       "awayPenalties": null
     },
     {
-      "home": "Wolverhampton Wanderers FC",
-      "away": "Portsmouth FC",
-      "league": "Championship",
-      "date": "2026-10-20",
-      "time": "18:45 GMT",
+      "home": "Levante UD",
+      "away": "Athletic Club",
+      "league": "Primera Division",
+      "date": "2026-10-21",
+      "time": "18:00 GMT",
       "isLive": false,
       "isFinished": false,
-      "homeScore": null,
-      "awayScore": null,
+      "homeScore": 0,
+      "awayScore": 0,
       "homePenalties": null,
       "awayPenalties": null
     },
     {
-      "home": "Paris Saint-Germain FC",
-      "away": "FC Barcelona",
+      "home": "Sporting Clube de Portugal",
+      "away": "LASK Linz",
       "league": "UEFA Champions League",
-      "date": "2026-10-20",
+      "date": "2026-10-21",
       "time": "19:00 GMT",
       "isLive": false,
       "isFinished": false,
@@ -54,10 +54,10 @@
       "awayPenalties": null
     },
     {
-      "home": "Liverpool FC",
-      "away": "Villarreal CF",
+      "home": "FC Internazionale Milano",
+      "away": "FK Shakhtar Donetsk",
       "league": "UEFA Champions League",
-      "date": "2026-10-20",
+      "date": "2026-10-21",
       "time": "19:00 GMT",
       "isLive": false,
       "isFinished": false,
@@ -67,10 +67,10 @@
       "awayPenalties": null
     },
     {
-      "home": "FC Porto",
-      "away": "PSV",
+      "home": "Club Brugge KV",
+      "away": "Racing Club de Lens",
       "league": "UEFA Champions League",
-      "date": "2026-10-20",
+      "date": "2026-10-21",
       "time": "19:00 GMT",
       "isLive": false,
       "isFinished": false,
@@ -80,10 +80,10 @@
       "awayPenalties": null
     },
     {
-      "home": "Manchester City FC",
-      "away": "PAE AEK",
+      "home": "Real Madrid CF",
+      "away": "RB Leipzig",
       "league": "UEFA Champions League",
-      "date": "2026-10-20",
+      "date": "2026-10-21",
       "time": "19:00 GMT",
       "isLive": false,
       "isFinished": false,
@@ -93,10 +93,10 @@
       "awayPenalties": null
     },
     {
-      "home": "VfB Stuttgart",
-      "away": "Club Atlético de Madrid",
+      "home": "Real Betis Balompié",
+      "away": "Feyenoord Rotterdam",
       "league": "UEFA Champions League",
-      "date": "2026-10-20",
+      "date": "2026-10-21",
       "time": "19:00 GMT",
       "isLive": false,
       "isFinished": false,
@@ -106,10 +106,10 @@
       "awayPenalties": null
     },
     {
-      "home": "AS Roma",
-      "away": "ŠK Slovan Bratislava",
+      "home": "FC Bayern München",
+      "away": "Arsenal FC",
       "league": "UEFA Champions League",
-      "date": "2026-10-20",
+      "date": "2026-10-21",
       "time": "19:00 GMT",
       "isLive": false,
       "isFinished": false,
@@ -119,10 +119,10 @@
       "awayPenalties": null
     },
     {
-      "home": "SSC Napoli",
-      "away": "FK Bodø/Glimt",
+      "home": "Aston Villa FC",
+      "away": "Viking FK",
       "league": "UEFA Champions League",
-      "date": "2026-10-20",
+      "date": "2026-10-21",
       "time": "19:00 GMT",
       "isLive": false,
       "isFinished": false,
