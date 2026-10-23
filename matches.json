@@ -1,4 +1,122 @@
 {
-  "updatedAt": "2026-10-22T23:38:27.986Z",
-  "matches": []
+  "updatedAt": "2026-10-23T01:56:16.120Z",
+  "matches": [
+    {
+      "home": "Go Ahead Eagles",
+      "away": "Telstar 1963",
+      "league": "Eredivisie",
+      "date": "2026-10-23",
+      "time": "18:00 GMT",
+      "isLive": false,
+      "isFinished": false,
+      "homeScore": null,
+      "awayScore": null,
+      "homePenalties": null,
+      "awayPenalties": null
+    },
+    {
+      "home": "VfB Stuttgart",
+      "away": "Borussia Mönchengladbach",
+      "league": "Bundesliga",
+      "date": "2026-10-23",
+      "time": "18:30 GMT",
+      "isLive": false,
+      "isFinished": false,
+      "homeScore": null,
+      "awayScore": null,
+      "homePenalties": null,
+      "awayPenalties": null
+    },
+    {
+      "home": "Torino FC",
+      "away": "AC Monza",
+      "league": "Serie A",
+      "date": "2026-10-23",
+      "time": "18:45 GMT",
+      "isLive": false,
+      "isFinished": false,
+      "homeScore": null,
+      "awayScore": null,
+      "homePenalties": null,
+      "awayPenalties": null
+    },
+    {
+      "home": "Stade Brestois 29",
+      "away": "OGC Nice",
+      "league": "Ligue 1",
+      "date": "2026-10-23",
+      "time": "18:45 GMT",
+      "isLive": false,
+      "isFinished": false,
+      "homeScore": null,
+      "awayScore": null,
+      "homePenalties": null,
+      "awayPenalties": null
+    },
+    {
+      "home": "Deportivo Alavés",
+      "away": "Málaga CF",
+      "league": "Primera Division",
+      "date": "2026-10-23",
+      "time": "19:00 GMT",
+      "isLive": false,
+      "isFinished": false,
+      "homeScore": null,
+      "awayScore": null,
+      "homePenalties": null,
+      "awayPenalties": null
+    },
+    {
+      "home": "Ipswich Town FC",
+      "away": "Nottingham Forest FC",
+      "league": "Premier League",
+      "date": "2026-10-23",
+      "time": "19:00 GMT",
+      "isLive": false,
+      "isFinished": false,
+      "homeScore": null,
+      "awayScore": null,
+      "homePenalties": null,
+      "awayPenalties": null
+    },
+    {
+      "home": "Bolton Wanderers FC",
+      "away": "Middlesbrough FC",
+      "league": "Championship",
+      "date": "2026-10-23",
+      "time": "19:00 GMT",
+      "isLive": false,
+      "isFinished": false,
+      "homeScore": null,
+      "awayScore": null,
+      "homePenalties": null,
+      "awayPenalties": null
+    },
+    {
+      "home": "Vitória SC",
+      "away": "CS Marítimo",
+      "league": "Primeira Liga",
+      "date": "2026-10-23",
+      "time": "19:45 GMT",
+      "isLive": false,
+      "isFinished": false,
+      "homeScore": null,
+      "awayScore": null,
+      "homePenalties": null,
+      "awayPenalties": null
+    },
+    {
+      "home": "Cruzeiro EC",
+      "away": "Clube do Remo",
+      "league": "Campeonato Brasileiro Série A",
+      "date": "2026-10-23",
+      "time": "23:00 GMT",
+      "isLive": false,
+      "isFinished": false,
+      "homeScore": null,
+      "awayScore": null,
+      "homePenalties": null,
+      "awayPenalties": null
+    }
+  ]
 }
