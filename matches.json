@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-23T01:56:16.120Z",
+  "updatedAt": "2026-10-23T06:58:12.665Z",
   "matches": [
     {
       "home": "Go Ahead Eagles",
@@ -67,9 +67,9 @@
       "awayPenalties": null
     },
     {
-      "home": "Ipswich Town FC",
-      "away": "Nottingham Forest FC",
-      "league": "Premier League",
+      "home": "Bolton Wanderers FC",
+      "away": "Middlesbrough FC",
+      "league": "Championship",
       "date": "2026-10-23",
       "time": "19:00 GMT",
       "isLive": false,
@@ -80,9 +80,9 @@
       "awayPenalties": null
     },
     {
-      "home": "Bolton Wanderers FC",
-      "away": "Middlesbrough FC",
-      "league": "Championship",
+      "home": "Ipswich Town FC",
+      "away": "Nottingham Forest FC",
+      "league": "Premier League",
       "date": "2026-10-23",
       "time": "19:00 GMT",
       "isLive": false,
