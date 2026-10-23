@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-23T06:58:12.665Z",
+  "updatedAt": "2026-10-23T12:29:18.746Z",
   "matches": [
     {
       "home": "Go Ahead Eagles",
@@ -28,19 +28,6 @@
       "awayPenalties": null
     },
     {
-      "home": "Torino FC",
-      "away": "AC Monza",
-      "league": "Serie A",
-      "date": "2026-10-23",
-      "time": "18:45 GMT",
-      "isLive": false,
-      "isFinished": false,
-      "homeScore": null,
-      "awayScore": null,
-      "homePenalties": null,
-      "awayPenalties": null
-    },
-    {
       "home": "Stade Brestois 29",
       "away": "OGC Nice",
       "league": "Ligue 1",
@@ -54,11 +41,11 @@
       "awayPenalties": null
     },
     {
-      "home": "Deportivo Alavés",
-      "away": "Málaga CF",
-      "league": "Primera Division",
+      "home": "Torino FC",
+      "away": "AC Monza",
+      "league": "Serie A",
       "date": "2026-10-23",
-      "time": "19:00 GMT",
+      "time": "18:45 GMT",
       "isLive": false,
       "isFinished": false,
       "homeScore": null,
@@ -70,6 +57,19 @@
       "home": "Bolton Wanderers FC",
       "away": "Middlesbrough FC",
       "league": "Championship",
+      "date": "2026-10-23",
+      "time": "19:00 GMT",
+      "isLive": false,
+      "isFinished": false,
+      "homeScore": null,
+      "awayScore": null,
+      "homePenalties": null,
+      "awayPenalties": null
+    },
+    {
+      "home": "Deportivo Alavés",
+      "away": "Málaga CF",
+      "league": "Primera Division",
       "date": "2026-10-23",
       "time": "19:00 GMT",
       "isLive": false,
