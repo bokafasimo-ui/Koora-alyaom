@@ -1,6 +1,19 @@
 {
-  "updatedAt": "2026-10-24T11:29:22.772Z",
+  "updatedAt": "2026-10-24T14:46:22.944Z",
   "matches": [
+    {
+      "home": "Sheffield United FC",
+      "away": "Derby County FC",
+      "league": "Championship",
+      "date": "2026-10-24",
+      "time": "11:30 GMT",
+      "isLive": false,
+      "isFinished": false,
+      "homeScore": null,
+      "awayScore": null,
+      "homePenalties": null,
+      "awayPenalties": null
+    },
     {
       "home": "Charlton Athletic FC",
       "away": "Norwich City FC",
@@ -18,19 +31,6 @@
       "home": "Aston Villa FC",
       "away": "Manchester City FC",
       "league": "Premier League",
-      "date": "2026-10-24",
-      "time": "11:30 GMT",
-      "isLive": false,
-      "isFinished": false,
-      "homeScore": null,
-      "awayScore": null,
-      "homePenalties": null,
-      "awayPenalties": null
-    },
-    {
-      "home": "Sheffield United FC",
-      "away": "Derby County FC",
-      "league": "Championship",
       "date": "2026-10-24",
       "time": "11:30 GMT",
       "isLive": false,
@@ -236,6 +236,19 @@
       "awayPenalties": null
     },
     {
+      "home": "West Ham United FC",
+      "away": "Southampton FC",
+      "league": "Championship",
+      "date": "2026-10-24",
+      "time": "14:00 GMT",
+      "isLive": false,
+      "isFinished": false,
+      "homeScore": null,
+      "awayScore": null,
+      "homePenalties": null,
+      "awayPenalties": null
+    },
+    {
       "home": "Queens Park Rangers FC",
       "away": "Swansea City AFC",
       "league": "Championship",
@@ -264,19 +277,6 @@
     {
       "home": "Preston North End FC",
       "away": "West Bromwich Albion FC",
-      "league": "Championship",
-      "date": "2026-10-24",
-      "time": "14:00 GMT",
-      "isLive": false,
-      "isFinished": false,
-      "homeScore": null,
-      "awayScore": null,
-      "homePenalties": null,
-      "awayPenalties": null
-    },
-    {
-      "home": "West Ham United FC",
-      "away": "Southampton FC",
       "league": "Championship",
       "date": "2026-10-24",
       "time": "14:00 GMT",
@@ -457,8 +457,8 @@
       "awayPenalties": null
     },
     {
-      "home": "Mirassol FC",
-      "away": "São Paulo FC",
+      "home": "EC Vitória",
+      "away": "CA Paranaense",
       "league": "Campeonato Brasileiro Série A",
       "date": "2026-10-24",
       "time": "19:30 GMT",
@@ -470,8 +470,8 @@
       "awayPenalties": null
     },
     {
-      "home": "EC Vitória",
-      "away": "CA Paranaense",
+      "home": "Mirassol FC",
+      "away": "São Paulo FC",
       "league": "Campeonato Brasileiro Série A",
       "date": "2026-10-24",
       "time": "19:30 GMT",
