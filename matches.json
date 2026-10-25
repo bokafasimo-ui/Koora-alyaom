@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25T04:31:46.477Z",
+  "updatedAt": "2026-10-25T09:20:11.600Z",
   "matches": [
     {
       "home": "Santos FC",
@@ -7,7 +7,7 @@
       "league": "Campeonato Brasileiro Série A",
       "date": "2026-10-25",
       "time": "01:00 GMT",
-      "isLive": false,
+      "isLive": true,
       "isFinished": false,
       "homeScore": null,
       "awayScore": null,
@@ -80,6 +80,58 @@
       "awayPenalties": null
     },
     {
+      "home": "Crystal Palace FC",
+      "away": "Newcastle United FC",
+      "league": "Premier League",
+      "date": "2026-10-25",
+      "time": "14:00 GMT",
+      "isLive": false,
+      "isFinished": false,
+      "homeScore": null,
+      "awayScore": null,
+      "homePenalties": null,
+      "awayPenalties": null
+    },
+    {
+      "home": "Genoa CFC",
+      "away": "Venezia FC",
+      "league": "Serie A",
+      "date": "2026-10-25",
+      "time": "14:00 GMT",
+      "isLive": false,
+      "isFinished": false,
+      "homeScore": null,
+      "awayScore": null,
+      "homePenalties": null,
+      "awayPenalties": null
+    },
+    {
+      "home": "Hull City AFC",
+      "away": "Brentford FC",
+      "league": "Premier League",
+      "date": "2026-10-25",
+      "time": "14:00 GMT",
+      "isLive": false,
+      "isFinished": false,
+      "homeScore": null,
+      "awayScore": null,
+      "homePenalties": null,
+      "awayPenalties": null
+    },
+    {
+      "home": "Manchester United FC",
+      "away": "AFC Bournemouth",
+      "league": "Premier League",
+      "date": "2026-10-25",
+      "time": "14:00 GMT",
+      "isLive": false,
+      "isFinished": false,
+      "homeScore": null,
+      "awayScore": null,
+      "homePenalties": null,
+      "awayPenalties": null
+    },
+    {
       "home": "Liverpool FC",
       "away": "Brighton & Hove Albion FC",
       "league": "Premier League",
@@ -109,58 +161,6 @@
       "home": "AS Monaco FC",
       "away": "Lille OSC",
       "league": "Ligue 1",
-      "date": "2026-10-25",
-      "time": "14:00 GMT",
-      "isLive": false,
-      "isFinished": false,
-      "homeScore": null,
-      "awayScore": null,
-      "homePenalties": null,
-      "awayPenalties": null
-    },
-    {
-      "home": "Crystal Palace FC",
-      "away": "Newcastle United FC",
-      "league": "Premier League",
-      "date": "2026-10-25",
-      "time": "14:00 GMT",
-      "isLive": false,
-      "isFinished": false,
-      "homeScore": null,
-      "awayScore": null,
-      "homePenalties": null,
-      "awayPenalties": null
-    },
-    {
-      "home": "Genoa CFC",
-      "away": "Venezia FC",
-      "league": "Serie A",
-      "date": "2026-10-25",
-      "time": "14:00 GMT",
-      "isLive": false,
-      "isFinished": false,
-      "homeScore": null,
-      "awayScore": null,
-      "homePenalties": null,
-      "awayPenalties": null
-    },
-    {
-      "home": "Manchester United FC",
-      "away": "AFC Bournemouth",
-      "league": "Premier League",
-      "date": "2026-10-25",
-      "time": "14:00 GMT",
-      "isLive": false,
-      "isFinished": false,
-      "homeScore": null,
-      "awayScore": null,
-      "homePenalties": null,
-      "awayPenalties": null
-    },
-    {
-      "home": "Hull City AFC",
-      "away": "Brentford FC",
-      "league": "Premier League",
       "date": "2026-10-25",
       "time": "14:00 GMT",
       "isLive": false,
@@ -223,19 +223,6 @@
       "awayPenalties": null
     },
     {
-      "home": "Stade Rennais FC 1901",
-      "away": "RC Strasbourg Alsace",
-      "league": "Ligue 1",
-      "date": "2026-10-25",
-      "time": "16:15 GMT",
-      "isLive": false,
-      "isFinished": false,
-      "homeScore": null,
-      "awayScore": null,
-      "homePenalties": null,
-      "awayPenalties": null
-    },
-    {
       "home": "Angers SCO",
       "away": "FC Lorient",
       "league": "Ligue 1",
@@ -264,6 +251,19 @@
     {
       "home": "AJ Auxerre",
       "away": "Le Mans FC",
+      "league": "Ligue 1",
+      "date": "2026-10-25",
+      "time": "16:15 GMT",
+      "isLive": false,
+      "isFinished": false,
+      "homeScore": null,
+      "awayScore": null,
+      "homePenalties": null,
+      "awayPenalties": null
+    },
+    {
+      "home": "Stade Rennais FC 1901",
+      "away": "RC Strasbourg Alsace",
       "league": "Ligue 1",
       "date": "2026-10-25",
       "time": "16:15 GMT",
@@ -340,8 +340,8 @@
       "awayPenalties": null
     },
     {
-      "home": "Rio Ave FC",
-      "away": "FC Famalicão",
+      "home": "CD Nacional",
+      "away": "Sporting Clube de Braga",
       "league": "Primeira Liga",
       "date": "2026-10-25",
       "time": "18:00 GMT",
@@ -353,8 +353,8 @@
       "awayPenalties": null
     },
     {
-      "home": "CD Nacional",
-      "away": "Sporting Clube de Braga",
+      "home": "Rio Ave FC",
+      "away": "FC Famalicão",
       "league": "Primeira Liga",
       "date": "2026-10-25",
       "time": "18:00 GMT",
