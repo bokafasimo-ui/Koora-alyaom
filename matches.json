@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-27T00:37:10.430Z",
+  "updatedAt": "2026-10-27T05:33:48.762Z",
   "matches": [
     {
       "home": "US Sassuolo Calcio",
@@ -15,8 +15,8 @@
       "awayPenalties": null
     },
     {
-      "home": "AS Roma",
-      "away": "Cagliari Calcio",
+      "home": "Torino FC",
+      "away": "Como 1907",
       "league": "Serie A",
       "date": "2026-10-27",
       "time": "19:45 GMT",
@@ -28,8 +28,8 @@
       "awayPenalties": null
     },
     {
-      "home": "Torino FC",
-      "away": "Como 1907",
+      "home": "AS Roma",
+      "away": "Cagliari Calcio",
       "league": "Serie A",
       "date": "2026-10-27",
       "time": "19:45 GMT",
