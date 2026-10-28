@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-28T11:27:48.906Z",
+  "updatedAt": "2026-10-28T17:15:42.175Z",
   "matches": [
     {
-      "home": "AC Milan",
-      "away": "Bologna FC 1909",
+      "home": "Venezia FC",
+      "away": "FC Internazionale Milano",
       "league": "Serie A",
       "date": "2026-10-28",
       "time": "17:30 GMT",
@@ -28,24 +28,11 @@
       "awayPenalties": null
     },
     {
-      "home": "Venezia FC",
-      "away": "FC Internazionale Milano",
+      "home": "AC Milan",
+      "away": "Bologna FC 1909",
       "league": "Serie A",
       "date": "2026-10-28",
       "time": "17:30 GMT",
-      "isLive": false,
-      "isFinished": false,
-      "homeScore": null,
-      "awayScore": null,
-      "homePenalties": null,
-      "awayPenalties": null
-    },
-    {
-      "home": "AC Monza",
-      "away": "SSC Napoli",
-      "league": "Serie A",
-      "date": "2026-10-28",
-      "time": "19:45 GMT",
       "isLive": false,
       "isFinished": false,
       "homeScore": null,
@@ -67,8 +54,21 @@
       "awayPenalties": null
     },
     {
-      "home": "Fluminense FC",
-      "away": "SC Internacional",
+      "home": "AC Monza",
+      "away": "SSC Napoli",
+      "league": "Serie A",
+      "date": "2026-10-28",
+      "time": "19:45 GMT",
+      "isLive": false,
+      "isFinished": false,
+      "homeScore": null,
+      "awayScore": null,
+      "homePenalties": null,
+      "awayPenalties": null
+    },
+    {
+      "home": "RB Bragantino",
+      "away": "Chapecoense AF",
       "league": "Campeonato Brasileiro Série A",
       "date": "2026-10-28",
       "time": "22:30 GMT",
@@ -93,8 +93,8 @@
       "awayPenalties": null
     },
     {
-      "home": "RB Bragantino",
-      "away": "Chapecoense AF",
+      "home": "Fluminense FC",
+      "away": "SC Internacional",
       "league": "Campeonato Brasileiro Série A",
       "date": "2026-10-28",
       "time": "22:30 GMT",
