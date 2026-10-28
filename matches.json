@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T00:00:35.649Z",
+  "updatedAt": "2026-10-28T05:23:19.910Z",
   "matches": [
     {
       "home": "Venezia FC",
@@ -41,8 +41,8 @@
       "awayPenalties": null
     },
     {
-      "home": "AC Monza",
-      "away": "SSC Napoli",
+      "home": "Genoa CFC",
+      "away": "Juventus FC",
       "league": "Serie A",
       "date": "2026-10-28",
       "time": "19:45 GMT",
@@ -54,8 +54,8 @@
       "awayPenalties": null
     },
     {
-      "home": "Genoa CFC",
-      "away": "Juventus FC",
+      "home": "AC Monza",
+      "away": "SSC Napoli",
       "league": "Serie A",
       "date": "2026-10-28",
       "time": "19:45 GMT",
@@ -80,8 +80,8 @@
       "awayPenalties": null
     },
     {
-      "home": "Fluminense FC",
-      "away": "SC Internacional",
+      "home": "Santos FC",
+      "away": "SE Palmeiras",
       "league": "Campeonato Brasileiro Série A",
       "date": "2026-10-28",
       "time": "22:30 GMT",
@@ -93,8 +93,8 @@
       "awayPenalties": null
     },
     {
-      "home": "Santos FC",
-      "away": "SE Palmeiras",
+      "home": "Fluminense FC",
+      "away": "SC Internacional",
       "league": "Campeonato Brasileiro Série A",
       "date": "2026-10-28",
       "time": "22:30 GMT",
