@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T09:18:34.868Z",
+  "updatedAt": "2026-10-30T16:00:55.945Z",
   "matches": [
     {
       "home": "Grêmio FBPA",
@@ -15,8 +15,8 @@
       "awayPenalties": null
     },
     {
-      "home": "Le Havre AC",
-      "away": "Paris Saint-Germain FC",
+      "home": "OGC Nice",
+      "away": "Stade Rennais FC 1901",
       "league": "Ligue 1",
       "date": "2026-10-30",
       "time": "18:00 GMT",
@@ -28,8 +28,8 @@
       "awayPenalties": null
     },
     {
-      "home": "OGC Nice",
-      "away": "Stade Rennais FC 1901",
+      "home": "Le Havre AC",
+      "away": "Paris Saint-Germain FC",
       "league": "Ligue 1",
       "date": "2026-10-30",
       "time": "18:00 GMT",
