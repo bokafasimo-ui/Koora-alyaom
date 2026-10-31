@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T05:25:47.044Z",
+  "updatedAt": "2026-10-31T11:01:48.016Z",
   "matches": [
     {
       "home": "Chelsea FC",
@@ -28,8 +28,8 @@
       "awayPenalties": null
     },
     {
-      "home": "Norwich City FC",
-      "away": "Watford FC",
+      "home": "Stoke City FC",
+      "away": "Preston North End FC",
       "league": "Championship",
       "date": "2026-10-31",
       "time": "12:30 GMT",
@@ -41,8 +41,8 @@
       "awayPenalties": null
     },
     {
-      "home": "Stoke City FC",
-      "away": "Preston North End FC",
+      "home": "Norwich City FC",
+      "away": "Watford FC",
       "league": "Championship",
       "date": "2026-10-31",
       "time": "12:30 GMT",
@@ -80,19 +80,6 @@
       "awayPenalties": null
     },
     {
-      "home": "Borussia Mönchengladbach",
-      "away": "SC Paderborn 07",
-      "league": "Bundesliga",
-      "date": "2026-10-31",
-      "time": "14:30 GMT",
-      "isLive": false,
-      "isFinished": false,
-      "homeScore": null,
-      "awayScore": null,
-      "homePenalties": null,
-      "awayPenalties": null
-    },
-    {
       "home": "Bayer 04 Leverkusen",
       "away": "VfB Stuttgart",
       "league": "Bundesliga",
@@ -119,8 +106,8 @@
       "awayPenalties": null
     },
     {
-      "home": "FC Schalke 04",
-      "away": "RB Leipzig",
+      "home": "Borussia Mönchengladbach",
+      "away": "SC Paderborn 07",
       "league": "Bundesliga",
       "date": "2026-10-31",
       "time": "14:30 GMT",
@@ -145,37 +132,11 @@
       "awayPenalties": null
     },
     {
-      "home": "Bolton Wanderers FC",
-      "away": "Bristol City FC",
-      "league": "Championship",
+      "home": "FC Schalke 04",
+      "away": "RB Leipzig",
+      "league": "Bundesliga",
       "date": "2026-10-31",
-      "time": "15:00 GMT",
-      "isLive": false,
-      "isFinished": false,
-      "homeScore": null,
-      "awayScore": null,
-      "homePenalties": null,
-      "awayPenalties": null
-    },
-    {
-      "home": "Wolverhampton Wanderers FC",
-      "away": "Cardiff City FC",
-      "league": "Championship",
-      "date": "2026-10-31",
-      "time": "15:00 GMT",
-      "isLive": false,
-      "isFinished": false,
-      "homeScore": null,
-      "awayScore": null,
-      "homePenalties": null,
-      "awayPenalties": null
-    },
-    {
-      "home": "Middlesbrough FC",
-      "away": "Charlton Athletic FC",
-      "league": "Championship",
-      "date": "2026-10-31",
-      "time": "15:00 GMT",
+      "time": "14:30 GMT",
       "isLive": false,
       "isFinished": false,
       "homeScore": null,
@@ -236,8 +197,8 @@
       "awayPenalties": null
     },
     {
-      "home": "Southampton FC",
-      "away": "Queens Park Rangers FC",
+      "home": "Bolton Wanderers FC",
+      "away": "Bristol City FC",
       "league": "Championship",
       "date": "2026-10-31",
       "time": "15:00 GMT",
@@ -249,9 +210,9 @@
       "awayPenalties": null
     },
     {
-      "home": "Manchester City FC",
-      "away": "Brighton & Hove Albion FC",
-      "league": "Premier League",
+      "home": "Wolverhampton Wanderers FC",
+      "away": "Cardiff City FC",
+      "league": "Championship",
       "date": "2026-10-31",
       "time": "15:00 GMT",
       "isLive": false,
@@ -262,8 +223,8 @@
       "awayPenalties": null
     },
     {
-      "home": "West Ham United FC",
-      "away": "West Bromwich Albion FC",
+      "home": "Middlesbrough FC",
+      "away": "Charlton Athletic FC",
       "league": "Championship",
       "date": "2026-10-31",
       "time": "15:00 GMT",
@@ -304,6 +265,45 @@
       "home": "Coventry City FC",
       "away": "Sunderland AFC",
       "league": "Premier League",
+      "date": "2026-10-31",
+      "time": "15:00 GMT",
+      "isLive": false,
+      "isFinished": false,
+      "homeScore": null,
+      "awayScore": null,
+      "homePenalties": null,
+      "awayPenalties": null
+    },
+    {
+      "home": "Southampton FC",
+      "away": "Queens Park Rangers FC",
+      "league": "Championship",
+      "date": "2026-10-31",
+      "time": "15:00 GMT",
+      "isLive": false,
+      "isFinished": false,
+      "homeScore": null,
+      "awayScore": null,
+      "homePenalties": null,
+      "awayPenalties": null
+    },
+    {
+      "home": "Manchester City FC",
+      "away": "Brighton & Hove Albion FC",
+      "league": "Premier League",
+      "date": "2026-10-31",
+      "time": "15:00 GMT",
+      "isLive": false,
+      "isFinished": false,
+      "homeScore": null,
+      "awayScore": null,
+      "homePenalties": null,
+      "awayPenalties": null
+    },
+    {
+      "home": "West Ham United FC",
+      "away": "West Bromwich Albion FC",
+      "league": "Championship",
       "date": "2026-10-31",
       "time": "15:00 GMT",
       "isLive": false,
