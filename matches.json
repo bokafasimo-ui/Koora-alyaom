@@ -1,19 +1,6 @@
 {
-  "updatedAt": "2026-10-31T00:03:58.587Z",
+  "updatedAt": "2026-10-31T05:25:47.044Z",
   "matches": [
-    {
-      "home": "Lincoln City FC",
-      "away": "Birmingham City FC",
-      "league": "Championship",
-      "date": "2026-10-31",
-      "time": "12:30 GMT",
-      "isLive": false,
-      "isFinished": false,
-      "homeScore": null,
-      "awayScore": null,
-      "homePenalties": null,
-      "awayPenalties": null
-    },
     {
       "home": "Chelsea FC",
       "away": "Manchester United FC",
@@ -28,8 +15,8 @@
       "awayPenalties": null
     },
     {
-      "home": "Stoke City FC",
-      "away": "Preston North End FC",
+      "home": "Lincoln City FC",
+      "away": "Birmingham City FC",
       "league": "Championship",
       "date": "2026-10-31",
       "time": "12:30 GMT",
@@ -43,6 +30,19 @@
     {
       "home": "Norwich City FC",
       "away": "Watford FC",
+      "league": "Championship",
+      "date": "2026-10-31",
+      "time": "12:30 GMT",
+      "isLive": false,
+      "isFinished": false,
+      "homeScore": null,
+      "awayScore": null,
+      "homePenalties": null,
+      "awayPenalties": null
+    },
+    {
+      "home": "Stoke City FC",
+      "away": "Preston North End FC",
       "league": "Championship",
       "date": "2026-10-31",
       "time": "12:30 GMT",
@@ -80,6 +80,19 @@
       "awayPenalties": null
     },
     {
+      "home": "Borussia Mönchengladbach",
+      "away": "SC Paderborn 07",
+      "league": "Bundesliga",
+      "date": "2026-10-31",
+      "time": "14:30 GMT",
+      "isLive": false,
+      "isFinished": false,
+      "homeScore": null,
+      "awayScore": null,
+      "homePenalties": null,
+      "awayPenalties": null
+    },
+    {
       "home": "Bayer 04 Leverkusen",
       "away": "VfB Stuttgart",
       "league": "Bundesliga",
@@ -106,8 +119,8 @@
       "awayPenalties": null
     },
     {
-      "home": "Borussia Mönchengladbach",
-      "away": "SC Paderborn 07",
+      "home": "FC Schalke 04",
+      "away": "RB Leipzig",
       "league": "Bundesliga",
       "date": "2026-10-31",
       "time": "14:30 GMT",
@@ -132,11 +145,24 @@
       "awayPenalties": null
     },
     {
-      "home": "FC Schalke 04",
-      "away": "RB Leipzig",
-      "league": "Bundesliga",
+      "home": "Bolton Wanderers FC",
+      "away": "Bristol City FC",
+      "league": "Championship",
       "date": "2026-10-31",
-      "time": "14:30 GMT",
+      "time": "15:00 GMT",
+      "isLive": false,
+      "isFinished": false,
+      "homeScore": null,
+      "awayScore": null,
+      "homePenalties": null,
+      "awayPenalties": null
+    },
+    {
+      "home": "Wolverhampton Wanderers FC",
+      "away": "Cardiff City FC",
+      "league": "Championship",
+      "date": "2026-10-31",
+      "time": "15:00 GMT",
       "isLive": false,
       "isFinished": false,
       "homeScore": null,
@@ -210,21 +236,8 @@
       "awayPenalties": null
     },
     {
-      "home": "Bolton Wanderers FC",
-      "away": "Bristol City FC",
-      "league": "Championship",
-      "date": "2026-10-31",
-      "time": "15:00 GMT",
-      "isLive": false,
-      "isFinished": false,
-      "homeScore": null,
-      "awayScore": null,
-      "homePenalties": null,
-      "awayPenalties": null
-    },
-    {
-      "home": "Wolverhampton Wanderers FC",
-      "away": "Cardiff City FC",
+      "home": "Southampton FC",
+      "away": "Queens Park Rangers FC",
       "league": "Championship",
       "date": "2026-10-31",
       "time": "15:00 GMT",
@@ -301,19 +314,6 @@
       "awayPenalties": null
     },
     {
-      "home": "Southampton FC",
-      "away": "Queens Park Rangers FC",
-      "league": "Championship",
-      "date": "2026-10-31",
-      "time": "15:00 GMT",
-      "isLive": false,
-      "isFinished": false,
-      "homeScore": null,
-      "awayScore": null,
-      "homePenalties": null,
-      "awayPenalties": null
-    },
-    {
       "home": "Rayo Vallecano de Madrid",
       "away": "RC Celta de Vigo",
       "league": "Primera Division",
@@ -366,9 +366,9 @@
       "awayPenalties": null
     },
     {
-      "home": "FC Bayern München",
-      "away": "Borussia Dortmund",
-      "league": "Bundesliga",
+      "home": "Real Betis Balompié",
+      "away": "Málaga CF",
+      "league": "Primera Division",
       "date": "2026-10-31",
       "time": "17:30 GMT",
       "isLive": false,
@@ -379,9 +379,9 @@
       "awayPenalties": null
     },
     {
-      "home": "Real Betis Balompié",
-      "away": "Málaga CF",
-      "league": "Primera Division",
+      "home": "FC Bayern München",
+      "away": "Borussia Dortmund",
+      "league": "Bundesliga",
       "date": "2026-10-31",
       "time": "17:30 GMT",
       "isLive": false,
@@ -470,6 +470,19 @@
       "awayPenalties": null
     },
     {
+      "home": "AFC Ajax",
+      "away": "AZ",
+      "league": "Eredivisie",
+      "date": "2026-10-31",
+      "time": "20:00 GMT",
+      "isLive": false,
+      "isFinished": false,
+      "homeScore": null,
+      "awayScore": null,
+      "homePenalties": null,
+      "awayPenalties": null
+    },
+    {
       "home": "FC Barcelona",
       "away": "Deportivo Alavés",
       "league": "Primera Division",
@@ -486,19 +499,6 @@
       "home": "Aston Villa FC",
       "away": "Fulham FC",
       "league": "Premier League",
-      "date": "2026-10-31",
-      "time": "20:00 GMT",
-      "isLive": false,
-      "isFinished": false,
-      "homeScore": null,
-      "awayScore": null,
-      "homePenalties": null,
-      "awayPenalties": null
-    },
-    {
-      "home": "AFC Ajax",
-      "away": "AZ",
-      "league": "Eredivisie",
       "date": "2026-10-31",
       "time": "20:00 GMT",
       "isLive": false,
