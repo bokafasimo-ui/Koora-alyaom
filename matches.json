@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01T01:44:37.828Z",
+  "updatedAt": "2026-11-01T08:11:45.762Z",
   "matches": [
     {
       "home": "PEC Zwolle",
@@ -41,19 +41,6 @@
       "awayPenalties": null
     },
     {
-      "home": "SBV Excelsior",
-      "away": "FC Twente '65",
-      "league": "Eredivisie",
-      "date": "2026-11-01",
-      "time": "13:30 GMT",
-      "isLive": false,
-      "isFinished": false,
-      "homeScore": null,
-      "awayScore": null,
-      "homePenalties": null,
-      "awayPenalties": null
-    },
-    {
       "home": "Telstar 1963",
       "away": "FC Utrecht",
       "league": "Eredivisie",
@@ -67,9 +54,22 @@
       "awayPenalties": null
     },
     {
-      "home": "SS Lazio",
-      "away": "Cagliari Calcio",
-      "league": "Serie A",
+      "home": "SBV Excelsior",
+      "away": "FC Twente '65",
+      "league": "Eredivisie",
+      "date": "2026-11-01",
+      "time": "13:30 GMT",
+      "isLive": false,
+      "isFinished": false,
+      "homeScore": null,
+      "awayScore": null,
+      "homePenalties": null,
+      "awayPenalties": null
+    },
+    {
+      "home": "RC Strasbourg Alsace",
+      "away": "AJ Auxerre",
+      "league": "Ligue 1",
       "date": "2026-11-01",
       "time": "14:00 GMT",
       "isLive": false,
@@ -93,9 +93,9 @@
       "awayPenalties": null
     },
     {
-      "home": "RC Strasbourg Alsace",
-      "away": "AJ Auxerre",
-      "league": "Ligue 1",
+      "home": "SS Lazio",
+      "away": "Cagliari Calcio",
+      "league": "Serie A",
       "date": "2026-11-01",
       "time": "14:00 GMT",
       "isLive": false,
@@ -262,9 +262,9 @@
       "awayPenalties": null
     },
     {
-      "home": "Olympique de Marseille",
-      "away": "Toulouse FC",
-      "league": "Ligue 1",
+      "home": "Juventus FC",
+      "away": "SSC Napoli",
+      "league": "Serie A",
       "date": "2026-11-01",
       "time": "19:45 GMT",
       "isLive": false,
@@ -275,9 +275,9 @@
       "awayPenalties": null
     },
     {
-      "home": "Juventus FC",
-      "away": "SSC Napoli",
-      "league": "Serie A",
+      "home": "Olympique de Marseille",
+      "away": "Toulouse FC",
+      "league": "Ligue 1",
       "date": "2026-11-01",
       "time": "19:45 GMT",
       "isLive": false,
