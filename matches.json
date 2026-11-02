@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02T09:40:54.384Z",
+  "updatedAt": "2026-11-02T19:47:05.212Z",
   "matches": [
     {
       "home": "US Sassuolo Calcio",
@@ -8,9 +8,9 @@
       "date": "2026-11-02",
       "time": "17:30 GMT",
       "isLive": false,
-      "isFinished": false,
-      "homeScore": null,
-      "awayScore": null,
+      "isFinished": true,
+      "homeScore": 2,
+      "awayScore": 4,
       "homePenalties": null,
       "awayPenalties": null
     },
