@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-04T08:23:42.776Z",
+  "updatedAt": "2026-11-04T16:26:49.043Z",
   "matches": [
     {
       "home": "SC Internacional",
@@ -132,19 +132,6 @@
       "awayPenalties": null
     },
     {
-      "home": "Borussia Dortmund",
-      "away": "Real Betis Balompié",
-      "league": "UEFA Champions League",
-      "date": "2026-11-04",
-      "time": "20:00 GMT",
-      "isLive": false,
-      "isFinished": false,
-      "homeScore": null,
-      "awayScore": null,
-      "homePenalties": null,
-      "awayPenalties": null
-    },
-    {
       "home": "Racing Club de Lens",
       "away": "Como 1907",
       "league": "UEFA Champions League",
@@ -160,6 +147,19 @@
     {
       "home": "SK Slavia Praha",
       "away": "Arsenal FC",
+      "league": "UEFA Champions League",
+      "date": "2026-11-04",
+      "time": "20:00 GMT",
+      "isLive": false,
+      "isFinished": false,
+      "homeScore": null,
+      "awayScore": null,
+      "homePenalties": null,
+      "awayPenalties": null
+    },
+    {
+      "home": "Borussia Dortmund",
+      "away": "Real Betis Balompié",
       "league": "UEFA Champions League",
       "date": "2026-11-04",
       "time": "20:00 GMT",
