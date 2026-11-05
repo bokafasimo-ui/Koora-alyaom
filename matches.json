@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T17:37:10.820Z",
+  "updatedAt": "2026-11-05T22:49:41.579Z",
   "matches": [
     {
       "home": "Botafogo FR",
@@ -33,10 +33,10 @@
       "league": "Campeonato Brasileiro Série A",
       "date": "2026-11-05",
       "time": "22:30 GMT",
-      "isLive": false,
+      "isLive": true,
       "isFinished": false,
-      "homeScore": null,
-      "awayScore": null,
+      "homeScore": 2,
+      "awayScore": 0,
       "homePenalties": null,
       "awayPenalties": null
     }
