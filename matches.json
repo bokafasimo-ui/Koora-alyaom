@@ -1,28 +1,28 @@
 {
-  "updatedAt": "2026-11-05T02:16:52.910Z",
+  "updatedAt": "2026-11-05T09:36:38.474Z",
   "matches": [
-    {
-      "home": "Botafogo FR",
-      "away": "CA Mineiro",
-      "league": "Campeonato Brasileiro Série A",
-      "date": "2026-11-05",
-      "time": "00:30 GMT",
-      "isLive": true,
-      "isFinished": false,
-      "homeScore": 1,
-      "awayScore": 0,
-      "homePenalties": null,
-      "awayPenalties": null
-    },
     {
       "home": "São Paulo FC",
       "away": "SC Corinthians Paulista",
       "league": "Campeonato Brasileiro Série A",
       "date": "2026-11-05",
       "time": "00:30 GMT",
-      "isLive": true,
-      "isFinished": false,
+      "isLive": false,
+      "isFinished": true,
       "homeScore": 0,
+      "awayScore": 0,
+      "homePenalties": null,
+      "awayPenalties": null
+    },
+    {
+      "home": "Botafogo FR",
+      "away": "CA Mineiro",
+      "league": "Campeonato Brasileiro Série A",
+      "date": "2026-11-05",
+      "time": "00:30 GMT",
+      "isLive": false,
+      "isFinished": true,
+      "homeScore": 1,
       "awayScore": 0,
       "homePenalties": null,
       "awayPenalties": null
