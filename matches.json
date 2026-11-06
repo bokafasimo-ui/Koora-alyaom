@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T10:07:05.004Z",
+  "updatedAt": "2026-11-06T17:26:41.148Z",
   "matches": [
     {
       "home": "Cruzeiro EC",
@@ -67,9 +67,9 @@
       "awayPenalties": null
     },
     {
-      "home": "Derby County FC",
-      "away": "Bolton Wanderers FC",
-      "league": "Championship",
+      "home": "Sevilla FC",
+      "away": "Deportivo Alavés",
+      "league": "Primera Division",
       "date": "2026-11-06",
       "time": "20:00 GMT",
       "isLive": false,
@@ -80,9 +80,9 @@
       "awayPenalties": null
     },
     {
-      "home": "Sevilla FC",
-      "away": "Deportivo Alavés",
-      "league": "Primera Division",
+      "home": "Derby County FC",
+      "away": "Bolton Wanderers FC",
+      "league": "Championship",
       "date": "2026-11-06",
       "time": "20:00 GMT",
       "isLive": false,
