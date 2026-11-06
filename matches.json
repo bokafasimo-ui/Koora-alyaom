@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T02:53:17.341Z",
+  "updatedAt": "2026-11-06T10:07:05.004Z",
   "matches": [
     {
       "home": "Cruzeiro EC",
@@ -41,19 +41,6 @@
       "awayPenalties": null
     },
     {
-      "home": "Venezia FC",
-      "away": "Udinese Calcio",
-      "league": "Serie A",
-      "date": "2026-11-06",
-      "time": "19:45 GMT",
-      "isLive": false,
-      "isFinished": false,
-      "homeScore": null,
-      "awayScore": null,
-      "homePenalties": null,
-      "awayPenalties": null
-    },
-    {
       "home": "Toulouse FC",
       "away": "RC Strasbourg Alsace",
       "league": "Ligue 1",
@@ -67,9 +54,22 @@
       "awayPenalties": null
     },
     {
-      "home": "Everton FC",
-      "away": "Coventry City FC",
-      "league": "Premier League",
+      "home": "Venezia FC",
+      "away": "Udinese Calcio",
+      "league": "Serie A",
+      "date": "2026-11-06",
+      "time": "19:45 GMT",
+      "isLive": false,
+      "isFinished": false,
+      "homeScore": null,
+      "awayScore": null,
+      "homePenalties": null,
+      "awayPenalties": null
+    },
+    {
+      "home": "Derby County FC",
+      "away": "Bolton Wanderers FC",
+      "league": "Championship",
       "date": "2026-11-06",
       "time": "20:00 GMT",
       "isLive": false,
@@ -93,9 +93,9 @@
       "awayPenalties": null
     },
     {
-      "home": "Derby County FC",
-      "away": "Bolton Wanderers FC",
-      "league": "Championship",
+      "home": "Everton FC",
+      "away": "Coventry City FC",
+      "league": "Premier League",
       "date": "2026-11-06",
       "time": "20:00 GMT",
       "isLive": false,
