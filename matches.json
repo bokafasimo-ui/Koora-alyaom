@@ -1,19 +1,6 @@
 {
-  "updatedAt": "2026-11-07T01:58:12.677Z",
+  "updatedAt": "2026-11-07T08:30:47.304Z",
   "matches": [
-    {
-      "home": "Portsmouth FC",
-      "away": "Stoke City FC",
-      "league": "Championship",
-      "date": "2026-11-07",
-      "time": "12:30 GMT",
-      "isLive": false,
-      "isFinished": false,
-      "homeScore": null,
-      "awayScore": null,
-      "homePenalties": null,
-      "awayPenalties": null
-    },
     {
       "home": "Leeds United FC",
       "away": "Tottenham Hotspur FC",
@@ -28,8 +15,8 @@
       "awayPenalties": null
     },
     {
-      "home": "Wrexham AFC",
-      "away": "Wolverhampton Wanderers FC",
+      "home": "Portsmouth FC",
+      "away": "Stoke City FC",
       "league": "Championship",
       "date": "2026-11-07",
       "time": "12:30 GMT",
@@ -43,6 +30,19 @@
     {
       "home": "Bristol City FC",
       "away": "Norwich City FC",
+      "league": "Championship",
+      "date": "2026-11-07",
+      "time": "12:30 GMT",
+      "isLive": false,
+      "isFinished": false,
+      "homeScore": null,
+      "awayScore": null,
+      "homePenalties": null,
+      "awayPenalties": null
+    },
+    {
+      "home": "Wrexham AFC",
+      "away": "Wolverhampton Wanderers FC",
       "league": "Championship",
       "date": "2026-11-07",
       "time": "12:30 GMT",
@@ -93,19 +93,6 @@
       "awayPenalties": null
     },
     {
-      "home": "RB Leipzig",
-      "away": "FC Augsburg",
-      "league": "Bundesliga",
-      "date": "2026-11-07",
-      "time": "14:30 GMT",
-      "isLive": false,
-      "isFinished": false,
-      "homeScore": null,
-      "awayScore": null,
-      "homePenalties": null,
-      "awayPenalties": null
-    },
-    {
       "home": "Borussia Dortmund",
       "away": "SV 07 Elversberg",
       "league": "Bundesliga",
@@ -119,8 +106,8 @@
       "awayPenalties": null
     },
     {
-      "home": "SC Paderborn 07",
-      "away": "Eintracht Frankfurt",
+      "home": "RB Leipzig",
+      "away": "FC Augsburg",
       "league": "Bundesliga",
       "date": "2026-11-07",
       "time": "14:30 GMT",
@@ -145,11 +132,11 @@
       "awayPenalties": null
     },
     {
-      "home": "Arsenal FC",
-      "away": "Hull City AFC",
-      "league": "Premier League",
+      "home": "SC Paderborn 07",
+      "away": "Eintracht Frankfurt",
+      "league": "Bundesliga",
       "date": "2026-11-07",
-      "time": "15:00 GMT",
+      "time": "14:30 GMT",
       "isLive": false,
       "isFinished": false,
       "homeScore": null,
@@ -210,9 +197,9 @@
       "awayPenalties": null
     },
     {
-      "home": "Preston North End FC",
-      "away": "Southampton FC",
-      "league": "Championship",
+      "home": "Arsenal FC",
+      "away": "Hull City AFC",
+      "league": "Premier League",
       "date": "2026-11-07",
       "time": "15:00 GMT",
       "isLive": false,
@@ -264,6 +251,19 @@
     {
       "home": "Charlton Athletic FC",
       "away": "Sheffield United FC",
+      "league": "Championship",
+      "date": "2026-11-07",
+      "time": "15:00 GMT",
+      "isLive": false,
+      "isFinished": false,
+      "homeScore": null,
+      "awayScore": null,
+      "homePenalties": null,
+      "awayPenalties": null
+    },
+    {
+      "home": "Preston North End FC",
+      "away": "Southampton FC",
       "league": "Championship",
       "date": "2026-11-07",
       "time": "15:00 GMT",
@@ -327,19 +327,6 @@
       "awayPenalties": null
     },
     {
-      "home": "Nottingham Forest FC",
-      "away": "Manchester City FC",
-      "league": "Premier League",
-      "date": "2026-11-07",
-      "time": "17:30 GMT",
-      "isLive": false,
-      "isFinished": false,
-      "homeScore": null,
-      "awayScore": null,
-      "homePenalties": null,
-      "awayPenalties": null
-    },
-    {
       "home": "VfB Stuttgart",
       "away": "SV Werder Bremen",
       "league": "Bundesliga",
@@ -366,6 +353,19 @@
       "awayPenalties": null
     },
     {
+      "home": "Nottingham Forest FC",
+      "away": "Manchester City FC",
+      "league": "Premier League",
+      "date": "2026-11-07",
+      "time": "17:30 GMT",
+      "isLive": false,
+      "isFinished": false,
+      "homeScore": null,
+      "awayScore": null,
+      "homePenalties": null,
+      "awayPenalties": null
+    },
+    {
       "home": "ADO Den Haag",
       "away": "Sparta Rotterdam",
       "league": "Eredivisie",
@@ -379,9 +379,9 @@
       "awayPenalties": null
     },
     {
-      "home": "AJ Auxerre",
-      "away": "Paris FC",
-      "league": "Ligue 1",
+      "home": "FC Alverca",
+      "away": "Casa Pia AC",
+      "league": "Primeira Liga",
       "date": "2026-11-07",
       "time": "18:00 GMT",
       "isLive": false,
@@ -392,9 +392,9 @@
       "awayPenalties": null
     },
     {
-      "home": "FC Alverca",
-      "away": "Casa Pia AC",
-      "league": "Primeira Liga",
+      "home": "AJ Auxerre",
+      "away": "Paris FC",
+      "league": "Ligue 1",
       "date": "2026-11-07",
       "time": "18:00 GMT",
       "isLive": false,
