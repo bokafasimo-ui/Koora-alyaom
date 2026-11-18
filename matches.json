@@ -1,4 +1,57 @@
 {
-  "updatedAt": "2026-11-17T20:24:04.502Z",
-  "matches": []
+  "updatedAt": "2026-11-18T02:29:21.110Z",
+  "matches": [
+    {
+      "home": "Coritiba FBC",
+      "away": "Santos FC",
+      "league": "Campeonato Brasileiro Série A",
+      "date": "2026-11-18",
+      "time": "22:30 GMT",
+      "isLive": false,
+      "isFinished": false,
+      "homeScore": null,
+      "awayScore": null,
+      "homePenalties": null,
+      "awayPenalties": null
+    },
+    {
+      "home": "Clube do Remo",
+      "away": "Chapecoense AF",
+      "league": "Campeonato Brasileiro Série A",
+      "date": "2026-11-18",
+      "time": "23:00 GMT",
+      "isLive": false,
+      "isFinished": false,
+      "homeScore": null,
+      "awayScore": null,
+      "homePenalties": null,
+      "awayPenalties": null
+    },
+    {
+      "home": "CR Flamengo",
+      "away": "CA Paranaense",
+      "league": "Campeonato Brasileiro Série A",
+      "date": "2026-11-18",
+      "time": "23:30 GMT",
+      "isLive": false,
+      "isFinished": false,
+      "homeScore": null,
+      "awayScore": null,
+      "homePenalties": null,
+      "awayPenalties": null
+    },
+    {
+      "home": "Cruzeiro EC",
+      "away": "SE Palmeiras",
+      "league": "Campeonato Brasileiro Série A",
+      "date": "2026-11-18",
+      "time": "23:30 GMT",
+      "isLive": false,
+      "isFinished": false,
+      "homeScore": null,
+      "awayScore": null,
+      "homePenalties": null,
+      "awayPenalties": null
+    }
+  ]
 }
