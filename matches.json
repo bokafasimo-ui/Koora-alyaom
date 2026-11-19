@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T17:38:25.868Z",
+  "updatedAt": "2026-11-19T23:48:14.584Z",
   "matches": [
     {
       "home": "Grêmio FBPA",
@@ -7,8 +7,8 @@
       "league": "Campeonato Brasileiro Série A",
       "date": "2026-11-19",
       "time": "00:30 GMT",
-      "isLive": false,
-      "isFinished": true,
+      "isLive": true,
+      "isFinished": false,
       "homeScore": 0,
       "awayScore": 0,
       "homePenalties": null,
@@ -20,9 +20,9 @@
       "league": "Campeonato Brasileiro Série A",
       "date": "2026-11-19",
       "time": "00:30 GMT",
-      "isLive": false,
-      "isFinished": true,
-      "homeScore": 4,
+      "isLive": true,
+      "isFinished": false,
+      "homeScore": 2,
       "awayScore": 0,
       "homePenalties": null,
       "awayPenalties": null
