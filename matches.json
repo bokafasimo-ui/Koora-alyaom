@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T13:19:05.723Z",
+  "updatedAt": "2026-11-20T21:17:14.591Z",
   "matches": [
     {
       "home": "São Paulo FC",
@@ -20,10 +20,10 @@
       "league": "Bundesliga",
       "date": "2026-11-20",
       "time": "19:30 GMT",
-      "isLive": false,
+      "isLive": true,
       "isFinished": false,
-      "homeScore": null,
-      "awayScore": null,
+      "homeScore": 1,
+      "awayScore": 1,
       "homePenalties": null,
       "awayPenalties": null
     },
@@ -33,10 +33,10 @@
       "league": "Ligue 1",
       "date": "2026-11-20",
       "time": "19:45 GMT",
-      "isLive": false,
+      "isLive": true,
       "isFinished": false,
-      "homeScore": null,
-      "awayScore": null,
+      "homeScore": 1,
+      "awayScore": 1,
       "homePenalties": null,
       "awayPenalties": null
     },
@@ -46,10 +46,10 @@
       "league": "Primera Division",
       "date": "2026-11-20",
       "time": "20:00 GMT",
-      "isLive": false,
+      "isLive": true,
       "isFinished": false,
-      "homeScore": null,
-      "awayScore": null,
+      "homeScore": 0,
+      "awayScore": 0,
       "homePenalties": null,
       "awayPenalties": null
     }
