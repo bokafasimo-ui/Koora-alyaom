@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T00:15:28.337Z",
+  "updatedAt": "2026-11-24T10:00:21.243Z",
   "matches": [
     {
       "home": "Santos FC",
@@ -7,10 +7,10 @@
       "league": "Campeonato Brasileiro Série A",
       "date": "2026-11-24",
       "time": "00:00 GMT",
-      "isLive": true,
-      "isFinished": false,
+      "isLive": false,
+      "isFinished": true,
       "homeScore": 0,
-      "awayScore": 0,
+      "awayScore": 2,
       "homePenalties": null,
       "awayPenalties": null
     },
@@ -33,6 +33,19 @@
       "league": "UEFA Champions League",
       "date": "2026-11-24",
       "time": "17:45 GMT",
+      "isLive": false,
+      "isFinished": false,
+      "homeScore": null,
+      "awayScore": null,
+      "homePenalties": null,
+      "awayPenalties": null
+    },
+    {
+      "home": "Middlesbrough FC",
+      "away": "Swansea City AFC",
+      "league": "Championship",
+      "date": "2026-11-24",
+      "time": "19:45 GMT",
       "isLive": false,
       "isFinished": false,
       "homeScore": null,
@@ -80,8 +93,21 @@
       "awayPenalties": null
     },
     {
-      "home": "Middlesbrough FC",
-      "away": "Swansea City AFC",
+      "home": "Bristol City FC",
+      "away": "Wrexham AFC",
+      "league": "Championship",
+      "date": "2026-11-24",
+      "time": "19:45 GMT",
+      "isLive": false,
+      "isFinished": false,
+      "homeScore": null,
+      "awayScore": null,
+      "homePenalties": null,
+      "awayPenalties": null
+    },
+    {
+      "home": "Portsmouth FC",
+      "away": "West Ham United FC",
       "league": "Championship",
       "date": "2026-11-24",
       "time": "19:45 GMT",
@@ -106,24 +132,11 @@
       "awayPenalties": null
     },
     {
-      "home": "Bristol City FC",
-      "away": "Wrexham AFC",
-      "league": "Championship",
+      "home": "Arsenal FC",
+      "away": "Borussia Dortmund",
+      "league": "UEFA Champions League",
       "date": "2026-11-24",
-      "time": "19:45 GMT",
-      "isLive": false,
-      "isFinished": false,
-      "homeScore": null,
-      "awayScore": null,
-      "homePenalties": null,
-      "awayPenalties": null
-    },
-    {
-      "home": "Portsmouth FC",
-      "away": "West Ham United FC",
-      "league": "Championship",
-      "date": "2026-11-24",
-      "time": "19:45 GMT",
+      "time": "20:00 GMT",
       "isLive": false,
       "isFinished": false,
       "homeScore": null,
@@ -160,19 +173,6 @@
     {
       "home": "Como 1907",
       "away": "PAE AEK",
-      "league": "UEFA Champions League",
-      "date": "2026-11-24",
-      "time": "20:00 GMT",
-      "isLive": false,
-      "isFinished": false,
-      "homeScore": null,
-      "awayScore": null,
-      "homePenalties": null,
-      "awayPenalties": null
-    },
-    {
-      "home": "Arsenal FC",
-      "away": "Borussia Dortmund",
       "league": "UEFA Champions League",
       "date": "2026-11-24",
       "time": "20:00 GMT",
